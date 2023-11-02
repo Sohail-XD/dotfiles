@@ -1,0 +1,44 @@
+Content
+
+
+        	Choose Tools - Options - Writer2xhtml - Content
+
+        
+Formulas
+
+Include as
+Select how to export formulas if you are not using XHTML+MathML or HTML5.
+Image with StarMath code: Export formulas as images
+		        with the original StarMath formula in the alt attribute.
+
+Image with LaTeX code:  Export formulas as images
+		        with LaTeX code in the alt attribute.
+
+StarMath code: Export the original StarMath code directly
+		        in the text.
+
+LaTeX code: Export LaTeX code directly in the text.
+
+
+Footnotes and endnotes
+
+
+Endnote heading
+In %PRODUCTNAME Writer, endnotes cannot have a heading. If you want to add
+        a heading for the endnotes in the exported document, enter the desired heading here.
+Footnote heading
+In %PRODUCTNAME Writer, footnotes (when used as endnotes) cannot have a heading.
+        If you want to add a heading for the footnotes in the exported document, enter the desired heading here.
+        This has no effect if footnotes are placed at the bottom of the page.
+Images
+
+Embed SVG images in the HTML document
+If you check this option, SVG images will be embedded directly
+        in the HTML document. Otherwise they will be included in a separate file. SVG images are only supported
+        in HTML5.
+
+Embed all images in the HTML document
+If you check this option, all images will be embedded directly
+        in the HTML document (base64 encoded). Otherwise they will be included in a separate file.
+        This is not recommended for documents with large images.
+

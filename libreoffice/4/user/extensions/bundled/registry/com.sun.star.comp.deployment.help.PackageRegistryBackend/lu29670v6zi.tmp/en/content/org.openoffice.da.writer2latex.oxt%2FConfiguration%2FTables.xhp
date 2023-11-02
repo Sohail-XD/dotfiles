@@ -1,0 +1,53 @@
+Tables
+Define how to convert tables
+
+        	Choose Tools - Options - Writer2LaTeX - Tables
+
+        
+
+Do not export tables
+Check this option to ignore all tables in the export.
+
+Use colortbl.sty (background color in cells)
+Check this if you want to apply background color to tables using the
+        package colortbl.sty. This option has no effect unless you also check Use color.sty on the page
+        Characters.
+
+Use tabulary.sty (automatic column width)
+Check this if tabulary.sty should be used to export tables.
+        This package determines column widths automatically which can be useful for tables with a lot of text in each cell.
+
+Use supertabular.sty (multipage tables)
+Check this to use the package supertabular.sty to export tables which may break
+        across pages.
+
+Use longtable.sty (multipage tables)
+Check this to use the package longtable.sty to export tables which may break
+        across pages.
+
+Style for first head
+This option is used to produce advanced tables, that are not supported in
+        %PRODUCTNAME Writer. Enter the name of a paragraph style, or select a style in the list.
+        If the first paragraph of the first cell in a row is formatted
+        with this paragraph style, the row in question will be used for the first head in a multipage table.
+
+Style for head
+Likewise this option specifies a paragraph style that identifies a
+        repeating head in a multipage table (like a normal table head in %PRODUCTNAME Writer).
+
+Style for foot
+This option specifies a paragraph style that identifies a repeating foot in a
+        multipage table.
+
+Style for last foot
+This option specifies a paragraph style that identifies the last foot in a
+        multipage table.
+
+Table sequence name
+This option can be set to a sequence name in the source document.
+        OpenDocument has a very weak sense of table captions: A table caption is a paragraph containing a sequence number.
+        If you use %PRODUCTNAME's defaults, Writer2LaTeX can guess which sequence name to use.
+        If it fails, you can type the name here, or select the name from the list. (Note that %PRODUCTNAME Writer has four
+        basic sequence names which always will be displayed in English here. These are Drawing, Illustration, Table, Text.)
+        Normally this field should be left empty.
+

@@ -1,0 +1,27 @@
+* {
+    border: none;
+    border-radius: 0px;
+    font-family: "Cantarell";
+    font-weight: BOLD;
+    font-size: 10px;
+    min-height: 0px;
+}
+
+window#waybar {
+    background: rgba(00, 00, 00, 00);
+}
+
+
+tooltip {
+    background: #1e1e2e;
+    color: #cdd6f4;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #11111b;
+}
+
+#tray {
+    padding-left: 0px;
+    padding-right: 0px;
+}

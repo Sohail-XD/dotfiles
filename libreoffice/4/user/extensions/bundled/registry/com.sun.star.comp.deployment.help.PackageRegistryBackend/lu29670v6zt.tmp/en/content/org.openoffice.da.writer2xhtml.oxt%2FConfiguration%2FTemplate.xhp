@@ -1,0 +1,84 @@
+Template
+Use this page to define an XHTML template to use as a basis for the
+        generated XHTML documents.
+
+        	Choose Tools - Options - Writer2xhtml - Template
+
+        
+
+Use custom XHTML template
+Check this if you want to define an XHTML template. Otherwise a default
+        template will be used.
+A template should be an ordinary XHTML file (do not include a DOCTYPE declaration)
+        with some special elements:
+An element with the id content is used to
+				fill the text content.
+		        If no such element exists, the body element is used. If there is no body element
+        		in the template, the root element is used.
+
+Elements with the id header or
+				footer (optional) will be filled with a simple navigation panel using a first/previous/next/last scheme
+				(for spreadsheet documents, sheet names are used for navigation).
+
+An element with the id panel (optional)
+				will be filled with a simple navigation panel using a table of contens-like scheme.
+
+
+You can change the names of the id attributes at the bottom of this page.
+The template must be well-formed XML. If this is not the case, an error message
+        is displayed below the template. A template with errors will be ignored in the export.
+A simple template including a header might look like this:
+
+<html>
+  <head>
+    <title/>
+  </head>
+  <body>
+    <div id='header'/>
+    <div id='content'/>
+  </body>
+</html>
+
+As the template does not include footer and panel nodes, these elements will not be included.
+        
+A template with all the elements, suitable for HTML5 might look like this:
+        
+
+<html>
+  <head>
+    <title/>
+  </head>
+  <body>
+    <header><nav id='header'/></header>
+    <aside><nav id='panel'/></aside>
+    <div id='content'/>
+    <footer><nav id='footer'/></footer>
+  </body>
+</html>
+
+The absolutely mininal template is this:
+
+<div/>
+
+The div-element will be used as the content container.
+        The generated document will not be a complete XHTML document (no html, head and
+        body nodes). It will however still be a well-formed XML file that can be handled with standard tools.
+        The use case for this is that you can produce XHTML fragments suitable for inclusion in e.g. a CMS.
+Make sure to check the option Do not include DOCTYPE in this case!
+
+Load...
+Click this to load a template from a file. This will overwrite the current contents
+        of the template.
+
+Content id
+Enter the id to use for the content node.
+
+Panel id
+Enter the id to use for the panel node.
+
+Header id
+Enter the id to use for the header node.
+
+Footer id
+Enter the id to use for the footer node.
+

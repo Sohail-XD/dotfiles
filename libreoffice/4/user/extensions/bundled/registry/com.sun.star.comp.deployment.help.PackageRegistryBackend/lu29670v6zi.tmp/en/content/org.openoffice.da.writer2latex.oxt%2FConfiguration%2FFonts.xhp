@@ -1,0 +1,34 @@
+Fonts
+Define the font packages to use in the exported LaTeX document
+
+        	Choose Tools - Options - Writer2LaTeX - Fonts
+
+        
+Font packages (not used for XeTeX)
+These options have no effect if the backend is XeTeX, which handles
+        fonts quite differently from "classic" LaTeX.
+
+Use pifont.sty (dingbats)
+Check this to use of symbol font Zapf Dingbats using the LaTeX package
+        pifont.sty.
+
+Use tipa.sty and tipax.sty (phonetic symbols)
+Check this to use phonetic symbols using the LaTeX packages
+        tipa.sty and tipx.sty.
+
+Use eurosym.sty (euro currency symbol)
+Check this to use the eurosym font using the LaTeX package
+        eurosym.sty. This package provides a slightly better euro symbol than standard LaTeX.
+
+Use wasysym.sty (various symbols)
+Check this to use the wasy symbol font using the LaTeX package
+        wasysym.sty.
+
+Use ifsym.sty (geometric shapes)
+Check this to use the ifsym symbol font using the LaTeX package
+        ifsym.sty.
+
+Use bbding.sty (metafont dingbats)
+Check this to use the bbding symbol font (a clone of Zapf Dingbats)
+        using the LaTeX package bbding.sty.
+

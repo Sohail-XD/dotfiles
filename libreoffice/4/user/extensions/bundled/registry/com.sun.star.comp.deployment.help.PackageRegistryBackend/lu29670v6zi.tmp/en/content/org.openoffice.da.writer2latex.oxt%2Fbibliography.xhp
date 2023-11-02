@@ -1,0 +1,113 @@
+
+Configuration of bibliography
+On this page you can configure the use of BibTeX as bibliography
+        database in %PRODUCTNAME Writer.
+
+        	Select Tools - Options - Writer2LaTeX toolbar - Bibliography
+
+        
+Using BibTeX as bibliography database
+%PRODUCTNAME Writer comes with a standard bibliography database.
+		Citations can be created from the content of the database.
+On the other hand, LaTeX traditionally stores bibliographic
+		information in the BibTeX database format.
+		The Writer2LaTeX toolbar enables you to use BibTeX databases directly in %PRODUCTNAME Writer.
+		With this feature you can create citations from a BibTeX file rather than from the standard bibliography database.
+		
+The following sections describe four different
+		ways to handle bibliograhic citations.
+Using the standard bibliography database
+If you want to use the standard tools in %PRODUCTNAME Writer
+		to manage and create citations, you should not make any settings to this page.
+		Upon export, Writer2LaTeX can convert to and format your citations with BibTeX.
+		You can enable this in the export dialog.
+		
+
+Use BibTeX as bibliography database
+Check this to enable the insertion of citations from BibTeX file(s)
+Check this to enable the use of BibTeX as bibliograhy database.
+You can then use the 
+		Writer2LaTeX toolbar to insert citations from BibTeX files.
+		Upon export, Writer2LaTeX can format your citations with BibTeX using the original BibTeX files.
+		You can enable this in the export dialog.
+
+BibTeX location
+Writer2LaTeX will look for BibTeX files in the location you define.
+In central folder: Select this option if you keep all your
+				BibTeX files in a central location.
+
+In subfolder of document folder: Select this option if you
+				want to use project-specific BibTeX files. For example using a folder named "bibliography" relative to the document
+				folder.
+
+In document folder: Select this option if you want to
+				keep your BibTeX files in the same folder as the document. Warning: In this case you should not use the
+				same name for the LaTeX file and the BibTeX file (your BibTeX file might be overwritten if you do).
+
+
+Select the type of location for your BibTeX files
+
+BibTeX folder
+Enter the path to the folder containing your BibTeX files, or select the folder
+		using the Browse-button.
+Enter the path to the folder containing the BibTeX files
+
+Click to select the path to the folder containing the BibTeX files
+
+File encoding
+Select the encoding of the BibTeX files (this will depend on your
+		BibTeX editor). If you use XeTeX as a backend, you should always use UTF-8.
+
+Convert Zotero citations
+Zotero
+			is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
+			Zotero provides a plugin for %PRODUCTNAME which permits you to insert citations from Zotero in your
+			%PRODUCTNAME Writer document using a selection of citation schemes.
+Check this if you want to convert Zotero citations to LaTeX.
+		This enables you to format the citations using a BibTeX style of your choice.
+		Also, the bibliography created by Zotero will be replaced with a BibTeX-generated bibliography.
+		If you do not check this option, the original
+		citation text inserted by Zotero will be used.
+Exporting your Zotero database to BibTeX
+To use this feature you must export your Zotero database to the specified
+		folder.
+The Writer2LaTeX distribution contains a folder named Zotero,
+		which contains a file called BibTeX-Writer2LaTeX.js. This file must be added to Zotero to provide a suitable
+		BibTeX export: In Zotero, choose Edit - Preferences - Advanced and click Show Data Directory.
+		Open the subfolder Translators, and copy BibTeX-Writer2LaTeX.js to this location.
+		Finally restart Zotero.
+You can now export your Zotero database: In Zotero, select
+		File - Export Library, and choose BibTeX (Writer2LaTeX) (not BibTeX).
+		Save the file in the folder, you have defined.
+Check this to convert Zotero citations to LaTeX
+
+Convert JabRef citations
+JabRef
+			is an open source bibliography reference manager using BibTeX as native file format.
+			
+			You can use JabRef to edit your BibTeX files.
+			In addition JabRef permits you to insert citations directly from JabRef in your %PRODUCTNAME Writer document
+			using a selection of citation schemes.
+Check this if you want to convert JabRef citations to LaTeX.
+		This enables you to format the citations using a BibTeX style of your choice.
+		Also, the bibliography created by JabRef will be replaced with a BibTeX-generated bibliography.
+		If you do not check this option, the original
+		citation text inserted by JabRef will be used.
+Check this to convert JabRef citations to LaTeX
+
+Include original citations as comments
+Check this if you want to include the original citations produced by Zotero or
+		JabRef as comments in the LaTeX source. This has no effect on the final result but might be helpful if you edit the LaTeX source.
+Check this to include the citations inserted by Zotero or JabRef as comments in the LaTeX source.
+Natbib
+
+Use natbib.sty
+To fully support the citations inserted by Zotero or JabRef you will need
+		the package natbib.sty. Check this if you want to take advantage of this package (the BibTeX style you use must be compatible
+		with natbib.sty).
+Check this to use the package natbib.sty for your citations
+
+Options
+Enter any options to the package natbib.sty here.
+Enter any options to the package natbib.sty here
+

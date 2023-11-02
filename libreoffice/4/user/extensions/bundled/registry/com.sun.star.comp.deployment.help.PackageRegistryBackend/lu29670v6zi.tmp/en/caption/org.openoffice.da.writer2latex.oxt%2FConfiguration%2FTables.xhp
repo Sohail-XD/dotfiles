@@ -1,0 +1,13 @@
+Tables
+Tables
+Do not export tables
+Use colortbl.sty (background color in cells)
+Use tabulary.sty (automatic column width)
+Use supertabular.sty (multipage tables)
+Use longtable.sty (multipage tables)
+Style for first head
+Style for head
+Style for foot
+Style for last foot
+Table sequence name
+

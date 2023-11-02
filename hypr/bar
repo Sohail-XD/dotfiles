@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# set the name of the application you want to open/close
+APP_NAME="eww"
+
+# check if the application is currently running
+if pgrep -x "$APP_NAME" > /dev/null
+then
+    # if the application is running, close it
+    echo "$APP_NAME is currently running. Closing..."
+    pkill "$APP_NAME"
+else
+    # if the application is not running, open it
+    echo "$APP_NAME is not currently running. Opening..."
+    eww open bar
+fi
+
+PPP_NAME="waybar"
+
+if pgrep -x "$PPP_NAME" > /dev/null
+then
+    echo "$PPP_NAME is currently running. Closing..."
+    pkill "$PPP_NAME"                                       
+else    
+    echo "$PPP_NAME is not currently running. Opening..."
+    sleep 5
+    waybar 
+fi

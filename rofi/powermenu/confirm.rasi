@@ -1,0 +1,85 @@
+/* Confirm Dialog */
+
+@import "styles/colors.rasi"
+
+* {
+    background-color:       @background;
+    text-color:             @foreground;
+	font:				 	"FantasqueSansMono Nerd Font 12";
+}
+
+window {
+    transparency:                   "real";
+    border-radius:          12px;
+    width:      			254px;
+    padding:    			20px;
+    border:					1px;
+    border-color:           @border;
+    location:               center;
+    y-offset:               -6em;
+}
+
+
+
+
+listview {
+    lines:							2;
+    margin:                         0px;
+    spacing:                        22px;
+    cycle:                          true;
+    dynamic:                        true;
+    layout:                         horizontal;
+}
+
+mainbox {
+    background-color:               @background;
+    children:                       [ listview ];
+}
+
+element {
+    background-color:               @background-alt;
+    text-color:                     @foreground;
+    orientation:                    vertical;
+    border-radius:                  12px;
+}
+
+element-text {
+    background-color: 				#00000000;
+    text-color:       				inherit;
+	font:							"feather 20";
+    expand:                         true;
+    horizontal-align:               0.5;
+    vertical-align:                 0.5;
+    margin:                         26px 26px 26px 26px;
+}
+
+element normal.urgent,
+element alternate.urgent {
+    background-color:               @urgent;
+    text-color:                     @background;
+    border-radius:                  10px;
+}
+
+element normal.active,
+element alternate.active {
+    background-color:               @background-alt;
+    text-color:                     @background;
+}
+
+element selected {
+    background-color:               @selected;
+    text-color:                     @border;
+    border:                  		0px;
+    border-radius:                  10px;
+    border-color:                  	@border;
+}
+
+element selected.urgent {
+    background-color:               @background;
+    text-color:                     @border;
+}
+
+element selected.active {
+    background-color:               @selected;
+    color:                          @border;
+}

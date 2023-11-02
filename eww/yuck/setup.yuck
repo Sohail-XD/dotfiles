@@ -1,0 +1,6 @@
+(defwindow media
+  :monitor 0 
+  :geometry (geometry :x "1%" :width "20%" :anchor "center left")
+  (media)
+)
+

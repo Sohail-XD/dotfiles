@@ -1,0 +1,57 @@
+Master styles
+Use this page to define how to export style information.
+
+        	Choose Tools - Options - Writer2xhtml - Master styles
+
+        
+Style mappings
+For each %PRODUCTNAME Writer style you can define a corresponding XHTML element
+        and CSS style.
+
+Style family
+Select the %PRODUCTNAME Writer style family. Note that headings and other
+        paragraphs are handled separately.
+
+Style name
+Select a style name from the list
+
+New...
+Click to add a new style name to the list. Type a name or select a style name
+        from the list.
+
+Delete...
+Click this to delete the current style name from the list.
+
+XHTML element
+Enter the name of an XHTML element or select one from the list.
+
+CSS class
+Enter the name of a CSS class. If you leave this field empty, the
+        class attribute will not be set.
+
+Before
+The text you enter here will be added to the beginning of
+        each paragraph formatted with this style.
+
+After
+The text you enter here will be added to the end of
+        each paragraph formatted with this style.
+
+Block XHTML element
+This is only valid for paragraphs and headings.
+For paragraphs this element is used as a container for a sequence of paragraphs
+        with the same paragraph style. As an example: For the paragraph style Quotations you can set the XHTML element to
+        p and the block XHTML element to blockquote. This will convert a sequence of paragraphs with the
+        Quotations style to a block quote. You can leave the field empty if you do not need it.
+For headings the block XHTML element is used for the entire heading, whereas the
+        XHTML element is used for the text content (without the label).
+
+Block CSS class
+Enter the name of a CSS class for the block element. If you leave the field empty, the
+        class attribute will not be set.
+
+Load default mappings...
+Writer2xhtml comes with a set of default style mappings corresponding to
+        some of the predefined styles in %PRODUCTNAME Writer. Click this button to add these mappings to the current set. You will get
+        a warning if this will overwrite one or more existing mappings.
+

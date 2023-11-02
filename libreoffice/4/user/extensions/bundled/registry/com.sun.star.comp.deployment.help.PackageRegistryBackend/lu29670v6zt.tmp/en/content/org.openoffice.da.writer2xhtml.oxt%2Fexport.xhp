@@ -1,0 +1,156 @@
+
+XHTML Export (Writer)
+Exports the current document to XHTML format.
+
+        	Choose File - Export - XHTML 1.0 strict
+
+        	or File - Export - XHTML 1.1
+
+        	or File - Export - XHTML 1.1 + MathML 2.0
+
+        	or File - Export - HTML5
+
+        	or click the HTML5-button
+ in the toolbar
+        
+Style
+
+Select the style to use for the XHTML document
+Use style
+This option allows you to choose between various styles to apply to the
+        	XHTML document.
+
+Original formatting produces an XHTML document which uses
+					the same style as the original document. The document will look quite similar to the original when viewed
+					in a browser.
+
+
+Chocolate, Midnight, Modern, Oldstyle, Steely, Swiss, Traditional
+				and Ultramarine formats the document with one of the
+				8 core styles provided by the World Wide Web Consortium.
+
+Custom is a user defined format. You can define your own
+				style by providing a CSS style sheet and a mapping from Writer styles to your CSS styles.
+				 To configure the custom format, choose Tools - Options - Writer2xhtml.
+
+
+Expert users can extend the list with further formats using
+        	configuration packages. See the documentation on the
+        	web site for Writer2xhtml.
+
+
+Select a scaling to apply to all dimensions in the document
+Scaling
+
+Viewing the document in a web browser may require different dimensions
+        	(e.g. font sizes) than the original document.
+
+Using this option you can define a percentage used to scale all
+        	dimensions. Thus with the setting 140, all dimensions will be 40% larger than in the original document. Depending on the
+        	style you have selected and on the setting for image size below, some dimensions may be unaffected by
+        	this option.
+
+
+Select a scaling to apply to all column dimensions in the document
+Column scaling
+This is a similar option, which only affects table columns. Thus you can further
+        	widen or narrow the columns of the tables if you wish.
+
+
+Check this if you want to convert all units to px rather than using the original units
+Convert units to px (pixels)
+
+In %PRODUCTNAME, font sizes are usually given in points and other dimensions
+    	    in e.g. cm or inches.
+
+For XHTML it is recommended to use the unit px instead, and using this option you can require that
+        	all dimensions are converted to px.
+
+If you choose not to check this option, the original units will always be used.
+
+
+Check this to use the natural size of images rather than the size defined in the document
+Use original image size
+Often images in a %PRODUCTNAME document are scaled up or down from their original size.
+    	    Normally the same scaling will be used in the exported document, but if you select this option, the original (unscaled) image
+        	size will be used.
+
+Special content
+
+
+Check this if you want to export notes (annotations) in the document
+Export notes
+
+If you select this option, notes (also known as annotations) in the
+        	%PRODUCTNAME document are exported as comments in the XHTML document. They will not be directly visible in the browser,
+	        only in the XHTML source. If the option is not selected, notes are completely ignored.
+
+
+Check this if you want to export all meta data (using the Dublin Core standard)
+Export document properties (Dublin Core Meta data)
+If you select this option, the document properties (File – Properties)
+        	are exported using
+			the Dublin Core standard.
+
+AutoCorrect
+
+Ignore hard line breaks
+Check this if you don't want to export hard (manual) line breaks
+Sometimes hard (or manual) line breaks are used in Writer to optimize
+        the placement of the line breaks. Since line breaking in a browser is completely different, you may want to ignore
+        all hard line breaks by selecting this option.
+
+Check this if you don't want to export empty paragraphs
+Ignore empty paragraphs
+Empty paragraphs are sometimes used a simple means to create vertical
+        	spacing in Writer. In a well-structured document, an empty paragraph is probably a mistake. Hence you can select
+        	this option to ignore empty paragraphs in the document in the export.
+
+
+Check this to treat several spaces as a single space in the export
+Ignore double spaces
+For similar reasons you can choose to ignore two or more spaces in a
+        	row using this option.
+
+Files
+
+
+Split document at headings
+Check this to create a new document for each heading
+To make a long Writer document easier to read in the browser, you can use
+        this option to split the document in several small files.
+Writer2xhtml will add a simple navigation panel that lets you
+        move between pages. The navigation links will be in the same language as the document (as defined
+        under Tools – Options – Language Settings – Languages).
+Note that this option has no effect for headings
+        inside tables.
+
+Select the heading level at which the spliting should occur
+Heading level
+If you have chosen to split the document at headings, you can use this option
+        	to define at which level splitting should occur. For example 2 to split the document at all headings of level 1 or 2.
+
+
+Repeat heading levels
+Select the number of heading levels to repeat at the top of new documents
+To help the reader to identify the current position within the document,
+        you can use this option to repeat the parent headings whenever the document is split. If you for example split at
+        headings of level 3 and set this option to 2, the headings of level 1 and 2 will be repeated before the heading of level 3,
+        providing precise information as to where in the document the section belongs.
+
+Check this to save images in a subdirectory relative to the exported document
+Save images in subdirectory
+Writer2xhtml normally saves images associated with the document in the same
+        	directory as the XHTML document. If the document contains a large number of images it may be more convenient to save the
+        	images in a separate subdirectory. This option will create a subdirectory with the same name as the XHTML document to
+        	store the images.
+
+
+Check this to load the JavaScript library MathJax for viewing mathematical content
+Use MathJax
+MathJax is a JavaScript library for displaying mathematical content in web pages.
+        	Using MathJax ensures that your mathematical content will display correctly in most browsers.
+        	This includes formulas created with the extension TexMaths.
+        	This option is only available if you export to XHTML 1.1+MathML 2.0 or HTML5.
+
+

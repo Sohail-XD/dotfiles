@@ -1,0 +1,36 @@
+LaTeX Export
+LaTeX Export
+General
+LaTeX format
+Backend
+Encoding
+Enable multilingual support
+Font
+Use greek letters as symbols
+Support additional symbols
+Bibliography
+Use BibTeX for bibliography
+BibTeX style
+Files
+Wrap long lines
+After characters
+Split document at linked sections
+Split document at top level sections
+Save images in subdirectory
+Special content
+Export notes
+Export document properties (metadata)
+Display hidden text
+Figures and tables
+Use original image size
+Optimize simple tables
+Maximum width in characters
+Float tables
+Float figures
+Float placement
+AutoCorrect
+Ignore hard page breaks
+Ignore hard line breaks
+Ignore empty paragraphs
+Ignore double spaces
+

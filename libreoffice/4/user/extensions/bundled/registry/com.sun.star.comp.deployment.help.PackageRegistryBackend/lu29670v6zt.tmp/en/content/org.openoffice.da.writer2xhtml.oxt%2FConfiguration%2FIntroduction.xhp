@@ -1,0 +1,14 @@
+Custom style
+Define a custom style for the XHTML export
+
+        	Choose Tools - Options - Writer2xhtml
+
+        
+
+Writer2xhtml comes with a number of predefined styles.
+        A style defines technical aspects of the generated XHTML styles, in particular the export of formatting.
+        Advanced users can define their own custom style. You can for example use the custom style to create XHTML documents that
+        takes advantage of your own CSS style sheet.
+        This requires some knowledge of XHTML and CSS.
+To use the custom style, choose Custom in the export dialog.
+

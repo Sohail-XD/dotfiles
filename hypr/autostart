@@ -1,0 +1,22 @@
+#!/usr/bin/bash
+#gtklock
+# variables
+config=$HOME/.config/hypr
+scripts=$config/scripts
+
+#swww init
+export PATH="$HOME/.local/bin:$PATH"
+#swww img /home/second/.config/hypr/walls/8351249.gif --transition-type grow --transition-pos "$(hyprctl cursorpos)" --transition-duration 2
+
+# #$#config/wall & #
+#sleep 10s && waybar
+syncthing-gtk &
+nm-applet &
+swaync &
+/usr/lib/kdeconnectd &
+kdeconnect-indicator &
+pipewire &
+sleep 2 && ags &
+bash ~/.config/hypr/wall &
+sleep 5 && qbittorrent
+#swaylock

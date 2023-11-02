@@ -1,0 +1,48 @@
+Characters
+Define how to convert character formatting
+
+        	Choose Tools - Options - Writer2LaTeX - Characters
+
+        
+Character formatting packages
+
+Use hyperref.sty (support for hyperlinks)
+Check this if you want to export hyperlinks using the LaTeX package
+        hyperref.sty. As a side effect this package will create links for cross references etc.
+
+Use color.sty (color support)
+Check this if you want color support (text color only) using the
+        LaTeX package color.sty.
+
+Use ulem.sty (underline and strike out text)
+Check this to support underlined and striked out text using the LaTeX
+        package ulem.sty. Note that this does not work well for longer passages of text. Writer2LaTeX will never export
+        underline and strike out for entire paragraphs.
+
+Formatting attributes
+For some formatting attributes you can directly control the generated LaTeX
+        code.
+Formatting attribute
+Select the formatting attribute:
+Bold: Boldface text
+
+Italics: Italics text
+
+Small caps: Text formatted as small caps.
+
+Superscript: Text formatted as superscript.
+
+Subscript: Text formatted as subscript.
+
+
+
+Apply custom LaTeX code
+Check this if you want to define custom LaTeX code for the currently selected
+        attribute. Otherwise Writer2LaTeX will use default code, e.g. \textbf for boldface text.
+
+LaTeX code before
+Enter the LaTeX code to add before the text, e.g. \emph{
+
+LaTeX code after
+Enter the LaTeX code to add after the text, e.g. }
+

@@ -1,0 +1,14 @@
+(defwidget menu []
+  (box 
+    :class "menu"
+    :space-evenly false
+    :orientation "v"
+    :spacing 15
+    (mclock)
+    (cal)
+    (weather)
+    (system)
+    (box :class "separator" :height 2 :hexpand true)
+    (profile)
+  )
+)

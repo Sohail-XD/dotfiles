@@ -1,0 +1,27 @@
+#!/usr/bin/bash
+TEMP=/tmp/current_wall
+
+files=(~/.config/hypr/walls/*)
+
+hypr=~/.config/hypr
+
+cooldown=0.1
+
+
+while true
+do
+    case "$1" in
+        "cycle")
+            index=$(cat $TEMP)
+            index=$((index+1))
+            if [ $index -ge ${#files[@]} ]; then
+                index=0
+            fi
+            echo $index > $TEMP
+            $hypr/wall "${files[$index]}"
+            exit 0
+            ;;
+    esac
+    sleep $cooldown
+done
+

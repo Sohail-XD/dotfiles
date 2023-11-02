@@ -1,0 +1,37 @@
+Figures
+Define how to convert figures
+
+        	Choose Tools - Options - Writer2LaTeX - Figures
+
+        
+General
+
+Use caption.sty to format captions (also for tables)
+Check this to take advantage of the LaTeX package caption.sty.
+        Currently Writer2LaTeX only uses the support for non-floating captions from this package.
+        This applies to all captions (figure and table captions).
+
+Center figures
+If you check this, all graphics and text boxes will be centered.
+        Otherwise standard formatting is applied (this normally means that they will appear flush left).
+
+Figure sequence names
+This option can be set to a sequence name in the source document.
+        OpenDocument has a very weak sense of figure captions: A figure caption is a paragraph containing a sequence number.
+        If you use %PRODUCTNAME's defaults, Writer2LaTeX can guess which sequence name to use.
+        If it fails, you can type the name here, or select the name from the list. (Note that %PRODUCTNAME Writer has four
+        basic sequence names which always will be displayed in English here. These are Drawing, Illustration, Table, Text.)
+        Normally this field should be left empty.
+Graphics
+
+Do not export graphics
+Check this to ignore all graphics in the export.
+
+Omit file extension
+Check this to export file names for images without file extension.
+        You will thus get eg. \includegraphics{myimage} rather than \includegraphics{myimage.png}.
+
+Graphic options
+Type any options that should be applied to all images
+        (ie. all \includegraphics commands). For example width=\linewidth.
+

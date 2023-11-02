@@ -1,0 +1,18 @@
+Introduction to Writer2xhtml
+The Writer2xhtml is a tool for publishing web content
+        and electronic books from %PRODUCTNAME Writer.
+        Using Writer2xhtml you will be able to author well-structured XHTML and EPUB documents using (almost)
+        the full power of %PRODUCTNAME Writer.
+Writer2xhtml has two modes of operation
+You can use Writer2xhtml as an export filter.
+		        It adds XHTML and EPUB formats to the File - Export 
+		        menu.
+		        
+
+You can publish directly to XHTML or EPUB
+		        and view the result using the provided
+		        toolbar.
+		        
+
+
+

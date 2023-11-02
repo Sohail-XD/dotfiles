@@ -1,0 +1,51 @@
+Menu and toolbar
+Using Writer2xhtml as an export filter
+File - Export
+Writer2xhtml adds a number of entries to the File - Export 
+        menu in Writer
+XHTML 1.0 strict [Writer2xhtml]
+
+XHTML 1.1 [Writer2xhtml]
+
+XHTML 1.1 + MathML 2.0 [Writer2xhtml]
+
+HTML5 [Writer2xhtml]
+
+EPUB [Writer2xhtml]
+
+EPUB 3 [Writer2xhtml]
+
+
+It further adds a number of entries to the File - Export 
+        menu in Calc
+XHTML 1.0 strict [Writer2xhtml]
+
+XHTML 1.1 [Writer2xhtml]
+
+HTML5 [Writer2xhtml]
+
+
+Using the Writer2xhtml toolbar
+Writer2xhtml adds a toolbar in Writer and Calc,
+        providing the following commands. You can configure the behavior of the toolbar.
+Publish to XHTML
+
+Convert the document to a web page in XHTML format
+        and display the result in the default browser.
+Publish the current document as an XHTML file
+Publish to EPUB (Writer only)
+
+Convert the document to and electronic book in EPUB format
+        and display the result in the default EPUB viewer.
+        
+Publish the current document as an EPUB file
+Edit EPUB document properties (Writer only)
+
+Electronic books in EPUB format supports a complex set of
+        document properties. This function brings up a dialog to edit the properties.
+Edit the EPUB document properties of the current document
+Edit custom style
+
+Edit the custom export style. This style is used if you select
+        Custom as style in the export dialog.
+

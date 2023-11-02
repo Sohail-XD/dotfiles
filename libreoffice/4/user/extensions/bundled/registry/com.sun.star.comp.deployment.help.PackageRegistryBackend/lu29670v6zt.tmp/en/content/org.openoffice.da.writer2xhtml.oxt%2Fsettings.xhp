@@ -1,0 +1,67 @@
+
+Writer2xhtml Toolbar Settings
+
+        	Select Tools - Options - Writer2xhtml toolbar - Settings
+
+        
+XHTML Export
+Use these settings to configure the behavior of the XHTML export button in the toolbar.
+
+Select the XHTML format to use when clicking the XHTML export button in the toolbar
+Format
+Select an XHTML format in the list. This format will be used when you click the XHTML
+        export button in the toolbar. The default format is HTML5.
+
+Choose the desired behavior after export
+After export
+After export, Writer2xhtml can display the result in a web browser.
+        Choose the desired behavior in the list.
+Do nothing if you do not want to view the result after export
+
+Open with default web browser if you view the result using your 
+				system's default web browser
+				
+
+Open with custom application if you want to view the result using an application
+				of your choice.
+
+
+
+Enter the full path to the application you wish to use
+Application
+Enter the full path to the application you wish to use.
+
+Browse for the application
+Browse...
+Click this to open a file dialog, where you can browse for the application.
+EPUB Export
+Use these settings to configure the behavior of the EPUB export button in the toolbar.
+
+Select the EPUB format to use when clicking the EPUB export button in the toolbar
+Format
+Select an EPUB format in the list. This format will be used when you click the EPUB
+        export button in the toolbar. The default format is EPUB 3.
+
+Choose the desired behavior after export
+After export
+After export, Writer2xhtml can display the result in an EPUB reader.
+        Choose the desired behavior in the list.
+Do nothing if you do not want to view the result after export
+
+Open with default web browser if you view the result using your 
+				system's default EPUB reader.
+				
+
+Open with custom application if you want to view the result using an application
+				of your choice.
+
+
+
+Enter the full path to the application you wish to use
+Application
+Enter the full path to the application you wish to use.
+
+Browse for the application
+Browse...
+Click this to open a file dialog, where you can browse for the application.
+

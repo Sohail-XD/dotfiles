@@ -1,0 +1,65 @@
+
+Configuration of applications
+On this page you can configure the interaction between Writer2LaTeX
+        and your LaTeX distribution as well as viewers for the different output formats.
+
+        	Select Tools - Options - Writer2LaTeX toolbar - Applications
+
+        
+Prerequisites
+This requires that you have installed certain software on your system.
+
+Choose the desired behavior after export
+After Export
+After Export, Writer2LaTeX can build the result with LaTeX and display the final document in a viewer. Choose the desired behavior in the list.
+Do nothing will only export the document to LaTeX
+
+Build with LaTeX will build the converted document with LaTeX to produce the final result in DVI, PDF or PostScript format
+
+Build with LaTeX and view result will display the final result in a DVI, PDF or PostScript viewer
+
+
+
+Automatic Configuration
+If you click this button, Writer2LaTeX will try to locate the external programs
+		and configure them. You will be presented with a short report of the results. Any applications that Writer2LaTeX cannot find for
+		you should be configured manually.
+Click here to let Writer2LaTeX configure your external applications automatically
+
+Application
+Select the external application you wish to configure in the list.
+The available applications are:
+PdfLaTeX: The pdflatex executable (used if you select PDF as your backend format)
+
+LaTeX: The latex executable (used for other backend formats)
+
+Dvips: The DVI to PostScript converter dvips (used if you select PostScript as your backend format)
+
+BibTeX: The bibtex executable (used if your document contains a bibliography)
+
+MakeIndex: The makeindex executable (used if your document contains an alphabetical index)
+
+DVI Viewer: Application to view DVI files
+
+PDF Viewer: Application to view PDF files
+
+PostScript Viewer: Application to view PostScript files
+
+
+Select the external application you wish to configure here
+
+Use the system's default application
+Select this if you wish to use the default application to view files
+		of the selected type.
+Select this to use the default application to view files of the selected type
+
+Executable
+Type the full path to the executable or click Browse to find
+		the executable in your file system
+Type the full path to the executable here or find it using the Browse button
+
+Options
+Fill out any additional options here. Often you will only need the file name,
+		which is denoted %s.
+Fill out any additional options here, using %s to represent the file name
+

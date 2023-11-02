@@ -1,0 +1,25 @@
+Documentclass
+Define the documentclass for the LaTeX document
+
+        	Choose Tools - Options - Writer2LaTeX - Documentclass
+
+        
+
+Do not include preamble
+If you check this option, Writer2LaTeX will not create the a LaTeX preamble,
+        nor include \begin{document} and \end{document}. This is useful if the document is to be included in another LaTeX document.
+        Note that in this case you will have to make sure that all packages/definitions needed are available in the master
+        LaTeX document.
+
+Documentclass
+Type the name of the LaTeX documentclass to use (e.g.
+        article, book).
+
+Global options
+Type a list of global options to add to the documentclass, e.g. landscape
+        to get \documentclass[landscape]{article}.
+
+Custom preamble
+The text you type here will be copied verbatim into the LaTeX preamble.
+        For example \usepackage{palatino} to typeset your document using the postscript font Palatino.
+

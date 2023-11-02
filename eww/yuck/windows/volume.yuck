@@ -1,0 +1,24 @@
+(defwidget volume-popup []
+  (box
+    :class "volume_pop"
+    :hexpand true
+    (overlay
+      (box
+        :class "scale"
+        (scale
+          :min 0 
+          :max 101
+          :value {volume == "muted" ? 0 : volume}
+        )
+      )
+      (label
+        :halign "start"
+        :text {volume == 0 || volume == "muted" ? "" : 
+        volume < 30 ? "" : 
+        volume < 75 ? "" : ""} 
+        :style {volume == "muted" || volume == 0 ? "color: #dd6777;" : 
+        volume < 15 ? "color: #cacaca;" : "color: #191919;"}
+      )
+    )
+  )
+)

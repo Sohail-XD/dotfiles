@@ -1,0 +1,76 @@
+
+XHTML Export (Calc)
+Exports the current document to XHTML format.
+
+        	Choose File - Export - XHTML 1.0 strict
+
+        	or File - Export - XHTML 1.1
+
+        	or File - Export - HTML5
+
+        	or click the HTML5-button
+ in the toolbar
+        
+
+Select the style to use for the XHTML document
+
+Custom is a user defined format.
+				To configure the custom format, choose Tools - Options - Writer2xhtml.
+
+
+
+Select a scaling to apply to all dimensions in the document
+
+Select a scaling to apply to all column dimensions in the document
+
+Check this if you want to convert all units to px rather than using the original units
+
+Check this to use the natural size of images rather than the size defined in the document
+
+Check this if you want to export notes (annotations) in the document
+
+Check this if you want to export all meta data (using the Dublin Core standard)
+Sheets
+
+Check this to display all sheets, even if they are hidden
+Display hidden sheets
+If you have chosen to hide some sheets in %PRODUCTNAME Calc, you can select this
+        option if you want to display them in the XHTML document anyway.
+
+Check this to display all rows and columns, even if they are hidden
+Display hidden rows and columns
+The same applies, if you have chosen to hide some columns or rows in your
+        spreadsheet.
+
+Check this to display all rows and columns, even if they are filtered
+Display filtered rows and columns
+When you export the document, some rows or columns may be invisible because
+        you have applied a filter in %PRODUCTNAME Calc. If you select this option, the invisible rows and columns will be exported
+        to XHTML anyway.
+
+Check this to export the print ranges rather than the complete contents of the sheets
+Apply print ranges
+If you check this option, the XHTML document will display the parts of the document
+        which are selected for printing using print ranges in %PRODUCTNAME Calc. The display in the browser will thus be similar
+        to what you get when you are printing the document from %PRODUCTNAME Calc. If the option is not checked, the result will instead resemble
+        what you see when you edit the document in %PRODUCTNAME Calc.
+
+Check this to insert the document title as a heading
+Use title as heading
+Use sheet names as headings
+If you check this option, Calc2xhtml will insert the document title
+        (File – Properties – Description – Title) as heading at the top of the XHTML document.
+
+Check this to insert the sheet name as a heading above each sheet
+Use sheet names as headings
+If you check this option, Calc2xhtml will insert the name of each sheet
+        as a heading above the sheet in the XHTML document.
+
+Check this to create a separate file for each sheet
+Save sheets in separate files
+If you select this option, Calc2xhtml will produce a separate file for
+        each sheet, otherwise all sheets will be exported to the same XHTML file. In any case, a simple navigation panel showing
+        all sheet names will be added.
+
+Check this to save images in a subdirectory relative to the exported document
+

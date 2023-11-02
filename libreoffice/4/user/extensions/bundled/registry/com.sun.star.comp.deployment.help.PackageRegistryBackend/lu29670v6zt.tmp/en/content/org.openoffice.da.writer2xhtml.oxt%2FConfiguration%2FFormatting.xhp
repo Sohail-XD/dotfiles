@@ -1,0 +1,70 @@
+Formatting
+Use this page to define how much formatting to export.
+
+        	Choose Tools - Options - Writer2xhtml - Formatting
+
+        
+
+Formatting
+This is used to specify how much text formatting
+        (character, paragraph and list formatting) to export.
+Convert all: Convert all supported formatting to CSS
+
+Ignore styles: Convert hard formatting but not formatting
+		        by styles. Use this value if you use a custom style sheet, but still want to be able to add some hard formatting
+		        (eg. a centered paragraph, some bold text etc.).
+
+Ignore hard formatting: Convert formatting by styles, but
+		        no hard formatting (except as given by
+		        attribute style
+		        mappings).
+		        Use this if the document is well structured using styles, so that any hard formatting should be considered
+		        an error.
+
+Ignore all: Convert no formatting at all. Use this value
+		        if you use a custom stylesheet and the document is well structured using styles, so that any hard formatting should
+		        be considered an error.
+
+
+
+Frame formatting
+This is used for the same purpose, but affects frame formatting only.
+
+Convert section formatting
+Check this if you want to export section formatting (background, margins).
+
+Convert table formatting
+Check this if you want to export table formatting.
+
+Ignore table dimensions
+Check this if you do not want table dimensions (table width, column width and
+        row height) to be exported, but want to leave the layout of the tables to the browser.
+
+List formatting
+Choose how to export list formatting.
+Use CSS1: List formatting is exported using CSS1.
+		        This only provides basic support for list labels, and currently the browsers default indentations are used.
+
+Use CSS1 and non-standard lists: This value is used to fix a
+		        problem with continued lists. If you select this value, Writer2xhtml will export a list that continues on level 2 or below
+		        like
+<ol><ol><li>...</li></ol></ol>
+This is not valid in XHTML, but works in browsers.
+				Also two deprecated attributes are used to continue numbering.
+
+Use hard labels: If select this value, list labels are
+		        exported as part of the text. This adds full support for list labels (e.g. labels of the form 1.2.3). Unlike the other
+		        values indentations of the list are exported as well.
+
+
+
+Maximum text width
+In this field you can give a maximum width (like e.g. 800px)
+        for the exported text, which may enhance the readability. You can use any unit defined in CSS.
+        If the browser window is wider than this, the text will be centered with suitable margins. 
+        Leave the field blank if you want the text to occupy the full width of the browser window.
+
+Create separate style sheet
+Check this if you want to create a separate CSS file in the export.
+        Otherwise the CSS code will be exported embedded in the XHTML document(s).
+

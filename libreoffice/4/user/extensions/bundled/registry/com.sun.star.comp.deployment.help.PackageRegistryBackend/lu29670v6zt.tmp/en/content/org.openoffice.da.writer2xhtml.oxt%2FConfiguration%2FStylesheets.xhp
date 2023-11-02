@@ -1,0 +1,49 @@
+Style sheets
+Use this page to provide your own style sheets for the exported documents.
+
+        	Choose Tools - Options - Writer2xhtml - Style sheets
+
+        
+Custom style sheets
+The custom style sheet can either be an embedded style sheet for the EPUB
+        export or a linked style sheet for the XHTML export.
+
+Insert link to custom style sheet (XHTML export)
+Check this to link to your own, external CSS style sheet.
+        For more advanced solutions (eg. different style sheets for screen viewing and printing) you can use an
+        XHTML template.
+
+URL
+Enter the URL for the style sheet.
+
+Include custom style sheet (EPUB export)
+Check this to include a custom style sheet in the EPUB document.
+
+Custom style sheet
+Enter the CSS code for your custom style sheet here.
+
+Load...
+Click to load the style sheet from a file.
+        This will create a copy of the original file. If you change, move or delete the original file, nothing
+        will happen to the style sheet. If you want to update the style sheet with a new version of the original file, click
+        this button again.
+
+Style resources
+This is a list of resource files to include with the custom style sheet.
+        You can refer to these files from your style sheet. The reference should be by file name only, as the resource files
+        are placed in the same directory as the style sheet. For example:
+body { background-image:url('myimage.jpg'); }
+Note that changes to this list will not be undone if
+        you click Cancel.
+
+New...
+Click this to add a new resource file to the list. Select the file and press
+        Open (On some systems you can select more than one file).
+        This will create a copy of the original file. If you change, move or delete the original file, nothing
+        will happen to the resource file. If you want to update the resource file with a new version of the original file, click
+        this button again.
+
+Delete...
+Click this to delete the currently selected resource file from the list.
+        This will not affect the original file.
+

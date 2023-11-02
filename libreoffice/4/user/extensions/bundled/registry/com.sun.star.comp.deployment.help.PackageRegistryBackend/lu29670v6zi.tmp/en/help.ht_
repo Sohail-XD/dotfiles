@@ -1,0 +1,57 @@
+39 org.openoffice.da.writer2latex.oxt%3AConfigurationOptions 49 Fill out any additional options here, using %s to represent the file name
+3c org.openoffice.da.writer2latex.oxt%3AConfigurationExecutable 4c Type the full path to the executable here or find it using the Browse button
+2f org.openoffice.da.writer2latex.oxt%3AUseDefault 4d Select this to use the default application to view files of the selected type
+3c org.openoffice.da.writer2latex.oxt%3AConfigurationAutoButton 51 Click here to let Writer2LaTeX configure your external applications automatically
+3d org.openoffice.da.writer2latex.oxt%3AConfigurationApplication 3a Select the external application you wish to configure here
+30 org.openoffice.da.writer2latex.oxt%3AAfterExport 28 Choose the desired behavior after export
+3e org.openoffice.da.writer2latex.oxt%3ABibliographyNatbibOptions 30 Enter any options to the package natbib.sty here
+47 org.openoffice.da.writer2latex.oxt%3ABibliographyConvertJabRefCitations 2f Check this to convert JabRef citations to LaTeX
+40 org.openoffice.da.writer2latex.oxt%3ABibliographyBibTeXDirButton 42 Click to select the path to the folder containing the BibTeX files
+3a org.openoffice.da.writer2latex.oxt%3ABibliographyUseNatbib 3b Check this to use the package natbib.sty for your citations
+3a org.openoffice.da.writer2latex.oxt%3ABibliographyBibTeXDir 38 Enter the path to the folder containing the BibTeX files
+49 org.openoffice.da.writer2latex.oxt%3ABibliographyIncludeOriginalCitations 61 Check this to include the citations inserted by Zotero or JabRef as comments in the LaTeX source.
+3f org.openoffice.da.writer2latex.oxt%3ABibliographyBibTeXLocation 31 Select the type of location for your BibTeX files
+47 org.openoffice.da.writer2latex.oxt%3ABibliographyConvertZoteroCitations 2f Check this to convert Zotero citations to LaTeX
+47 org.openoffice.da.writer2latex.oxt%3ABibliographyUseExternalBibTeXFiles 43 Check this to enable the insertion of citations from BibTeX file(s)
+2f org.openoffice.da.writer2latex.oxt%3ABibTeXEdit 34 Click to edit the current file in your BibTeX editor
+2e org.openoffice.da.writer2latex.oxt%3ABibTeXNew 21 Click to create a new BibTeX file
+30 org.openoffice.da.writer2latex.oxt%3ABibTeXClose 19 Click to close the dialog
+31 org.openoffice.da.writer2latex.oxt%3ABibTeXUpdate 2d Click to update the content of all references
+31 org.openoffice.da.writer2latex.oxt%3ABibTeXInsert 30 Click to insert a reference to the current entry
+30 org.openoffice.da.writer2latex.oxt%3ABibTeXEntry 17 Select the entry to use
+31 org.openoffice.da.writer2latex.oxt%3ABibTeXReload 20 Click to reload the BibTeX files
+2f org.openoffice.da.writer2latex.oxt%3ABibTeXFile 1d Select the BibTeX file to use
+3e org.openoffice.da.writer2latex.oxt%3AOptionsIgnoreDoubleSpaces 47 Check this if you don't want to export two consecutive space characters
+41 org.openoffice.da.writer2latex.oxt%3AOptionsIgnoreEmptyParagraphs 37 Check this if you don't want to export empty paragraphs
+40 org.openoffice.da.writer2latex.oxt%3AOptionsIgnoreHardPageBreaks 39 Check this if you don't want to export manual page breaks
+36 org.openoffice.da.writer2latex.oxt%3ADisplayHiddenText 4e Check this if you want to export text that is currently hidden in the document
+3c org.openoffice.da.writer2latex.oxt%3AOptionsSimpleTableLimit 56 Enter the maximum width in characters of tables that should have optimized their width
+34 org.openoffice.da.writer2latex.oxt%3AOptionsMetadata 47 Check this if you want to export meta data associated with the document
+37 org.openoffice.da.writer2latex.oxt%3AOptionsFloatTables 32 Check this to allow tables to flow in the document
+31 org.openoffice.da.writer2latex.oxt%3AOptionsNotes 2a Select how to export notes in the document
+3e org.openoffice.da.writer2latex.oxt%3AOptionsSaveImagesInSubdir 38 Check this to save the images in a separate subdirectory
+32 org.openoffice.da.writer2latex.oxt%3AOptionsConfig 30 Select the general format for the LaTeX document
+33 org.openoffice.da.writer2latex.oxt%3AOptionsBackend 30 Select the final format of the exported document
+38 org.openoffice.da.writer2latex.oxt%3AOptionsMultilingual 43 Check this if your document contains text in more than one language
+38 org.openoffice.da.writer2latex.oxt%3AOptionsFloatOptions 2f Select placement of floating tables and figures
+29 org.openoffice.da.writer2latex.oxt%3AFont 31 Select a font scheme to use in the LaTeX document
+3d org.openoffice.da.writer2latex.oxt%3AOptionsOriginalImageSize 66 Select this option to use the original image size (the size specified in the document will be ignored)
+35 org.openoffice.da.writer2latex.oxt%3AOptionsGreekMath 40 Check this treat greek characters as symbols rather than as text
+40 org.openoffice.da.writer2latex.oxt%3AOptionsIgnoreHardLineBreaks 39 Check this if you don't want to export manual line breaks
+38 org.openoffice.da.writer2latex.oxt%3AOptionsFloatFigures 33 Check this to allow figures to flow in the document
+40 org.openoffice.da.writer2latex.oxt%3AOptionsOptimizeSimpleTables 2a Check this to optimize the width of tables
+3d org.openoffice.da.writer2latex.oxt%3AOptionsAdditionalSymbols 50 Check this to add support for additonal symbols (e.g. phonetic symbols, smileys)
+35 org.openoffice.da.writer2latex.oxt%3AOptionsUseBibtex 36 Check this to export the bibliography to BibTeX format
+37 org.openoffice.da.writer2latex.oxt%3AOptionsBibtexStyle 3b Enter the name of a BibTeX style to format the bibliography
+35 org.openoffice.da.writer2latex.oxt%3AOptionsWrapLines 3b Check this if you want to wrap long lines in the LaTeX file
+3a org.openoffice.da.writer2latex.oxt%3AOptionsWrapLinesAfter 46 Enter the number of characters after which the lines should be wrapped
+3f org.openoffice.da.writer2latex.oxt%3AOptionsSplitLinkedSections 42 Check this to create a separate LaTeX file for each linked section
+39 org.openoffice.da.writer2latex.oxt%3AOptionsInputencoding 2f Select the character encoding of the LaTeX file
+41 org.openoffice.da.writer2latex.oxt%3AOptionsSplitToplevelSections 66 Check this to create a separate LaTeX file for all sections that are not nested inside another section
+35 org.openoffice.da.writer2latex.oxt%3AViewMakeindexLog 37 Select this to view the log of the latest Makeindex run
+30 org.openoffice.da.writer2latex.oxt%3AErrorFilter 41 Check this if you only want to see error messages in the log file
+32 org.openoffice.da.writer2latex.oxt%3AViewBibTeXLog 34 Select this to view the log of the latest BibTeX run
+31 org.openoffice.da.writer2latex.oxt%3AViewLaTeXLog 33 Select this to view the log of the latest LaTeX run
+28 org.openoffice.da.writer2latex%3AViewLog 35 View log files created by LaTeX, MakeIndex and BibTeX
+30 org.openoffice.da.writer2latex%3AProcessDocument 20 Run LaTeX and display the result
+2d org.openoffice.da.writer2latex%3AInsertBibTeX 2c Insert reference to an item in a BibTeX file

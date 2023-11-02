@@ -1,0 +1,97 @@
+[13:37:18 INFO  SMAPI] SMAPI 3.14.6 with Stardew Valley 1.5.6 (build 1.3.37.0) on Unix 6.5.7.1
+[13:37:18 INFO  SMAPI] Mods go here: /home/userzero/Games/Stardew.Valley-jc141/files/groot/Mods
+[13:37:18 TRACE SMAPI] Log started at 2023-10-13T08:07:18 UTC
+[13:37:20 DEBUG SMAPI] Waiting for game to launch...
+[13:37:20 TRACE game] NoFpsCap: This feature is not available
+[13:37:22 DEBUG SMAPI] Loading mod metadata...
+[13:37:22 DEBUG SMAPI] Loading mods...
+[13:37:22 TRACE SMAPI]    Console Commands (from Mods/ConsoleCommands/ConsoleCommands.dll)...
+[13:37:23 TRACE SMAPI]    Save Backup (from Mods/SaveBackup/SaveBackup.dll)...
+[13:37:23 TRACE SMAPI]    Error Handler (from Mods/ErrorHandler/ErrorHandler.dll)...
+[13:37:23 TRACE SMAPI]       Detected game patcher in assembly ErrorHandler.dll.
+[13:37:23 INFO  SMAPI] Loaded 3 mods:
+[13:37:23 INFO  SMAPI]    Console Commands 3.14.6 by SMAPI | Adds SMAPI console commands that let you manipulate the game.
+[13:37:23 INFO  SMAPI]    Error Handler 3.14.6 by SMAPI | Handles some common vanilla errors to log more useful info or avoid breaking the game.
+[13:37:23 INFO  SMAPI]    Save Backup 3.14.6 by SMAPI | Automatically backs up all your saves once per day into its folder.
+
+[13:37:23 DEBUG SMAPI] Launching mods...
+[13:37:23 TRACE Save Backup] Already backed up today.
+[13:37:23 DEBUG SMAPI] Mods loaded and ready!
+[13:37:23 TRACE SMAPI] Checking for updates...
+[13:37:23 TRACE game] setGameMode( 'titleScreenGameMode (0)' )
+[13:37:24 TRACE SMAPI] Detecting common issues...
+[13:37:24 INFO  SMAPI] Type 'help' for help, or 'help <cmd>' for a command's usage
+[13:37:24 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1280 Height:720}
+[13:37:24 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[13:37:24 WARN  SMAPI] Couldn't check for a new version of SMAPI. This won't affect your game, but you won't be notified of new versions if this keeps happening.
+[13:37:24 TRACE SMAPI] Error: System.Net.WebException: The SSL connection could not be established, see inner exception.
+ ---> System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate is invalid because of errors in the certificate chain: PartialChain
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Security.SslStream.ProcessAuthentication(Boolean isAsync, Boolean isApm, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.AuthenticateAsClient(SslClientAuthenticationOptions sslClientAuthenticationOptions)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageHandlerStage.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClientHandler.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageInvoker.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.HttpWebRequest.SendRequest(Boolean async)
+   at System.Net.HttpWebRequest.GetResponse()
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream)
+   at System.Net.WebClient.UploadBits(WebRequest request, Stream readStream, Byte[] buffer, Int32 chunkSize, Byte[] header, Byte[] footer)
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at StardewModdingAPI.Toolkit.Framework.Clients.WebApi.WebApiClient.Post[TBody,TResult](String url, TBody content)
+   at StardewModdingAPI.Toolkit.Framework.Clients.WebApi.WebApiClient.GetModInfo(ModSearchEntryModel[] mods, ISemanticVersion apiVersion, ISemanticVersion gameVersion, Platform platform, Boolean includeExtendedMetadata)
+   at StardewModdingAPI.Framework.SCore.<>c__DisplayClass73_0.<CheckForUpdatesAsync>b__0()
+[13:37:24 TRACE SMAPI]    Checking for updates to 0 mods...
+[13:37:25 WARN  SMAPI] Couldn't check for new mod versions. This won't affect your game, but you won't be notified of mod updates if this keeps happening.
+[13:37:25 TRACE SMAPI] System.Net.WebException: The SSL connection could not be established, see inner exception.
+ ---> System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: The remote certificate is invalid because of errors in the certificate chain: PartialChain
+   at System.Net.Security.SslStream.SendAuthResetSignal(ProtocolToken message, ExceptionDispatchInfo exception)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Security.SslStream.ProcessAuthentication(Boolean isAsync, Boolean isApm, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.AuthenticateAsClient(SslClientAuthenticationOptions sslClientAuthenticationOptions)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageHandlerStage.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClientHandler.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageInvoker.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.HttpWebRequest.SendRequest(Boolean async)
+   at System.Net.HttpWebRequest.GetResponse()
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream)
+   at System.Net.WebClient.UploadBits(WebRequest request, Stream readStream, Byte[] buffer, Int32 chunkSize, Byte[] header, Byte[] footer)
+   at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at StardewModdingAPI.Toolkit.Framework.Clients.WebApi.WebApiClient.Post[TBody,TResult](String url, TBody content)
+   at StardewModdingAPI.Toolkit.Framework.Clients.WebApi.WebApiClient.GetModInfo(ModSearchEntryModel[] mods, ISemanticVersion apiVersion, ISemanticVersion gameVersion, Platform platform, Boolean includeExtendedMetadata)
+   at StardewModdingAPI.Framework.SCore.<>c__DisplayClass73_0.<CheckForUpdatesAsync>b__0()
+[13:37:30 TRACE game] Disconnected: ClosedGame
+[13:37:30 TRACE SMAPI] Disposing...
+[13:37:30 TRACE SMAPI] Disposing the content coordinator. Content managers will no longer be usable after this point.

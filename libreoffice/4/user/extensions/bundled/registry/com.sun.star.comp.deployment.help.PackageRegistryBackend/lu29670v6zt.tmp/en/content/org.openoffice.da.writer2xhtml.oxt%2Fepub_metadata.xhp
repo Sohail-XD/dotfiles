@@ -1,0 +1,94 @@
+
+EPUB document properties (Writer)
+Edit the document properties for an EPUB document.
+
+        	Choose File - Export - EPUB
+ or File - Export - EPUB 3
+,
+        	and click Edit document properties
+ in the export dialog
+        	or click the EPUB-button
+ marked with i
+ in the toolbar
+        
+The EPUB standard specifies a large number of document properties.
+        Not all of these are supported by the OpenDocument standard.
+        Writer2xhtml supports the additional properties using user defined document properties.
+        This dialog provides a convenient interface to edit all EPUB document properties, but you can also access all properties
+        using the standard interface in %PRODUCTNAME Writer, that is File - Properties.
+        Writer2xhtml will always include the identifier, author(s), date(s) and the title.
+        Other fields are optional and can be left blank. In this case they will not be included in the EPUB document.
+Custom identifier
+Each EPUB document must have a unique identifier.
+        Normally Writer2xhtml generates a Universal Unique ID (UUID) for this purpose, but you may override this with
+        your own identifier.
+Use custom identifier
+Check this if you want to provide your own identifier
+Identifier
+Enter the identifier to use. Remember that it must be unique amongst all
+        EPUB documents.
+Identifier type
+An identifier may follow a specific identification scheme, e.g. ISBN.
+   		Select or enter an identification scheme in this field.
+Authors
+An EPUB document can have several authors, which you can list here.
+		An author can be either a creator, that is a primary author of the publication, or a contributor,
+		that is a party whose contribution to the publication is secondary to the creator(s).
+		Furthermore an author may have a special role, e.g. illustrator. Both properties are specified when you add
+		a new author to the list.
+Note that some EPUB readers may only present the first creator, hence
+		you should make sure that the primary creator is at the top of the list.
+If you do not add any authors, Writer2xhtml will display and use a default value
+		for the author.
+Add...
+Click this to add new author to the list.
+Modify...
+Click this to modify the currently selected author.
+Delete...
+Click this to delete the currently selected author from the list.
+Up
+Click this to move the currently selected author up one position in the list.
+Down
+Click this to move the currently selected author down one position in the list.
+Dates
+An EPUB document can specify one or more dates relating to the publication.
+        Each date can be associated with a special event such as creation, publication or modification.
+Note that some EPUB readers may only present the first date, hence
+		you should make sure that the primary date is at the top of the list.
+If you do not add any dates, Writer2xhtml will display and use a default value
+		for the date (date of last modification).
+Add...
+Click this to add new date to the list.
+Modify...
+Click this to modify the currently selected date.
+Delete...
+Click this to delete the currently selected date from the list.
+Up
+Click this to move the currently selected date up one position in the list.
+Down
+Click this to move the currently selected date down one position in the list.
+Title
+The title of the document. This will always be included in the EPUB
+        document.
+Subject
+The subject of the document
+Keywords
+A comma separated list of keywords
+Description
+A description of the document
+Publisher
+The publisher of the document.
+Type
+Terms describing general categories, functions, genres, or aggregation levels
+        for content.
+Format
+The media type or dimensions of the resource.
+Source
+Information regarding a prior resource from which the publication was derived.
+Relation
+An identifier of an auxiliary resource and its relationship to the publication.
+Coverage
+The extent or scope of the publication’s content.
+Rights
+A statement about rights, or a reference to one.
+

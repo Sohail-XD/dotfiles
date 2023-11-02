@@ -1,0 +1,4 @@
+game:
+  exe: /games/Papers.Please/start.n.sh
+linux: {}
+system: {}

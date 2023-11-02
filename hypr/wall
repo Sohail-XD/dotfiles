@@ -1,0 +1,18 @@
+#!/bin/bash
+
+eww reload
+# Set the path to the directory containing the wallpaper images
+WALLPAPER_DIR="$HOME/Pictures/Wallsy/"
+
+# Get the list of images in the wallpaper directory
+WALLPAPER_LIST=($WALLPAPER_DIR/*)
+
+# Select a random image from the wallpaper list
+RANDOM_WALLPAPER=${WALLPAPER_LIST[$RANDOM % ${#WALLPAPER_LIST[@]}]}
+
+# Set the selected image as the wallpaper using the `swww` command
+swaybg -i $RANDOM_WALLPAPER
+
+
+#swww img $RANDOM_WALLPAPER --transition-type grow --transition-pos "$(hyprctl cursorpos)" --transition-duration 2
+

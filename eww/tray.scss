@@ -1,0 +1,26 @@
+tooltip {
+    background-color: $bg;
+    color: $fg;
+    padding: 1rem;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px $cyan;
+}
+
+menu {
+    background-color: $bg;
+    border-radius: 1rem;
+    padding: 0.75rem;
+    color: $fg;
+    font-size: 1.1rem;
+}
+
+menu>menuitem {
+    padding: 0.5rem 1rem;
+    transition: 0.3s;
+    border-radius: 1rem;
+}
+
+menu>menuitem:hover {
+    background-color: $yellow;
+    color: $surface;
+}

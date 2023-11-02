@@ -1,0 +1,16 @@
+{
+    "layer": "top",
+    "position": "left",
+    "margin": "140px -10px -3px -30px", 
+    "mod": "overlay", 
+    "height": 0,
+    "exclusive": false,
+    "passthrough": false,
+    "gtk-layer-shell": true,
+    "modules-left": ["tray"],
+
+     "tray": {
+        "icon-size": 14,
+        "spacing": 5
+     }
+}

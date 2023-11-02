@@ -1,0 +1,297 @@
+Using the templates
+You can use some special
+		Writer templates provided with Writer2LaTeX configurations to
+		create your documents. Using the styles supported by these templates, you can easily create standard LaTeX documents
+		using the opportunities of standard LaTeX document classes.
+		
+For this initial version, templates for the standard LaTeX classes article
+        are provided. More templates will be added later (report, book, beamer...), and you can also add your own templates.
+        
+The article template
+
+        	Choose File - New - Templates and Documents - Writer2LaTeX
+
+        
+This template contains a number of styles that corresponds to LaTeX code.
+        If you use these styles and makes sure to use the configuration W2L: Article when you convert your document
+        (this is selected automatically) with Writer2LaTeX, you will get a result that resembles a handwritten LaTeX file.
+        Note that hard formatting and any other styles will be ignored. The available styles are summarized in the following tables.
+        
+Paragraph styles
+Title styles
+%PRODUCTNAME Writer Style
+
+LaTeX code
+
+
+title
+
+\title{...}
+
+
+author
+
+\author{...}
+
+
+date
+
+\date{...}
+
+
+abstract title
+
+renews \abstractname
+
+
+abstract
+
+abstract environment
+
+
+
+Note that also \maketitle is added at the end of a sequence of title, author and date.
+Heading styles
+Note that the names of the heading styles are localized in %PRODUCTNAME Writer
+part
+
+\part{...}
+
+
+Heading 2
+
+\section{...}
+
+
+Heading 3
+
+\subsection{...}
+
+
+Heading 4
+
+\subsubsection{...}
+
+
+Heading 5
+
+\paragraph{...}
+
+
+Heading 6
+
+\subparagraph{...}
+
+
+
+Other paragraph styles
+flushleft
+
+flushleft environment
+
+
+flushright
+
+flushright environment
+
+
+center
+
+center environment
+
+
+verse
+
+verse environment
+
+
+quote
+
+quote environment
+
+
+quotation
+
+quotation environment
+
+
+verbatim
+
+verbatim environment
+
+
+theorem
+
+theorem environment
+
+
+itemize
+
+itemize list
+
+
+enumerate
+
+enurerate list
+
+
+description item
+
+description list (item label)
+
+
+description text
+
+description list (item text)
+
+
+LaTeX
+
+The text content of the paragraph is inserted as verbatim LaTeX code.
+
+
+
+For the verbatim environment, only characters available in the input encoding are accepted.
+       	Other characters are converted to question marks and other content is discarded, eg. footnotes.
+Special paragraph styles for tables
+%PRODUCTNAME Writer supports multipage tables with repeating headers.
+        LaTeX on the other hand also provides support for repeating foots and special header and foot on the first repspectively last
+        page of the table. The article template provides four special paragraph styles to let you use these LaTeX features.
+        Note that the special pagragraphs appear colored in %PRODUCTNAME Writer for clarity, but the colors will be removed in the export
+        to LaTeX.
+table first head
+
+Identifies a row to be used as first head in table
+
+
+table head
+
+Identifies a row to be used as head in table
+
+
+table foot
+
+Identifies a row to be used as foot in table
+
+
+table last foot
+
+Identifies a row to be used as last foot in table
+
+
+
+Text styles
+verb
+
+\verb|...|
+
+
+emph
+
+\emph{...}
+
+
+textrm
+
+\textrm{...}
+
+
+textsf
+
+\textsf{...}
+
+
+texttt
+
+\texttt{...}
+
+
+textup
+
+\textup{...}
+
+
+textsl
+
+\textsl{...}
+
+
+textit
+
+\textit{...}
+
+
+textsc
+
+\textsc{...}
+
+
+textmd
+
+\textmd{...}
+
+
+textbf
+
+\textbf{...}
+
+
+tiny
+
+{\tiny ...}
+
+
+scriptsize
+
+{\sciptsize ...}
+
+
+footnotesize
+
+{\footnotesize ...}
+
+
+small
+
+{\small ...}
+
+
+normalsize
+
+{\normalsize ...}
+
+
+large
+
+{\large ...}
+
+
+Large
+
+{\Large ...}
+
+
+LARGE
+
+{\LARGE ...}
+
+
+huge
+
+{\huge ...}
+
+
+Huge
+
+{\Huge ...}
+
+LaTeX
+
+The text content is inserted as verbatim LaTeX code.
+
+
+
+
+For the \verb command, only characters available in the input encoding are accepted.
+       	Other characters are converted to question marks and other content is discarded, eg. footnotes.
+

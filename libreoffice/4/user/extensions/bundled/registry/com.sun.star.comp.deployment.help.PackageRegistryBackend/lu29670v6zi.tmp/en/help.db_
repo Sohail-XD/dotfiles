@@ -1,0 +1,160 @@
+43 org.openoffice.da.writer2latex.oxt%2FConfiguration%2FCharacters.xhp 54 ?org.openoffice.da.writer2latex.oxt/Configuration/Characters.xhphelp.jar
+Characters
+36 org.openoffice.da.writer2latex.oxt%3AConfigUseHyperref 69 Torg.openoffice.da.writer2latex.oxt/Configuration/Characters.xhp#bm_configusehyperrefhelp.jar
+Characters
+33 org.openoffice.da.writer2latex.oxt%3AConfigUseColor 66 Qorg.openoffice.da.writer2latex.oxt/Configuration/Characters.xhp#bm_configusecolorhelp.jar
+Characters
+32 org.openoffice.da.writer2latex.oxt%3AConfigUseUlem 65 Porg.openoffice.da.writer2latex.oxt/Configuration/Characters.xhp#bm_configuseulemhelp.jar
+Characters
+3e org.openoffice.da.writer2latex.oxt%3AConfigFormattingAttribute 71 \org.openoffice.da.writer2latex.oxt/Configuration/Characters.xhp#bm_configformattingattributehelp.jar
+Characters
+3a org.openoffice.da.writer2latex.oxt%3AConfigCustomAttribute 6d Xorg.openoffice.da.writer2latex.oxt/Configuration/Characters.xhp#bm_configcustomattributehelp.jar
+Characters
+3a org.openoffice.da.writer2latex.oxt%3AConfigAttributeBefore 6d Xorg.openoffice.da.writer2latex.oxt/Configuration/Characters.xhp#bm_configattributebeforehelp.jar
+Characters
+39 org.openoffice.da.writer2latex.oxt%3AConfigAttributeAfter 6c Worg.openoffice.da.writer2latex.oxt/Configuration/Characters.xhp#bm_configattributeafterhelp.jar
+Characters
+46 org.openoffice.da.writer2latex.oxt%2FConfiguration%2FDocumentclass.xhp 5a Borg.openoffice.da.writer2latex.oxt/Configuration/Documentclass.xhphelp.jarDocumentclass
+35 org.openoffice.da.writer2latex.oxt%3AConfigNoPreamble 6e Vorg.openoffice.da.writer2latex.oxt/Configuration/Documentclass.xhp#bm_confignopreamblehelp.jarDocumentclass
+38 org.openoffice.da.writer2latex.oxt%3AConfigDocumentclass 71 Yorg.openoffice.da.writer2latex.oxt/Configuration/Documentclass.xhp#bm_configdocumentclasshelp.jarDocumentclass
+38 org.openoffice.da.writer2latex.oxt%3AConfigGlobalOptions 71 Yorg.openoffice.da.writer2latex.oxt/Configuration/Documentclass.xhp#bm_configglobaloptionshelp.jarDocumentclass
+39 org.openoffice.da.writer2latex.oxt%3AConfigCustomPreamble 72 Zorg.openoffice.da.writer2latex.oxt/Configuration/Documentclass.xhp#bm_configcustompreamblehelp.jarDocumentclass
+40 org.openoffice.da.writer2latex.oxt%2FConfiguration%2FFigures.xhp 4d <org.openoffice.da.writer2latex.oxt/Configuration/Figures.xhphelp.jarStyles
+35 org.openoffice.da.writer2latex.oxt%3AConfigUseCaption 61 Porg.openoffice.da.writer2latex.oxt/Configuration/Figures.xhp#bm_configusecaptionhelp.jarStyles
+36 org.openoffice.da.writer2latex.oxt%3AConfigAlignFrames 62 Qorg.openoffice.da.writer2latex.oxt/Configuration/Figures.xhp#bm_configalignframeshelp.jarStyles
+3d org.openoffice.da.writer2latex.oxt%3AConfigFigureSequenceName 69 Xorg.openoffice.da.writer2latex.oxt/Configuration/Figures.xhp#bm_configfiguresequencenamehelp.jarStyles
+33 org.openoffice.da.writer2latex.oxt%3AConfigNoImages 5f Norg.openoffice.da.writer2latex.oxt/Configuration/Figures.xhp#bm_confignoimageshelp.jarStyles
+42 org.openoffice.da.writer2latex.oxt%3AConfigRemoveGraphicsExtension 6e ]org.openoffice.da.writer2latex.oxt/Configuration/Figures.xhp#bm_configremovegraphicsextensionhelp.jarStyles
+37 org.openoffice.da.writer2latex.oxt%3AConfigImageOptions 63 Rorg.openoffice.da.writer2latex.oxt/Configuration/Figures.xhp#bm_configimageoptionshelp.jarStyles
+3e org.openoffice.da.writer2latex.oxt%2FConfiguration%2FFonts.xhp 4a :org.openoffice.da.writer2latex.oxt/Configuration/Fonts.xhphelp.jarFonts
+34 org.openoffice.da.writer2latex.oxt%3AConfigUsePifont 5d Morg.openoffice.da.writer2latex.oxt/Configuration/Fonts.xhp#bm_configusepifonthelp.jarFonts
+32 org.openoffice.da.writer2latex.oxt%3AConfigUseTipa 5b Korg.openoffice.da.writer2latex.oxt/Configuration/Fonts.xhp#bm_configusetipahelp.jarFonts
+35 org.openoffice.da.writer2latex.oxt%3AConfigUseEurosym 5e Norg.openoffice.da.writer2latex.oxt/Configuration/Fonts.xhp#bm_configuseeurosymhelp.jarFonts
+35 org.openoffice.da.writer2latex.oxt%3AConfigUseWasysym 5e Norg.openoffice.da.writer2latex.oxt/Configuration/Fonts.xhp#bm_configusewasysymhelp.jarFonts
+33 org.openoffice.da.writer2latex.oxt%3AConfigUseIfsym 5c Lorg.openoffice.da.writer2latex.oxt/Configuration/Fonts.xhp#bm_configuseifsymhelp.jarFonts
+34 org.openoffice.da.writer2latex.oxt%3AConfigUseBbding 5d Morg.openoffice.da.writer2latex.oxt/Configuration/Fonts.xhp#bm_configusebbdinghelp.jarFonts
+41 org.openoffice.da.writer2latex.oxt%2FConfiguration%2FHeadings.xhp 50 =org.openoffice.da.writer2latex.oxt/Configuration/Headings.xhphelp.jarHeadings
+33 org.openoffice.da.writer2latex.oxt%3AConfigMaxLevel 62 Oorg.openoffice.da.writer2latex.oxt/Configuration/Headings.xhp#bm_configmaxlevelhelp.jarHeadings
+36 org.openoffice.da.writer2latex.oxt%3AConfigWriterLevel 65 Rorg.openoffice.da.writer2latex.oxt/Configuration/Headings.xhp#bm_configwriterlevelhelp.jarHeadings
+35 org.openoffice.da.writer2latex.oxt%3AConfigLaTeXLevel 64 Qorg.openoffice.da.writer2latex.oxt/Configuration/Headings.xhp#bm_configlatexlevelhelp.jarHeadings
+34 org.openoffice.da.writer2latex.oxt%3AConfigLaTeXName 63 Porg.openoffice.da.writer2latex.oxt/Configuration/Headings.xhp#bm_configLaTeXNamehelp.jarHeadings
+32 org.openoffice.da.writer2latex.oxt%3AConfigNoIndex 61 Norg.openoffice.da.writer2latex.oxt/Configuration/Headings.xhp#bm_confignoindexhelp.jarHeadings
+45 org.openoffice.da.writer2latex.oxt%2FConfiguration%2FIntroduction.xhp 59 Aorg.openoffice.da.writer2latex.oxt/Configuration/Introduction.xhphelp.jarCustom format
+37 org.openoffice.da.writer2latex.oxt%3AConfigIntroduction 6f Worg.openoffice.da.writer2latex.oxt/Configuration/Introduction.xhp#bm_configintroductionhelp.jarCustom format
+3e org.openoffice.da.writer2latex.oxt%2FConfiguration%2FPages.xhp 4a :org.openoffice.da.writer2latex.oxt/Configuration/Pages.xhphelp.jarPages
+39 org.openoffice.da.writer2latex.oxt%3AConfigExportGeometry 62 Rorg.openoffice.da.writer2latex.oxt/Configuration/Pages.xhp#bm_configexportgeometryhelp.jarPages
+36 org.openoffice.da.writer2latex.oxt%3AConfigUseGeometry 5f Oorg.openoffice.da.writer2latex.oxt/Configuration/Pages.xhp#bm_configusegeometryhelp.jarPages
+3d org.openoffice.da.writer2latex.oxt%3AConfigExportHeaderFooter 66 Vorg.openoffice.da.writer2latex.oxt/Configuration/Pages.xhp#bm_configexportheaderfooterhelp.jarPages
+36 org.openoffice.da.writer2latex.oxt%3AConfigUseFancyhdr 5f Oorg.openoffice.da.writer2latex.oxt/Configuration/Pages.xhp#bm_configusefancyhdrhelp.jarPages
+36 org.openoffice.da.writer2latex.oxt%3AConfigUseLastpage 5f Oorg.openoffice.da.writer2latex.oxt/Configuration/Pages.xhp#bm_configuselastpagehelp.jarPages
+36 org.openoffice.da.writer2latex.oxt%3AConfigUseEndnotes 5f Oorg.openoffice.da.writer2latex.oxt/Configuration/Pages.xhp#bm_configuseendnoteshelp.jarPages
+3f org.openoffice.da.writer2latex.oxt%2FConfiguration%2FStyles.xhp 4c ;org.openoffice.da.writer2latex.oxt/Configuration/Styles.xhphelp.jarStyles
+36 org.openoffice.da.writer2latex.oxt%3AConfigStyleFamily 61 Porg.openoffice.da.writer2latex.oxt/Configuration/Styles.xhp#bm_configstylefamilyhelp.jarStyles
+34 org.openoffice.da.writer2latex.oxt%3AConfigStyleName 5f Norg.openoffice.da.writer2latex.oxt/Configuration/Styles.xhp#bm_configstylenamehelp.jarStyles
+33 org.openoffice.da.writer2latex.oxt%3AConfigNewStyle 5e Morg.openoffice.da.writer2latex.oxt/Configuration/Styles.xhp#bm_confignewstylehelp.jarStyles
+36 org.openoffice.da.writer2latex.oxt%3AConfigDeleteStyle 61 Porg.openoffice.da.writer2latex.oxt/Configuration/Styles.xhp#bm_configdeletestylehelp.jarStyles
+31 org.openoffice.da.writer2latex.oxt%3AConfigBefore 5c Korg.openoffice.da.writer2latex.oxt/Configuration/Styles.xhp#bm_configbeforehelp.jarStyles
+30 org.openoffice.da.writer2latex.oxt%3AConfigAfter 5b Jorg.openoffice.da.writer2latex.oxt/Configuration/Styles.xhp#bm_configafterhelp.jarStyles
+2f org.openoffice.da.writer2latex.oxt%3AConfigNext 5a Iorg.openoffice.da.writer2latex.oxt/Configuration/Styles.xhp#bm_confignexthelp.jarStyles
+32 org.openoffice.da.writer2latex.oxt%3AConfigAddNext 5d Lorg.openoffice.da.writer2latex.oxt/Configuration/Styles.xhp#bm_configaddnexthelp.jarStyles
+35 org.openoffice.da.writer2latex.oxt%3AConfigRemoveNext 60 Oorg.openoffice.da.writer2latex.oxt/Configuration/Styles.xhp#bm_configremovenexthelp.jarStyles
+33 org.openoffice.da.writer2latex.oxt%3AConfigVerbatim 5e Morg.openoffice.da.writer2latex.oxt/Configuration/Styles.xhp#bm_configverbatimhelp.jarStyles
+34 org.openoffice.da.writer2latex.oxt%3AConfigLineBreak 5f Norg.openoffice.da.writer2latex.oxt/Configuration/Styles.xhp#bm_configlinebreakhelp.jarStyles
+37 org.openoffice.da.writer2latex.oxt%3AConfigLoadDefaults 62 Qorg.openoffice.da.writer2latex.oxt/Configuration/Styles.xhp#bm_configloaddefaultshelp.jarStyles
+36 org.openoffice.da.writer2latex.oxt%3AConfigOtherStyles 61 Porg.openoffice.da.writer2latex.oxt/Configuration/Styles.xhp#bm_configotherstyleshelp.jarStyles
+35 org.openoffice.da.writer2latex.oxt%3AConfigFormatting 60 Oorg.openoffice.da.writer2latex.oxt/Configuration/Styles.xhp#bm_configformattinghelp.jarStyles
+3f org.openoffice.da.writer2latex.oxt%2FConfiguration%2FTables.xhp 4c ;org.openoffice.da.writer2latex.oxt/Configuration/Tables.xhphelp.jarTables
+33 org.openoffice.da.writer2latex.oxt%3AConfigNoTables 5e Morg.openoffice.da.writer2latex.oxt/Configuration/Tables.xhp#bm_confignotableshelp.jarTables
+36 org.openoffice.da.writer2latex.oxt%3AConfigUseColortbl 61 Porg.openoffice.da.writer2latex.oxt/Configuration/Tables.xhp#bm_configusecolortblhelp.jarTables
+36 org.openoffice.da.writer2latex.oxt%3AConfigUseTabulary 61 Porg.openoffice.da.writer2latex.oxt/Configuration/Tables.xhp#bm_configusetabularyhelp.jarTables
+3a org.openoffice.da.writer2latex.oxt%3AConfigUseSupertabular 65 Torg.openoffice.da.writer2latex.oxt/Configuration/Tables.xhp#bm_configusesupertabularhelp.jarTables
+37 org.openoffice.da.writer2latex.oxt%3AConfigUseLongtable 62 Qorg.openoffice.da.writer2latex.oxt/Configuration/Tables.xhp#bm_configuselongtablehelp.jarTables
+3e org.openoffice.da.writer2latex.oxt%3AConfigTableFirstHeadStyle 69 Xorg.openoffice.da.writer2latex.oxt/Configuration/Tables.xhp#bm_configtablefirstheadstylehelp.jarTables
+39 org.openoffice.da.writer2latex.oxt%3AConfigTableHeadStyle 64 Sorg.openoffice.da.writer2latex.oxt/Configuration/Tables.xhp#bm_configtableheadstylehelp.jarTables
+39 org.openoffice.da.writer2latex.oxt%3AConfigTableFootStyle 64 Sorg.openoffice.da.writer2latex.oxt/Configuration/Tables.xhp#bm_configtablefootstylehelp.jarTables
+3d org.openoffice.da.writer2latex.oxt%3AConfigTableLastFootStyle 68 Worg.openoffice.da.writer2latex.oxt/Configuration/Tables.xhp#bm_configtablelastfootstylehelp.jarTables
+3c org.openoffice.da.writer2latex.oxt%3AConfigTableSequenceName 67 Vorg.openoffice.da.writer2latex.oxt/Configuration/Tables.xhp#bm_configtablesequencenamehelp.jarTables
+44 org.openoffice.da.writer2latex.oxt%2FConfiguration%2FTextandmath.xhp 58 @org.openoffice.da.writer2latex.oxt/Configuration/Textandmath.xhphelp.jarText and math
+35 org.openoffice.da.writer2latex.oxt%3AConfigUseOoomath 6c Torg.openoffice.da.writer2latex.oxt/Configuration/Textandmath.xhp#bm_configuseooomathhelp.jarText and math
+39 org.openoffice.da.writer2latex.oxt%3AConfigMathSymbolName 70 Xorg.openoffice.da.writer2latex.oxt/Configuration/Textandmath.xhp#bm_configmathsymbolnamehelp.jarText and math
+34 org.openoffice.da.writer2latex.oxt%3AConfigNewSymbol 6e Vorg.openoffice.da.writer2latex.oxt/Configuration/Textandmath.xhp#bm_configdeletesymbolhelp.jarText and math
+37 org.openoffice.da.writer2latex.oxt%3AConfigDeleteSymbol 6e Vorg.openoffice.da.writer2latex.oxt/Configuration/Textandmath.xhp#bm_configdeletesymbolhelp.jarText and math
+34 org.openoffice.da.writer2latex.oxt%3AConfigMathLaTeX 6b Sorg.openoffice.da.writer2latex.oxt/Configuration/Textandmath.xhp#bm_configmathlatexhelp.jarText and math
+34 org.openoffice.da.writer2latex.oxt%3AConfigTextInput 6b Sorg.openoffice.da.writer2latex.oxt/Configuration/Textandmath.xhp#bm_configtextinputhelp.jarText and math
+32 org.openoffice.da.writer2latex.oxt%3AConfigNewText 69 Qorg.openoffice.da.writer2latex.oxt/Configuration/Textandmath.xhp#bm_confignewtexthelp.jarText and math
+35 org.openoffice.da.writer2latex.oxt%3AConfigDeleteText 6c Torg.openoffice.da.writer2latex.oxt/Configuration/Textandmath.xhp#bm_configdeletetexthelp.jarText and math
+34 org.openoffice.da.writer2latex.oxt%3AConfigTextLaTeX 6b Sorg.openoffice.da.writer2latex.oxt/Configuration/Textandmath.xhp#bm_configtextlatexhelp.jarText and math
+37 org.openoffice.da.writer2latex.oxt%3AConfigTabStopLaTeX 6e Vorg.openoffice.da.writer2latex.oxt/Configuration/Textandmath.xhp#bm_configtabstoplatexhelp.jarText and math
+35 org.openoffice.da.writer2latex.oxt%2Fapplications.xhp 4a 3org.openoffice.da.writer2latex.oxt/applications.xhphelp.jarApplications
+38 org.openoffice.da.writer2latex.oxt%3AConfigurationDialog 61 Jorg.openoffice.da.writer2latex.oxt/applications.xhp#bm_configurationdialoghelp.jarApplications
+30 org.openoffice.da.writer2latex.oxt%3AAfterExport 59 Borg.openoffice.da.writer2latex.oxt/applications.xhp#bm_afterexporthelp.jarApplications
+3c org.openoffice.da.writer2latex.oxt%3AConfigurationAutoButton 65 Norg.openoffice.da.writer2latex.oxt/applications.xhp#bm_configurationautobuttonhelp.jarApplications
+3d org.openoffice.da.writer2latex.oxt%3AConfigurationApplication 66 Oorg.openoffice.da.writer2latex.oxt/applications.xhp#bm_configurationapplicationhelp.jarApplications
+2f org.openoffice.da.writer2latex.oxt%3AUseDefault 65 Norg.openoffice.da.writer2latex.oxt/applications.xhp#bm_configurationusedefaulthelp.jarApplications
+3c org.openoffice.da.writer2latex.oxt%3AConfigurationExecutable 65 Norg.openoffice.da.writer2latex.oxt/applications.xhp#bm_configurationexecutablehelp.jarApplications
+39 org.openoffice.da.writer2latex.oxt%3AConfigurationOptions 62 Korg.openoffice.da.writer2latex.oxt/applications.xhp#bm_configurationoptionshelp.jarApplications
+35 org.openoffice.da.writer2latex.oxt%2Fbibliography.xhp 4a 3org.openoffice.da.writer2latex.oxt/bibliography.xhphelp.jarBibliography
+37 org.openoffice.da.writer2latex.oxt%3ABibliographyDialog 60 Iorg.openoffice.da.writer2latex.oxt/bibliography.xhp#bm_bibliographydialoghelp.jarBibliography
+47 org.openoffice.da.writer2latex.oxt%3ABibliographyUseExternalBibTeXFiles 64 Morg.openoffice.da.writer2latex.oxt/bibliography.xhp#bm_useexternalbibtexfileshelp.jarBibliography
+3f org.openoffice.da.writer2latex.oxt%3ABibliographyBibTeXLocation 5c Eorg.openoffice.da.writer2latex.oxt/bibliography.xhp#bm_bibtexlocationhelp.jarBibliography
+3a org.openoffice.da.writer2latex.oxt%3ABibliographyBibTeXDir 57 @org.openoffice.da.writer2latex.oxt/bibliography.xhp#bm_bibtexdirhelp.jarBibliography
+40 org.openoffice.da.writer2latex.oxt%3ABibliographyBibTeXDirButton 5d Forg.openoffice.da.writer2latex.oxt/bibliography.xhp#bm_bibtexdirbuttonhelp.jarBibliography
+3f org.openoffice.da.writer2latex.oxt%3ABibliographyBibTeXEncoding 5c Eorg.openoffice.da.writer2latex.oxt/bibliography.xhp#bm_bibtexencodinghelp.jarBibliography
+47 org.openoffice.da.writer2latex.oxt%3ABibliographyConvertZoteroCitations 64 Morg.openoffice.da.writer2latex.oxt/bibliography.xhp#bm_convertzoterocitationshelp.jarBibliography
+47 org.openoffice.da.writer2latex.oxt%3ABibliographyConvertJabRefCitations 64 Morg.openoffice.da.writer2latex.oxt/bibliography.xhp#bm_convertjabrefcitationshelp.jarBibliography
+49 org.openoffice.da.writer2latex.oxt%3ABibliographyIncludeOriginalCitations 66 Oorg.openoffice.da.writer2latex.oxt/bibliography.xhp#bm_includeoriginalcitationshelp.jarBibliography
+3a org.openoffice.da.writer2latex.oxt%3ABibliographyUseNatbib 57 @org.openoffice.da.writer2latex.oxt/bibliography.xhp#bm_usenatbibhelp.jarBibliography
+3e org.openoffice.da.writer2latex.oxt%3ABibliographyNatbibOptions 5b Dorg.openoffice.da.writer2latex.oxt/bibliography.xhp#bm_natbiboptionshelp.jarBibliography
+2f org.openoffice.da.writer2latex.oxt%2Fbibtex.xhp 50 -org.openoffice.da.writer2latex.oxt/bibtex.xhphelp.jarInsert BibTeX references
+31 org.openoffice.da.writer2latex.oxt%3ABibTeXDialog 60 =org.openoffice.da.writer2latex.oxt/bibtex.xhp#bm_bibtexdialoghelp.jarInsert BibTeX references
+2f org.openoffice.da.writer2latex.oxt%3ABibTeXFile 5e ;org.openoffice.da.writer2latex.oxt/bibtex.xhp#bm_bibtexfilehelp.jarInsert BibTeX references
+30 org.openoffice.da.writer2latex.oxt%3ABibTeXEntry 5f <org.openoffice.da.writer2latex.oxt/bibtex.xhp#bm_bibtexentryhelp.jarInsert BibTeX references
+31 org.openoffice.da.writer2latex.oxt%3ABibTeXInsert 60 =org.openoffice.da.writer2latex.oxt/bibtex.xhp#bm_bibtexinserthelp.jarInsert BibTeX references
+31 org.openoffice.da.writer2latex.oxt%3ABibTeXUpdate 60 =org.openoffice.da.writer2latex.oxt/bibtex.xhp#bm_bibtexupdatehelp.jarInsert BibTeX references
+30 org.openoffice.da.writer2latex.oxt%3ABibTeXClose 5f <org.openoffice.da.writer2latex.oxt/bibtex.xhp#bm_bibtexclosehelp.jarInsert BibTeX references
+2e org.openoffice.da.writer2latex.oxt%3ABibTeXNew 5d :org.openoffice.da.writer2latex.oxt/bibtex.xhp#bm_bibtexnewhelp.jarInsert BibTeX references
+2f org.openoffice.da.writer2latex.oxt%3ABibTeXEdit 5e ;org.openoffice.da.writer2latex.oxt/bibtex.xhp#bm_bibtexedithelp.jarInsert BibTeX references
+31 org.openoffice.da.writer2latex.oxt%3ABibTeXReload 60 =org.openoffice.da.writer2latex.oxt/bibtex.xhp#bm_bibtexreloadhelp.jarInsert BibTeX references
+2f org.openoffice.da.writer2latex.oxt%2Fexport.xhp 44 -org.openoffice.da.writer2latex.oxt/export.xhphelp.jarLaTeX Export
+2c org.openoffice.da.writer2latex.oxt%3AOptions 4f 8org.openoffice.da.writer2latex.oxt/export.xhp#bm_optionshelp.jarLaTeX Export
+32 org.openoffice.da.writer2latex.oxt%3AOptionsConfig 56 ?org.openoffice.da.writer2latex.oxt/export.xhp#bm_options_confighelp.jarLaTeX Export
+33 org.openoffice.da.writer2latex.oxt%3AOptionsBackend 57 @org.openoffice.da.writer2latex.oxt/export.xhp#bm_options_backendhelp.jarLaTeX Export
+39 org.openoffice.da.writer2latex.oxt%3AOptionsInputencoding 5d Forg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_inputencodinghelp.jarLaTeX Export
+38 org.openoffice.da.writer2latex.oxt%3AOptionsMultilingual 5c Eorg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_multilingualhelp.jarLaTeX Export
+30 org.openoffice.da.writer2latex.oxt%3AOptionsFont 54 =org.openoffice.da.writer2latex.oxt/export.xhp#bm_options_fonthelp.jarLaTeX Export
+35 org.openoffice.da.writer2latex.oxt%3AOptionsGreekMath 59 Borg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_greekmathhelp.jarLaTeX Export
+3d org.openoffice.da.writer2latex.oxt%3AOptionsAdditionalSymbols 60 Iorg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_additonalsymbolshelp.jarLaTeX Export
+35 org.openoffice.da.writer2latex.oxt%3AOptionsUseBibtex 59 Borg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_usebibtexhelp.jarLaTeX Export
+37 org.openoffice.da.writer2latex.oxt%3AOptionsBibtexStyle 5b Dorg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_bibtexstylehelp.jarLaTeX Export
+35 org.openoffice.da.writer2latex.oxt%3AOptionsWrapLines 59 Borg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_wraplineshelp.jarLaTeX Export
+3a org.openoffice.da.writer2latex.oxt%3AOptionsWrapLinesAfter 5e Gorg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_wraplinesafterhelp.jarLaTeX Export
+3f org.openoffice.da.writer2latex.oxt%3AOptionsSplitLinkedSections 63 Lorg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_splitlinkedsectionshelp.jarLaTeX Export
+41 org.openoffice.da.writer2latex.oxt%3AOptionsSplitToplevelSections 65 Norg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_splittoplevelsectionshelp.jarLaTeX Export
+3e org.openoffice.da.writer2latex.oxt%3AOptionsSaveImagesInSubdir 62 Korg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_saveimagesinsubdirhelp.jarLaTeX Export
+31 org.openoffice.da.writer2latex.oxt%3AOptionsNotes 55 >org.openoffice.da.writer2latex.oxt/export.xhp#bm_options_noteshelp.jarLaTeX Export
+34 org.openoffice.da.writer2latex.oxt%3AOptionsMetadata 58 Aorg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_metadatahelp.jarLaTeX Export
+36 org.openoffice.da.writer2latex.oxt%3ADisplayHiddenText 5b Dorg.openoffice.da.writer2latex.oxt/export.xhp#bm_display_hidden_texthelp.jarLaTeX Export
+3d org.openoffice.da.writer2latex.oxt%3AOptionsOriginalImageSize 61 Jorg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_originalimagesizehelp.jarLaTeX Export
+40 org.openoffice.da.writer2latex.oxt%3AOptionsOptimizeSimpleTables 64 Morg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_optimizesimpletableshelp.jarLaTeX Export
+3c org.openoffice.da.writer2latex.oxt%3AOptionsSimpleTableLimit 60 Iorg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_simpletablelimithelp.jarLaTeX Export
+37 org.openoffice.da.writer2latex.oxt%3AOptionsFloatTables 5b Dorg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_floattableshelp.jarLaTeX Export
+38 org.openoffice.da.writer2latex.oxt%3AOptionsFloatFigures 5c Eorg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_floatfigureshelp.jarLaTeX Export
+38 org.openoffice.da.writer2latex.oxt%3AOptionsFloatOptions 5c Eorg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_floatoptionshelp.jarLaTeX Export
+40 org.openoffice.da.writer2latex.oxt%3AOptionsIgnoreHardPageBreaks 64 Morg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_ignorehardpagebreakshelp.jarLaTeX Export
+40 org.openoffice.da.writer2latex.oxt%3AOptionsIgnoreHardLineBreaks 64 Morg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_ignorehardlinebreakshelp.jarLaTeX Export
+41 org.openoffice.da.writer2latex.oxt%3AOptionsIgnoreEmptyParagraphs 65 Norg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_ignoreemptyparagraphshelp.jarLaTeX Export
+3e org.openoffice.da.writer2latex.oxt%3AOptionsIgnoreDoubleSpaces 62 Korg.openoffice.da.writer2latex.oxt/export.xhp#bm_options_ignoredoublespaceshelp.jarLaTeX Export
+2f org.openoffice.da.writer4latex.oxt%2Fimport.xhp 42 -org.openoffice.da.writer4latex.oxt/import.xhphelp.jar
+TeX import
+35 org.openoffice.da.writer2latex.oxt%2Fintroduction.xhp 4a 3org.openoffice.da.writer2latex.oxt/introduction.xhphelp.jarIntroduction
+32 org.openoffice.da.writer2latex.oxt%2Flogviewer.xhp 49 0org.openoffice.da.writer2latex.oxt/logviewer.xhphelp.jarView log files
+2e org.openoffice.da.writer2latex.oxt%3ALogViewer 56 =org.openoffice.da.writer2latex.oxt/logviewer.xhp#bm_logviewerhelp.jarView log files
+31 org.openoffice.da.writer2latex.oxt%3AViewLaTeXLog 59 @org.openoffice.da.writer2latex.oxt/logviewer.xhp#bm_viewlatexloghelp.jarView log files
+30 org.openoffice.da.writer2latex.oxt%3AErrorFilter 58 ?org.openoffice.da.writer2latex.oxt/logviewer.xhp#bm_errorfilterhelp.jarView log files
+32 org.openoffice.da.writer2latex.oxt%3AViewBibTeXLog 5a Aorg.openoffice.da.writer2latex.oxt/logviewer.xhp#bm_viewbibtexloghelp.jarView log files
+35 org.openoffice.da.writer2latex.oxt%3AViewMakeindexLog 5d Dorg.openoffice.da.writer2latex.oxt/logviewer.xhp#bm_viewmakeindexloghelp.jarView log files
+2d org.openoffice.da.writer2latex.oxt%2Fmenu.xhp 46 +org.openoffice.da.writer2latex.oxt/menu.xhphelp.jarMenu and toolbar
+2d org.openoffice.da.writer2latex%3AInsertBibTeX 56 ;org.openoffice.da.writer2latex.oxt/menu.xhp#bm_insertbibtexhelp.jarMenu and toolbar
+30 org.openoffice.da.writer2latex%3AProcessDocument 59 >org.openoffice.da.writer2latex.oxt/menu.xhp#bm_processdocumenthelp.jarMenu and toolbar
+28 org.openoffice.da.writer2latex%3AViewLog 51 6org.openoffice.da.writer2latex.oxt/menu.xhp#bm_viewloghelp.jarMenu and toolbar
+31 org.openoffice.da.writer2latex%3AEditCustomFormat 5a ?org.openoffice.da.writer2latex.oxt/menu.xhp#bm_editcustomformathelp.jarMenu and toolbar

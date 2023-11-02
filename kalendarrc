@@ -1,0 +1,24 @@
+[ContactCollectionSelection]
+Current=x-1
+Selection=
+
+[General]
+lastOpenedView=WeekView
+
+[GlobalCollectionSelection]
+Current=x-1
+Selection=c17,c16,c14,c15,c18,c10,c4
+
+[Resources Colors]
+-18=invalid
+-19=invalid
+-21=invalid
+-22=invalid
+10=227,231,193
+14=22,167,101
+15=22,167,101
+16=159,225,231
+17=31,88,7
+18=229,26,198
+4=208,231,193
+9=134,174,153

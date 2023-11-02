@@ -1,0 +1,47 @@
+(defwidget dash []
+  (box :class "dash" :spacing 10 :space-evenly false
+    (box :orientation "v" :spacing 10 
+      (box :class "dash notifications"
+        (box :orientation "v" :width 40
+          (label 
+            :class "bell" 
+            :text "" 
+            :halign "start" :valign "start")
+        )
+        (box :halign "end" :valign "end"
+          (label :class "count" :text {notifications.count})
+        )
+      )
+      (box :class "dash updates"
+        (box :orientation "v"
+          (label 
+            :class "pacman" 
+            :text "󰮯" 
+            :halign "start" :valign "start")
+        )
+        (box :halign "end" :valign "end"
+          (label 
+            :class "updates"
+            :text {details.updates}
+          )
+        )
+      )
+    )
+    (box :class "dash weather"
+      (box :orientation "v" :halign "start" :valign "start"
+        (label :class "desc" :text {weather.description})
+        (label 
+          :class "temp" 
+          :text "${round(weather.temp, 1)}°C"
+          :halign "start")
+      )
+      (box :halign "end" :valign "end" 
+        (label 
+          :class "icon" 
+          :text {weather.icon}
+          :style "color: ${weather.color}"
+        )
+      )
+    )
+  )
+)

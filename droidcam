@@ -1,0 +1,10 @@
+v4
+ip=192.168.29.141
+port=4747
+audio=1
+video=0
+size=0x0
+confirm_close=1
+vertical_flip=0
+horizontal_flip=0
+type=0

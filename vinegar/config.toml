@@ -1,0 +1,3 @@
+[player]
+launcher = "gamescope -W 1920 -H 1080 -w 1920 -h 1080 --force-windows-fullscreen --force-grab-cursor --"
+channel = "zavatarteam2"

@@ -1,0 +1,39 @@
+(defwidget powermenu []
+  (box 
+    :class "powermenu"
+    :orientation "v"
+    :spacing 10
+    (eventbox
+      :cursor "pointer"
+      (button 
+        :class "powermenu shutdown" 
+        :onclick "systemctl poweroff -i" 
+        ""
+      )
+    )     
+    (eventbox
+      :cursor "pointer"
+      (button 
+        :class "powermenu reboot" 
+        :onclick "systemctl reboot -i" 
+        ""
+      )
+    )
+    (eventbox
+      :cursor "pointer"
+      (button 
+        :class "powermenu suspend" 
+        :onclick "systemctl suspend" 
+        ""
+      )
+    )
+    (eventbox
+      :cursor "pointer"
+      (button 
+        :class "powermenu exit" 
+        :onclick "hyprctl dispatch exit" 
+        ""
+      )
+    )
+  )
+)

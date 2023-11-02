@@ -1,0 +1,706 @@
+{
+	"file_history":
+	[
+		"/games/Shantae.Collection-jc141/settings.sh",
+		"/home/second/.xinitrc",
+		"/home/second/.Xauthority",
+		"/home/second/Sync/Obsidian/Arch/Important Setup.md",
+		"/usr/share/applications/minecraft.desktop",
+		"/games/Shantae.Collection-jc141/Pirates.Curse.sh",
+		"/games/Shantae.Collection-jc141/Riskys.Revenge.sh",
+		"/home/second/.local/share/applications/net.lutris.hotline-miami-6.desktop",
+		"/home/second/.local/share/applications/net.lutris.shovel-knight-treasure-trove-8.desktop",
+		"/games/Shantae.Collection-jc141/Seven.Sirens.sh",
+		"/games/Shantae.Collection-jc141/files/groot.dwarfs",
+		"/usr/bin/loadkeys",
+		"/games/Project.Zomboid/start.n.sh",
+		"/usr/share/icon-naming-utils/legacy-icon-mapping.xml",
+		"/home/second/.config/hypr/hyprland.conf",
+		"/usr/share/wayland-sessions/wrapped_hl.desktop",
+		"/etc/fstab",
+		"/home/second/eww/target/release/eww",
+		"/usr/share/wayland-sessions/sway.desktop",
+		"/home/second/Downloads/.config/ranger/scope.sh",
+		"/home/second/Downloads/.config/ranger/rc.conf",
+		"/home/second/Downloads/.config/i3/workspace-10.json",
+		"/home/second/Downloads/.config/i3/config",
+		"/home/second/.config/i3/workspace-10.json",
+		"/home/second/.config/rofi/launchers/type-2/style-2.rasi",
+		"/home/second/.config/rofi/launchers/type-2/launcher.sh",
+		"/home/second/.config/dunst/dunstrc-backup",
+		"/home/second/Downloads/.config/mimeapps.list",
+		"/home/second/.config/rofi/applets/bin/screenshot.sh",
+		"/home/second/.config/mimeapps.list",
+		"/home/second/.fehbg",
+		"/home/second/.bashrc",
+		"/home/second/.bash_profile",
+		"/home/second/.config/rofi/powermenu/type-3/powermenu.sh",
+		"/home/second/Downloads/.config/rofi/powermenu/type-3/powermenu.sh",
+		"/home/second/.config/dunst/alert.sh",
+		"/home/second/Downloads/.config/rofi/powermenu/powermenu.sh"
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4152,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"next_update_check": 1698478366,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1036.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			28.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/userzero/.gtkrc-2.0",
+				"/usr/share/wayland-sessions/hyprland.desktop",
+				"/usr/bin/xauth",
+				"/home/second/.config/i3/workspace-10.json",
+				"/games/Shantae.Collection-jc141/settings.sh",
+				"/home/second/.xinitrc",
+				"/home/second/.Xauthority",
+				"/home/second/Sync/Obsidian/Arch/Important Setup.md",
+				"/usr/share/applications/minecraft.desktop",
+				"/games/Shantae.Collection-jc141/Pirates.Curse.sh",
+				"/games/Shantae.Collection-jc141/Riskys.Revenge.sh",
+				"/home/second/.local/share/applications/net.lutris.hotline-miami-6.desktop",
+				"/home/second/.local/share/applications/net.lutris.shovel-knight-treasure-trove-8.desktop",
+				"/games/Shantae.Collection-jc141/Seven.Sirens.sh",
+				"/games/Shantae.Collection-jc141/files/groot.dwarfs",
+				"/usr/bin/loadkeys",
+				"/games/Project.Zomboid/start.n.sh",
+				"/usr/share/icon-naming-utils/legacy-icon-mapping.xml",
+				"/home/second/.config/hypr/hyprland.conf",
+				"/usr/share/wayland-sessions/wrapped_hl.desktop",
+				"/etc/fstab",
+				"/home/second/eww/target/release/eww",
+				"/usr/share/wayland-sessions/sway.desktop",
+				"/home/second/Downloads/.config/ranger/scope.sh",
+				"/home/second/Downloads/.config/ranger/rc.conf",
+				"/home/second/Downloads/.config/i3/workspace-10.json",
+				"/home/second/Downloads/.config/i3/config",
+				"/home/second/.config/rofi/launchers/type-2/style-2.rasi",
+				"/home/second/.config/rofi/launchers/type-2/launcher.sh",
+				"/home/second/.config/dunst/dunstrc-backup",
+				"/home/second/Downloads/.config/mimeapps.list",
+				"/home/second/.config/rofi/applets/bin/screenshot.sh",
+				"/home/second/.config/mimeapps.list",
+				"/home/second/.fehbg",
+				"/home/second/.bashrc",
+				"/home/second/.bash_profile",
+				"/home/second/.config/rofi/powermenu/type-3/powermenu.sh",
+				"/home/second/Downloads/.config/rofi/powermenu/type-3/powermenu.sh",
+				"/home/second/.config/dunst/alert.sh",
+				"/home/second/Downloads/.config/rofi/powermenu/powermenu.sh"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Risky"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 909.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "{\n    \"border\": \"pixel\",\n    \"current_border_width\": 3,\n    \"floating\": \"auto_off\",\n    \"geometry\": {\n       \"height\": 1016,\n       \"width\": 1894,\n       \"x\": 0,\n       \"y\": 0\n    },\n    \"marks\": [],\n    \"name\": \"btop\",\n    \"percent\": 0.565104166666667,\n    \"swallows\": [\n       {\n        \"class\": \"^kitty$\",\n        \"instance\": \"^kitty$\",\n        \"machine\": \"^h410m$\",\n        \"title\": \"^btop$\"\n       }\n    ],\n    \"type\": \"con\"\n}\n\n{\n    \"border\": \"pixel\",\n    \"floating\": \"auto_off\",\n    \"layout\": \"splitv\",\n    \"marks\": [],\n    \"percent\": 0.434895833333333,\n    \"type\": \"con\",\n    \"nodes\": [\n        {\n            \"border\": \"pixel\",\n            \"current_border_width\": 3,\n            \"floating\": \"auto_off\",\n            \"geometry\": {\n               \"height\": 1016,\n               \"width\": 1894,\n               \"x\": 10,\n               \"y\": 48\n            },\n            \"marks\": [],\n            \"name\": \"Friends - Discord\",\n            \"percent\": 0.5,\n            \"swallows\": [\n               {\n                \"class\": \"^discord$\",\n                \"instance\": \"^discord$\",\n                \"machine\": \"^h410m$\",\n                \"title\": \"Friends - Discord\",\n                \"window_role\": \"^browser\\\\-window$\"\n               }\n            ],\n            \"type\": \"con\"\n        },\n        {\n            \"border\": \"pixel\",\n            \"floating\": \"auto_off\",\n            \"layout\": \"splith\",\n            \"marks\": [],\n            \"percent\": 0.5,\n            \"type\": \"con\",\n            \"nodes\": [\n                {\n                    \"border\": \"pixel\",\n                    \"current_border_width\": 3,\n                    \"floating\": \"auto_off\",\n                    \"geometry\": {\n                       \"height\": 1016,\n                       \"width\": 939,\n                       \"x\": 968,\n                       \"y\": 51\n                    },\n                    \"marks\": [],\n                    \"name\": \"Telegram (76648)\",\n                    \"percent\": 1,\n                    \"swallows\": [\n                       {\n                        \"class\": \"^TelegramDesktop$\",\n                        \"machine\": \"^h410m$\"\n                       }\n                    ],\n                    \"type\": \"con\"\n                }\n            ]\n        }\n    ]\n}\n\n",
+					"file": "/home/second/.config/i3/workspace-10.json",
+					"file_size": 2244,
+					"file_write_time": 133171367668598697,
+					"settings":
+					{
+						"buffer_size": 2244,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAD7CQAAewogICAgImJvcmRlciI6ICJwaXhlbCIsCiAgICAiY3VycmVudF9ib3JkZXJfd2lkdGgiOiAzLAogICAgImZsb2F0aW5nIjogImF1dG9fb2ZmIiwKICAgICJnZW9tZXRyeSI6IHsKICAgICAgICJoZWlnaHQiOiAxMDE2LAogICAgICAgIndpZHRoIjogMTg5NCwKICAgICAgICJ4IjogMCwKICAgICAgICJ5IjogMAogICAgfSwKICAgICJtYXJrcyI6IFtdLAogICAgIm5hbWUiOiAiYnRvcCIsCiAgICAicGVyY2VudCI6IDAuNTY1MTA0MTY2NjY2NjY3LAogICAgInN3YWxsb3dzIjogWwogICAgICAgewogICAgICAgLy8gImNsYXNzIjogIl5raXR0eSQiLAogICAgICAgLy8gImluc3RhbmNlIjogIl5raXR0eSQiLAogICAgICAgLy8gIm1hY2hpbmUiOiAiXmg0MTBtJCIsCiAgICAgICAvLyAidGl0bGUiOiAiXmJ0b3AkIgogICAgICAgfQogICAgXSwKICAgICJ0eXBlIjogImNvbiIKfQoKewogICAgLy8gc3BsaXR2IHNwbGl0IGNvbnRhaW5lciB3aXRoIDIgY2hpbGRyZW4KICAgICJib3JkZXIiOiAicGl4ZWwiLAogICAgImZsb2F0aW5nIjogImF1dG9fb2ZmIiwKICAgICJsYXlvdXQiOiAic3BsaXR2IiwKICAgICJtYXJrcyI6IFtdLAogICAgInBlcmNlbnQiOiAwLjQzNDg5NTgzMzMzMzMzMywKICAgICJ0eXBlIjogImNvbiIsCiAgICAibm9kZXMiOiBbCiAgICAgICAgewogICAgICAgICAgICAiYm9yZGVyIjogInBpeGVsIiwKICAgICAgICAgICAgImN1cnJlbnRfYm9yZGVyX3dpZHRoIjogMywKICAgICAgICAgICAgImZsb2F0aW5nIjogImF1dG9fb2ZmIiwKICAgICAgICAgICAgImdlb21ldHJ5IjogewogICAgICAgICAgICAgICAiaGVpZ2h0IjogMTAxNiwKICAgICAgICAgICAgICAgIndpZHRoIjogMTg5NCwKICAgICAgICAgICAgICAgIngiOiAxMCwKICAgICAgICAgICAgICAgInkiOiA0OAogICAgICAgICAgICB9LAogICAgICAgICAgICAibWFya3MiOiBbXSwKICAgICAgICAgICAgIm5hbWUiOiAiI/CfjIxnZW5lcmFsIHwgQ2FybG9zUiBvY2Vsb3RlIC0gRGlzY29yZCIsCiAgICAgICAgICAgICJwZXJjZW50IjogMC41LAogICAgICAgICAgICAic3dhbGxvd3MiOiBbCiAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgLy8gImNsYXNzIjogIl5kaXNjb3JkJCIsCiAgICAgICAgICAgICAgIC8vICJpbnN0YW5jZSI6ICJeZGlzY29yZCQiLAogICAgICAgICAgICAgICAvLyAibWFjaGluZSI6ICJeaDQxMG0kIiwKICAgICAgICAgICAgICAgLy8gInRpdGxlIjogIl5cXCPwn4yMZ2VuZXJhbFxcIFxcfFxcIENhcmxvc1JcXCBvY2Vsb3RlXFwgXFwtXFwgRGlzY29yZCQiLAogICAgICAgICAgICAgICAvLyAid2luZG93X3JvbGUiOiAiXmJyb3dzZXJcXC13aW5kb3ckIgogICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICJ0eXBlIjogImNvbiIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgLy8gc3BsaXRoIHNwbGl0IGNvbnRhaW5lciB3aXRoIDEgY2hpbGRyZW4KICAgICAgICAgICAgImJvcmRlciI6ICJwaXhlbCIsCiAgICAgICAgICAgICJmbG9hdGluZyI6ICJhdXRvX29mZiIsCiAgICAgICAgICAgICJsYXlvdXQiOiAic3BsaXRoIiwKICAgICAgICAgICAgIm1hcmtzIjogW10sCiAgICAgICAgICAgICJwZXJjZW50IjogMC41LAogICAgICAgICAgICAidHlwZSI6ICJjb24iLAogICAgICAgICAgICAibm9kZXMiOiBbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgImJvcmRlciI6ICJwaXhlbCIsCiAgICAgICAgICAgICAgICAgICAgImN1cnJlbnRfYm9yZGVyX3dpZHRoIjog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"
+						],
+						[
+							8,
+							1,
+							"paste",
+							null,
+							"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"
+						],
+						[
+							11,
+							2,
+							"left_delete",
+							null,
+							"AgAAAAsFAAAAAAAACwUAAAAAAAA1AAAAICAgICAgICAgICAgLy8gc3BsaXRoIHNwbGl0IGNvbnRhaW5lciB3aXRoIDEgY2hpbGRyZW4KBQAAAAAAAAoFAAAAAAAAAQAAAAo",
+							"IAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABABQAAAAAAAAsFAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							18,
+							3,
+							"left_delete",
+							null,
+							"AwAAAPUHAAAAAAAA9QcAAAAAAAABAAAAIPQHAAAAAAAA9AcAAAAAAAABAAAAL/MHAAAAAAAA8wcAAAAAAAABAAAALw",
+							"IAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD2BwAAAAAAAPYHAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAPMHAAAAAAAA9AcAAAAAAAAAAAAA",
+							"IAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADzBwAAAAAAAPMHAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							23,
+							2,
+							"left_delete",
+							null,
+							"AgAAAGgIAAAAAAAAaAgAAAAAAAABAAAAL2cIAAAAAAAAZwgAAAAAAAABAAAALw",
+							"IAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABpCAAAAAAAAGkIAAAAAAAAAAAAAAAAaUA"
+						],
+						[
+							26,
+							7,
+							"left_delete",
+							null,
+							"BwAAACoIAAAAAAAAKggAAAAAAAAlAAAALyAiaW5zdGFuY2UiOiAiXnRlbGVncmFtXFwtZGVza3RvcCQiLCkIAAAAAAAAKQgAAAAAAAABAAAALyYIAAAAAAAAJggAAAAAAAADAAAAICAgIggAAAAAAAAiCAAAAAAAAAQAAAAgICAgHggAAAAAAAAeCAAAAAAAAAQAAAAgICAgGggAAAAAAAAaCAAAAAAAAAQAAAAgICAgFggAAAAAAAAWCAAAAAAAAAQAAAAgICAg",
+							"IAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAqCAAAAAAAAE8IAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							27,
+							2,
+							"left_delete",
+							null,
+							"AgAAABIIAAAAAAAAEggAAAAAAAAEAAAAICAgIBEIAAAAAAAAEQgAAAAAAAABAAAACg",
+							"IAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAWCAAAAAAAABYIAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							30,
+							2,
+							"left_delete",
+							null,
+							"AgAAAEAIAAAAAAAAQAgAAAAAAAA9AAAAICAgICAgICAgICAgICAgICAgICAgICAvLyAidGl0bGUiOiAiXlRlbGVncmFtXFwgXFwoNzY2NDhcXCkkIj8IAAAAAAAAPwgAAAAAAAABAAAACg",
+							"IAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB9CAAAAAAAAEAIAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							1,
+							1,
+							"insert",
+							{
+								"characters": "11"
+							},
+							"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+							"EgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							2,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAAIAAAAAAAAAAwAAAAAAAAAAAAAA",
+							"EgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							3,
+							3,
+							"left_delete",
+							null,
+							"AwAAAAIAAAAAAAAAAgAAAAAAAAABAAAAMQEAAAAAAAAAAQAAAAAAAAABAAAAMQAAAAAAAAAAAAAAAAAAAAABAAAAMQ",
+							"EgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAADwvw"
+						]
+					]
+				},
+				{
+					"file": "/usr/bin/xauth",
+					"settings":
+					{
+						"buffer_size": 129660,
+						"encoding": "Hexadecimal",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/usr/share/wayland-sessions/hyprland.desktop",
+					"settings":
+					{
+						"buffer_size": 117,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/userzero/.gtkrc-2.0",
+					"settings":
+					{
+						"buffer_size": 627,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/games/Shantae.Collection-jc141/settings.sh",
+				"/home/second/.xinitrc",
+				"/home/second/.Xauthority",
+				"/home/second/Sync/Obsidian/Arch/Important Setup.md",
+				"/usr/share/applications/minecraft.desktop",
+				"/games/Shantae.Collection-jc141/Pirates.Curse.sh",
+				"/games/Shantae.Collection-jc141/Riskys.Revenge.sh",
+				"/home/second/.local/share/applications/net.lutris.hotline-miami-6.desktop",
+				"/home/second/.local/share/applications/net.lutris.shovel-knight-treasure-trove-8.desktop",
+				"/games/Shantae.Collection-jc141/Seven.Sirens.sh",
+				"/games/Shantae.Collection-jc141/files/groot.dwarfs",
+				"/usr/bin/loadkeys",
+				"/games/Project.Zomboid/start.n.sh",
+				"/usr/share/icon-naming-utils/legacy-icon-mapping.xml",
+				"/home/second/.config/hypr/hyprland.conf",
+				"/usr/share/wayland-sessions/wrapped_hl.desktop",
+				"/etc/fstab",
+				"/home/second/eww/target/release/eww",
+				"/usr/share/wayland-sessions/sway.desktop",
+				"/home/second/Downloads/.config/ranger/scope.sh",
+				"/home/second/Downloads/.config/ranger/rc.conf",
+				"/home/second/Downloads/.config/i3/workspace-10.json",
+				"/home/second/Downloads/.config/i3/config",
+				"/home/second/.config/i3/workspace-10.json",
+				"/home/second/.config/rofi/launchers/type-2/style-2.rasi",
+				"/home/second/.config/rofi/launchers/type-2/launcher.sh",
+				"/home/second/.config/dunst/dunstrc-backup",
+				"/home/second/Downloads/.config/mimeapps.list",
+				"/home/second/.config/rofi/applets/bin/screenshot.sh",
+				"/home/second/.config/mimeapps.list",
+				"/home/second/.fehbg",
+				"/home/second/.bashrc",
+				"/home/second/.bash_profile",
+				"/home/second/.config/rofi/powermenu/type-3/powermenu.sh",
+				"/home/second/Downloads/.config/rofi/powermenu/type-3/powermenu.sh",
+				"/home/second/.config/dunst/alert.sh",
+				"/home/second/Downloads/.config/rofi/powermenu/powermenu.sh"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Risky"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/second/.config/i3/workspace-10.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2244,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JSON/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 342.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/usr/bin/xauth",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 129660,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Binary/Binary.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 61454.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/usr/share/wayland-sessions/hyprland.desktop",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 117,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										100,
+										100
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/userzero/.gtkrc-2.0",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 627,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,909,511,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

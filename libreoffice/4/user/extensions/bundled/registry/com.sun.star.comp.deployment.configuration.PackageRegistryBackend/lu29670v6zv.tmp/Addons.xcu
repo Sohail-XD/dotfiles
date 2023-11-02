@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Addons" oor:package="org.openoffice.Office">
+<!-- Defines toolbar provided by Writer2xhtml -->
+<node oor:name="AddonUI">
+	<node oor:name="OfficeToolBar">
+		<node oor:name="org.openoffice.da.writer2xhtml.OfficeToolBar" oor:op="replace">
+      		<node oor:name="button1" oor:op="replace">
+                <prop oor:name="Context" oor:type="xs:string">
+                    <value>com.sun.star.text.TextDocument,com.sun.star.sheet.SpreadsheetDocument</value>
+                </prop>
+                <prop oor:name="Title" oor:type="xs:string">
+                    <value xml:lang="en-US">Publish as XHTML</value>
+                    <value xml:lang="da">Publicer som XHTML</value>
+                </prop>
+                <prop oor:name="Target" oor:type="xs:string">
+                    <value>_self</value>
+                </prop>
+                <prop oor:name="URL" oor:type="xs:string">
+                    <value>org.openoffice.da.writer2xhtml:PublishAsXHTML</value>
+                </prop>
+                <prop oor:name="ImageIdentifier" oor:type="xs:string">
+                    <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2xhtml/icons/html5</value>
+                </prop>
+      		</node>
+      		<node oor:name="button2" oor:op="replace">
+                <prop oor:name="Context" oor:type="xs:string">
+                    <value>com.sun.star.text.TextDocument</value>
+                </prop>
+                <prop oor:name="Title" oor:type="xs:string">
+                    <value xml:lang="en-US">Publish as EPUB</value>
+                    <value xml:lang="da">Publicer som EPUB</value>
+                </prop>
+                <prop oor:name="Target" oor:type="xs:string">
+                    <value>_self</value>
+                </prop>
+                <prop oor:name="URL" oor:type="xs:string">
+                    <value>org.openoffice.da.writer2xhtml:PublishAsEPUB</value>
+                </prop>
+                <prop oor:name="ImageIdentifier" oor:type="xs:string">
+                    <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2xhtml/icons/epub</value>
+                </prop>
+      		</node>
+      		<node oor:name="button3" oor:op="replace">
+                <prop oor:name="Context" oor:type="xs:string">
+                    <value>com.sun.star.text.TextDocument</value>
+                </prop>
+                <prop oor:name="Title" oor:type="xs:string">
+                    <value xml:lang="en-US">Edit EPUB document properties</value>
+                    <value xml:lang="da">Rediger EPUB-dokumentegenskaber</value>
+                </prop>
+                <prop oor:name="Target" oor:type="xs:string">
+                    <value>_self</value>
+                </prop>
+                <prop oor:name="URL" oor:type="xs:string">
+                    <value>org.openoffice.da.writer2xhtml:EditEPUBDocumentProperties</value>
+                </prop>
+                <prop oor:name="ImageIdentifier" oor:type="xs:string">
+                    <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2xhtml/icons/metadata</value>
+                </prop>
+      		</node>
+      		<node oor:name="button4" oor:op="replace">
+                <prop oor:name="Context" oor:type="xs:string">
+                    <value>com.sun.star.text.TextDocument,com.sun.star.sheet.SpreadsheetDocument</value>
+                </prop>
+                <prop oor:name="Title" oor:type="xs:string">
+                    <value xml:lang="en-US">Edit custom style</value>
+                    <value xml:lang="da">Rediger brugerdefineret typografi</value>
+                </prop>
+                <prop oor:name="Target" oor:type="xs:string">
+                    <value>_self</value>
+                </prop>
+                <prop oor:name="URL" oor:type="xs:string">
+                    <value>.uno:OptionsTreeDialog?OptionsPageURL:string=vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2xhtml/W2XDialogs2/General.xdl</value>
+                </prop>
+                <prop oor:name="ImageIdentifier" oor:type="xs:string">
+                    <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2xhtml/icons/customh</value>
+                </prop>
+      		</node>
+      	</node>
+    </node>
+</node>
+
+</oor:component-data>

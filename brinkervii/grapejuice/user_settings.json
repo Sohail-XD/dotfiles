@@ -1,0 +1,76 @@
+{
+  "version": 3,
+  "hardware_profile": {
+    "graphics_id": "1d26dc25ddfd23aec53234f444610f32a75173d12284316f386c852ffbcb85af",
+    "gpu_vendor_id": 2,
+    "gpu_pci_id": "01:00.0",
+    "gpu_can_do_vulkan": true,
+    "provider_index": 0,
+    "provider_name": "NVIDIA Corporation GP108 [GeForce GT 1030] (rev ...",
+    "should_prime": false,
+    "use_mesa_gl_override": false,
+    "preferred_roblox_renderer_string": "Vulkan",
+    "is_multi_gpu": false,
+    "version": 2
+  },
+  "show_fast_flag_warning": false,
+  "release_channel": "master",
+  "disable_updates": false,
+  "try_profiling_hardware": true,
+  "default_wine_home": "",
+  "wineprefixes": [
+    {
+      "id": "545779f2-cc09-4163-983e-658d01112460",
+      "priority": 0,
+      "name_on_disk": "player1",
+      "display_name": "player1",
+      "wine_home": "",
+      "dll_overrides": "dxdiagn=;winemenubuilder.exe=",
+      "prime_offload_sink": -1,
+      "use_mesa_gl_override": false,
+      "enable_winedebug": false,
+      "winedebug_string": "",
+      "roblox_renderer": "Vulkan",
+      "env": {},
+      "hints": [],
+      "fast_flags": {},
+      "third_party": {},
+      "dxvk_overrides": [
+        "d3d11",
+        "d3d9",
+        "dxgi",
+        "d3d10core"
+      ]
+    },
+    {
+      "id": "4cfec522-002b-456d-864c-0d77f0c7a49d",
+      "priority": 0,
+      "name_on_disk": "player",
+      "display_name": "Player",
+      "wine_home": "",
+      "dll_overrides": "dxdiagn=;winemenubuilder.exe=",
+      "prime_offload_sink": -1,
+      "use_mesa_gl_override": false,
+      "enable_winedebug": false,
+      "winedebug_string": "",
+      "roblox_renderer": "__undetermined__",
+      "env": {},
+      "hints": [
+        "player",
+        "app"
+      ],
+      "fast_flags": {},
+      "third_party": {
+        "fps_unlocker": false,
+        "dxvk": false
+      },
+      "dxvk_overrides": [
+        "d3d9",
+        "d3d11",
+        "dxgi",
+        "d3d10core"
+      ]
+    }
+  ],
+  "unsupported_settings": {}
+}

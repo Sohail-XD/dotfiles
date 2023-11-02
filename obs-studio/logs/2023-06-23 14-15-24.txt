@@ -1,0 +1,207 @@
+14:15:24.966: Platform: Wayland
+14:15:24.966: CPU Name: Intel(R) Core(TM) i3-10105F CPU @ 3.70GHz
+14:15:24.966: CPU Speed: 4269.342MHz
+14:15:24.966: Physical Cores: 4, Logical Cores: 8
+14:15:24.966: Physical Memory: 7814MB Total, 1046MB Free
+14:15:24.966: Kernel Version: Linux 6.3.8-arch1-1
+14:15:24.967: Distribution: "Arch Linux" Unknown
+14:15:24.967: Desktop Environment: Hyprland (wrapped_hl)
+14:15:24.967: Session Type: wayland
+14:15:24.970: Qt Version: 6.5.1 (runtime), 6.5.1 (compiled)
+14:15:24.970: Portable mode: false
+14:15:25.022: OBS 29.1.1-2 (linux)
+14:15:25.022: ---------------------------------
+14:15:25.023: ---------------------------------
+14:15:25.023: audio settings reset:
+14:15:25.023: 	samples per sec: 48000
+14:15:25.023: 	speakers:        2
+14:15:25.023: 	max buffering:   960 milliseconds
+14:15:25.023: 	buffering type:  dynamically increasing
+14:15:25.025: ---------------------------------
+14:15:25.025: Initializing OpenGL...
+14:15:25.025: Using EGL/Wayland
+14:15:25.034: Initialized EGL 1.5
+14:15:25.046: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GT 1030/PCIe/SSE2
+14:15:25.046: OpenGL loaded successfully, version 3.3.0 NVIDIA 535.54.03, shading language 3.30 NVIDIA via Cg compiler
+14:15:25.278: ---------------------------------
+14:15:25.278: video settings reset:
+14:15:25.278: 	base resolution:   1920x1080
+14:15:25.278: 	output resolution: 1920x1080
+14:15:25.278: 	downscale filter:  Bicubic
+14:15:25.278: 	fps:               30/1
+14:15:25.278: 	format:            NV12
+14:15:25.278: 	YUV mode:          Rec. 709/Partial
+14:15:25.278: NV12 texture support not available
+14:15:25.278: P010 texture support not available
+14:15:25.278: Audio monitoring device:
+14:15:25.278: 	name: Default
+14:15:25.278: 	id: default
+14:15:25.278: ---------------------------------
+14:15:25.285: Failed to load 'en-US' text for module: 'decklink-captions.so'
+14:15:25.291: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+14:15:25.296: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+14:15:25.296: Failed to initialize module 'decklink.so'
+14:15:25.414: [pipewire] Available captures:
+14:15:25.414: [pipewire]     - Desktop capture
+14:15:25.440: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+14:15:25.486: VAAPI: API version 1.18
+14:15:25.504: FFmpeg VAAPI H264 encoding supported
+14:15:25.559: FFmpeg VAAPI HEVC encoding supported
+14:15:25.692: ---------------------------------
+14:15:25.692:   Loaded Modules:
+14:15:25.692:     text-freetype2.so
+14:15:25.692:     rtmp-services.so
+14:15:25.692:     obs-x264.so
+14:15:25.692:     obs-vst.so
+14:15:25.692:     obs-transitions.so
+14:15:25.692:     obs-outputs.so
+14:15:25.692:     obs-libfdk.so
+14:15:25.692:     obs-filters.so
+14:15:25.692:     obs-ffmpeg.so
+14:15:25.692:     linux-v4l2.so
+14:15:25.692:     linux-pulseaudio.so
+14:15:25.692:     linux-pipewire.so
+14:15:25.692:     linux-jack.so
+14:15:25.692:     linux-capture.so
+14:15:25.692:     linux-alsa.so
+14:15:25.692:     image-source.so
+14:15:25.692:     frontend-tools.so
+14:15:25.692:     decklink-output-ui.so
+14:15:25.692:     decklink-captions.so
+14:15:25.692: ---------------------------------
+14:15:25.695: ==== Startup complete ===============================================
+14:15:25.748: All scene data cleared
+14:15:25.749: ------------------------------------------------
+14:15:25.808: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.71) 15.0.0'
+14:15:25.809: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+14:15:25.809: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.pro-output-0.monitor' (default)
+14:15:25.809: [Loaded global audio device]: 'Desktop Audio'
+14:15:25.810: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.71) 15.0.0'
+14:15:25.811: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+14:15:25.811: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.pro-input-2' (default)
+14:15:25.811: [Loaded global audio device]: 'Mic/Aux'
+14:15:25.813: PipeWire initialized
+14:15:25.817: Switched to scene 'Scene'
+14:15:25.817: ------------------------------------------------
+14:15:25.817: Loaded scenes:
+14:15:25.817: - scene 'Scene':
+14:15:25.817:     - source: 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source)
+14:15:25.817: ------------------------------------------------
+14:15:25.876: [pipewire] Screencast session created
+14:15:25.955: [pipewire] Asking for desktop
+14:15:26.006: [pipewire] desktop selected, setting up screencast
+14:15:26.013: [pipewire] Server version: 0.3.71
+14:15:26.013: [pipewire] Library version: 0.3.71
+14:15:26.013: [pipewire] Header version: 0.3.71
+14:15:26.013: [pipewire] Created stream 0x55a4eea7ca50
+14:15:26.013: [pipewire] Stream 0x55a4eea7ca50 state: "connecting" (error: none)
+14:15:26.013: [pipewire] Playing stream 0x55a4eea7ca50
+14:15:26.014: [pipewire] Stream 0x55a4eea7ca50 state: "paused" (error: none)
+14:15:26.032: [pipewire] Negotiated format:
+14:15:26.032: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+14:15:26.032: [pipewire]     Modifier: 0x0
+14:15:26.032: [pipewire]     Size: 1920x1080
+14:15:26.032: [pipewire]     Framerate: 0/1
+14:15:26.032: [pipewire] Negotiated format:
+14:15:26.032: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+14:15:26.032: [pipewire]     Modifier: 0x300000000cdb014
+14:15:26.032: [pipewire]     Size: 1920x1080
+14:15:26.032: [pipewire]     Framerate: 0/1
+14:15:26.033: [pipewire] Stream 0x55a4eea7ca50 state: "streaming" (error: none)
+14:15:26.431: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+14:15:26.431: 
+14:17:19.540: Settings changed (general, stream 1, outputs)
+14:17:19.540: ------------------------------------------------
+14:17:34.503: Settings changed (outputs)
+14:17:34.503: ------------------------------------------------
+14:20:38.717: Settings changed (stream 1, outputs)
+14:20:38.743: ------------------------------------------------
+14:20:40.768: ---------------------------------
+14:20:40.768: [x264 encoder: 'simple_video_stream'] preset: veryfast
+14:20:40.768: [x264 encoder: 'simple_video_stream'] settings:
+14:20:40.768: 	rate_control: CBR
+14:20:40.768: 	bitrate:      2500
+14:20:40.768: 	buffer size:  2500
+14:20:40.768: 	crf:          23
+14:20:40.768: 	fps_num:      30
+14:20:40.768: 	fps_den:      1
+14:20:40.768: 	width:        1920
+14:20:40.768: 	height:       1080
+14:20:40.768: 	keyint:       60
+14:20:40.768: 
+14:20:40.792: libfdk_aac encoder created
+14:20:40.792: libfdk_aac bitrate: 160, channels: 2
+14:20:40.792: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://bangalore.restream.io/live...
+14:20:43.083: [rtmp stream: 'simple_stream'] Connection to rtmp://bangalore.restream.io/live successful
+14:20:43.083: ==== Streaming Start ===============================================
+14:22:20.882: [rtmp stream: 'simple_stream'] User stopped the stream
+14:22:20.890: Output 'simple_stream': stopping
+14:22:20.890: Output 'simple_stream': Total frames output: 2907
+14:22:20.890: Output 'simple_stream': Total drawn frames: 3003
+14:22:20.891: ==== Streaming Stop ================================================
+14:22:20.913: libfdk_aac encoder destroyed
+14:22:28.844: Settings changed (stream 1)
+14:22:28.844: ------------------------------------------------
+14:29:11.316: ---------------------------------
+14:29:11.316: [x264 encoder: 'simple_video_stream'] preset: veryfast
+14:29:11.316: [x264 encoder: 'simple_video_stream'] settings:
+14:29:11.316: 	rate_control: CBR
+14:29:11.316: 	bitrate:      2500
+14:29:11.316: 	buffer size:  2500
+14:29:11.316: 	crf:          23
+14:29:11.316: 	fps_num:      30
+14:29:11.316: 	fps_den:      1
+14:29:11.316: 	width:        1920
+14:29:11.316: 	height:       1080
+14:29:11.316: 	keyint:       60
+14:29:11.316: 
+14:29:11.331: libfdk_aac encoder created
+14:29:11.331: libfdk_aac bitrate: 160, channels: 2
+14:29:11.331: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://singapore.restream.io/live...
+14:29:12.278: [rtmp stream: 'simple_stream'] Connection to rtmp://singapore.restream.io/live successful
+14:29:12.278: ==== Streaming Start ===============================================
+14:40:37.226: NV12 texture support not available
+14:40:37.226: P010 texture support not available
+14:40:37.227: Failed to start virtual camera
+14:40:37.915: NV12 texture support not available
+14:40:37.915: P010 texture support not available
+14:40:37.915: Failed to start virtual camera
+14:40:38.106: NV12 texture support not available
+14:40:38.106: P010 texture support not available
+14:40:38.107: Failed to start virtual camera
+14:42:48.958: alsa-input: PCM 'default' rate set to 44100
+14:42:48.958: alsa-input: PCM 'default' channels set to 2
+14:42:48.988: User added source 'Audio Capture Device (ALSA)' (alsa_input_capture) to scene 'Scene'
+14:43:08.290: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.71) 15.0.0'
+14:43:08.290: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+14:43:08.290: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.pro-input-2' (default)
+14:43:08.293: User added source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) to scene 'Scene'
+14:43:47.722: adding 64 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Audio Input Capture (PulseAudio))
+14:43:47.722: 
+14:55:43.077: [pipewire] Stream 0x55a4eea7ca50 state: "paused" (error: none)
+14:55:43.077: [pipewire] Stream 0x55a4eea7ca50 state: "unconnected" (error: none)
+14:55:43.077: PipeWire initialized
+14:55:43.079: [pipewire] Screencast session created
+14:55:49.470: [pipewire] Failed to select source, denied or cancelled by user
+14:55:53.737: PipeWire initialized
+14:55:53.739: [pipewire] Screencast session created
+14:55:54.473: [pipewire] Asking for desktop
+14:55:54.527: [pipewire] desktop selected, setting up screencast
+14:55:54.532: [pipewire] Server version: 0.3.71
+14:55:54.532: [pipewire] Library version: 0.3.71
+14:55:54.532: [pipewire] Header version: 0.3.71
+14:55:54.532: [pipewire] Created stream 0x55a4eefbb660
+14:55:54.532: [pipewire] Stream 0x55a4eefbb660 state: "connecting" (error: none)
+14:55:54.532: [pipewire] Playing stream 0x55a4eefbb660
+14:55:54.532: [pipewire] Stream 0x55a4eefbb660 state: "paused" (error: none)
+14:55:54.538: [pipewire] Negotiated format:
+14:55:54.538: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+14:55:54.538: [pipewire]     Modifier: 0x0
+14:55:54.539: [pipewire]     Size: 1920x1080
+14:55:54.539: [pipewire]     Framerate: 0/1
+14:55:54.539: [pipewire] Negotiated format:
+14:55:54.539: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+14:55:54.539: [pipewire]     Modifier: 0x300000000cdb014
+14:55:54.539: [pipewire]     Size: 1920x1080
+14:55:54.539: [pipewire]     Framerate: 0/1
+14:55:54.539: [pipewire] Stream 0x55a4eefbb660 state: "streaming" (error: none)

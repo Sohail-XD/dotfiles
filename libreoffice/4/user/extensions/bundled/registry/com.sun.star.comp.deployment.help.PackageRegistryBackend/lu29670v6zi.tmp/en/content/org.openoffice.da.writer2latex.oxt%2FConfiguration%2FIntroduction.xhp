@@ -1,0 +1,13 @@
+Custom format
+Define a custom format for the LaTeX export
+
+        	Choose Tools - Options - Writer2LaTeX
+
+        
+
+Writer2LaTeX comes with a number of predefined LaTeX formats.
+        A format defines the kind of LaTeX document to generate (the document class to use and the packages to load).
+        It also defines a set of rules defining how content and formatting should be exported to LaTeX. Advanced users can define
+        their own format on these pages. This requires some knowledge of LaTeX.
+To use the custom format, choose Custom in the export dialog.
+

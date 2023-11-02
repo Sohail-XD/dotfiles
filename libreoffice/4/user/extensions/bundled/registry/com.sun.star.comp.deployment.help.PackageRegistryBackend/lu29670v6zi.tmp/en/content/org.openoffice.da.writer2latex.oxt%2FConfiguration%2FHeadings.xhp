@@ -1,0 +1,44 @@
+Headings
+Define the conversion of headings in the document
+
+        	Choose Tools - Options - Writer2LaTeX - Headings
+
+        
+Headings
+
+Heading levels to export
+Choose the number of heading levels you want to export as LaTeX sectioning commands.
+        Other headings are exported as ordinary paragraphs.
+
+Writer level
+Choose a heading level to configure.
+
+LaTeX level
+Choose the heading level in LaTeX to use for the selected Writer level.
+The standard document classes uses this level numbering
+\part: Level -1
+
+\chapter: Level 0
+
+\section: Level 1
+
+\subsection: Level 2
+
+\subsubsection: Level 3
+
+\paragraph: Level 4
+
+\supparagraph: Level 5
+
+
+
+LaTeX heading name
+Enter the name of the section command in LaTeX, e.g. section to
+        produce a \section, or select a standard section command from the list.
+Indexes and tables
+
+Do not include indexes
+If you check this option, Writer2LaTeX will not export indexes
+        (e.g. table of contents, bibliopgrahy). This option is intended for the case that the document is to be part
+        of a larger LaTeX document, which may contain global indexes.
+

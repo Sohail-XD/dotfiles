@@ -1,0 +1,38 @@
+Menu and toolbar
+Using Writer2LaTeX as an export filter
+File - Export
+Writer2LaTeX adds two entries to the File - Export 
+        menu in Writer
+LaTeX 2e [Writer2LaTeX] to export the
+		        current document to LaTeX.
+
+BibTeX [Writer2LaTeX] to export the
+		        bibliographic references in the current document to BibTeX.
+
+
+Using the Writer2LaTeX toolbar
+Writer2LaTeX adds a toolbar in Writer,
+        providing the following commands.
+Insert BibTeX reference
+
+Insert a bibliographic reference to an item in a BibTeX file.
+Insert reference to an item in a BibTeX file
+Publish to LaTeX
+
+Convert the document to LaTeX, process the result with LaTeX
+        and display the result in an external viewer.
+Before you can use this feature, you need to
+        configure
+        the external applications to use.
+        
+Run LaTeX and display the result
+View Log files
+
+In case of any problems in the conversion process, you can view the log files created by
+        LaTeX, MakeIndex and BibTeX here
+View log files created by LaTeX, MakeIndex and BibTeX
+Edit custom format
+
+Edit the custom export format. This format is used if you select
+        Custom as LaTeX format in the export dialog.
+

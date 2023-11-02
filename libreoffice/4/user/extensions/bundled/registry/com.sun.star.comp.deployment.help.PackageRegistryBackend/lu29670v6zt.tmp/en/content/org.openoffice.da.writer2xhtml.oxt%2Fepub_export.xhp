@@ -1,0 +1,197 @@
+
+EPUB Export (Writer)
+Exports the current document to EPUB format.
+
+        	Choose File - Export - EPUB
+
+        	or File - Export - EPUB 3
+
+        	or click the EPUB-button
+ in the toolbar
+        
+Style
+
+Select the style to use for the EPUB document
+Use style
+This option allows you to choose between various styles to apply to the
+       	EPUB document.
+Original formatting produces an EPUB document which uses
+				the same style as the original document. The document will look quite similar to the original when viewed
+				with an EPUB reader.
+
+Custom is a user defined format. You can define your own
+				style by providing a CSS style sheet and a mapping from Writer styles to your CSS styles.
+				To configure the custom format, choose Tools - Options - Writer2xhtml.
+
+
+
+Select a scaling to apply to all dimensions in the document
+Viewing the document with an EPUB reader will often require different dimensions
+        (e.g. margins) than the original document.
+
+Select a scaling to apply to all column dimensions in the document
+
+Check this to export all font sizes as percentages
+Use relative font size
+For EPUB it is recommended to use relative font sizes, and using this option will
+        	export all font sizes as percentages. In some EPUB readers this will enable the user to scale the fonts.
+
+Select a scaling factor to apply to all font sizes
+Scaling
+The relative font size is calculated relative to the default font size in the
+        document. Using this option you can define a percentage used to scale all font sizes.
+        Thus with the setting 140, all font sizes will be 40% larger.
+
+Check this to replace all fonts with a single font
+Use a single font for the entire document
+Some style guides recommend to use a single font for the entire EPUB document.
+        Check this option to ignore all font information in the original document and export a single font.
+
+Enter or select the font name to use (or leave blank to use the EPUB reader's default font)
+Font name
+Enter a font name or select a font name in the list. This font will be used for
+        all text in the EPUB document. You can also leave the field blank: In this case no font information will be exported, and
+        the EPUB reader will choose a default font.
+
+Check this if you want to convert all units to px rather than using the original units
+For EPUB it is recommended to use the unit px instead, and using this option you can require that
+       	all dimensions are converted to px.
+
+Image size
+Select how to set the image size in the EPUB document
+Select how to set the image size in the EPUB document
+Use absolute size: Images will get the same size in the EPUB
+    		    document as in the original %PRODUCTNAME Writer document.
+
+Use relative size (%): Image sizes will be exported as
+    		    a percentage of the total width.
+    		    This has the advantage that the image size will adapt to the size of the reader screen.
+
+Use original image size: Often images in a %PRODUCTNAME document
+    		    are scaled up or down from their original size. If you select this option, the original (unscaled) image
+        		size will be used.
+
+
+AutoCorrect
+
+Ignore hard line breaks
+Check this if you don't want to export hard (manual) line breaks
+Sometimes hard (or manual) line breaks are used in Writer to optimize
+        the placement of the line breaks. Since line breaking in an EPUB reader is completely different, you may want to ignore
+        all hard line breaks by selecting this option.
+
+Check this if you don't want to export empty paragraphs
+
+Check this to treat several spaces as a single space in the export
+
+Check this to export and display all hidden text
+Display hidden text
+If sections or text fragments are hidden in the original document they will normally
+        not be exported. If you check this option, hidden text will be exported to visible text in the EPUB document.
+
+Check this if you want to export notes (annotations) in the document
+If you select this option, notes (also known as annotations) in the
+       	%PRODUCTNAME document are exported as comments in the EPUB document. They will not be directly visible in the reader.
+       	If the option is not selected, notes are completely ignored.
+Document division (page breaks)
+These settings lets you insert page breaks at various places in the document.
+   		It is recommended always to use one or more of these settings. One reason for this is that it enhances the readability of
+   		your document. Another reason is technical: Page breaks splits the splits the internal structure into smaller parts.
+   		This improves performance, and also some EPUB readers have a limitation on the size of the individual parts of the
+   		doucment.
+
+Select the heading level at which spliting should occur, or "None" if you do not want to split at headings
+At heading level
+Use this option to split the document at headings. This is the most common way
+        to split the document. Note that this option has no effect for headings
+        inside tables.
+You can either select None (the document will not split at headings),
+      	or you can select at which level splitting should occur.
+      	For example 2 to split the document at all headings of level 1 or 2.
+
+At page breaks
+Select the type page breaks at which you want to split the document
+This option enables you to split the document at the original page breaks.
+        Select the type of page breaks in the list:
+Select None if you do not want to split at page breaks.
+
+Select Defined by styles to split at page breaks defined
+        		in paragraph styles.
+
+Select All explicit to also split at manual page breaks
+        		(Insert - Manual Break - Page Break).
+
+Select All to split at all page breaks in the document. This
+        		includes automatic page breaks, but Writer2xhtml will never split the document inside a paragraph, list or table.
+
+
+
+Use full screen for large images
+Select this option to show large images on full screen rather than embedded in the text
+Images will normally be exported as an integrated part of the text. As EPUB readers
+        may have a relatively small screen, this may not be optimal for large images.
+        Select this option to split the document at large images, which means that they will be displayed on full screen.
+
+Minimum width
+Enter the minimum width used to identify a large image
+Enter the minimum width for a large image. Only images with at least this relative width
+        and an aspect ratio of 3:4 or higher will be export as full screen images.
+
+Use first image as cover image
+Check this to use the first image found in the document as cover image
+An EPUB document often include a cover image in analogy with the cover of a book.
+        Check this to use the first image found in the document as cover image. The position
+        of the image in the original document does not matter.
+
+Automatic split of long documents
+Check this to enable automatic split of long documents based on the number of characters
+Use this option to limit the size of each document part.
+
+After (in 1000 characters)
+Enter the number of characters after which an automatic split should occur
+Enter the number of characters after which an automatic split should occur.
+        Writer2xhtml will split the document at the first possible break point after this number of characters.
+Navigation table
+
+Heading levels to include
+Select the number of heading levels to include in the content table in the EPUB document
+An EPUB document contains a content table, which the EPUB reader can use to let the
+        user navigate through the document. Writer2xhtml generates this table based on the headings and index marks in the document.
+        You can select the number of heading levels to include (choose 0 if you do not want any headings in the table).
+
+Index mark levels to include
+Select the number of index mark levels to include in the content table in the EPUB document
+This is a companion to the previous option.
+        You can select the number of index mark levels to include (choose 0 if you do not want any index marks in the table).
+
+Include links to other indexes
+Check this to add links to alphabetical index and user index to the EPUB content table
+If the document contains an alphabetical index and/or a user defined index,
+        you can add these to the EPUB content table by checking this option.
+
+Also include original table of contents
+Check this to include the original table of contents in addition to the EPUB content table
+Your document may also include a normal table of contents.
+        Check this if you want to include this table of contents in addition to the navigation table.
+EPUB 2 compatibility
+These settings are only avaliable if the export format is EPUB 3.
+        They provide two compatibility options for older EPUB readers which are not fully compatible with EPUB 3.
+        Alternatively, you can set the export format to EPUB 2 under
+        Tools - Options - Writer2xhtml toolbar
+
+Include EPUB 2 navigation
+Check this to include navigation information in EPUB 2 format
+EPUB 3 uses a new format for the navigation information.
+        Check this option if you want to help older EPUB readers by including navigation information in the old format.
+
+Avoid HTML5 elements
+Check this to avoid the use of elements specific for HTML5
+EPUB 3 uses HTML5 for the text. Check this option if you want to help older EPUB
+        readers by avoiding elements that are specific for HTML5.
+Document properties
+
+Clik this to edit the document properties, e.g. author, title, date
+Edit document properties
+Click this button to open the dialog to edit the document properties such as
+       	title, author or date.
+

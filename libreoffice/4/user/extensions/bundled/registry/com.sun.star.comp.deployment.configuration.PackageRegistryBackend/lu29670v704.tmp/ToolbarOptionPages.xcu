@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+ 
+<oor:component-data oor:name="OptionsDialog" oor:package="org.openoffice.Office" 
+  xmlns:oor="http://openoffice.org/2001/registry" 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ 
+  <node oor:name="Modules">
+    <!-- This node should appear in the Writer module -->
+    <node oor:name="com.sun.star.text.TextDocument" oor:op="fuse">
+      <node oor:name="Nodes">
+        <node oor:name="org.openoffice.da.writer2xhtml.toolbar.configuration" 
+          oor:op="fuse">
+        </node>
+      </node>
+    </node>
+  </node>
+  
+  <node oor:name="Nodes">
+  
+	<!-- We define a single root node -->
+    <node oor:name="org.openoffice.da.writer2xhtml.toolbar.configuration" 
+      oor:op="fuse"> 
+      <prop oor:name="Id">
+        <value>org.openoffice.da.writer2xhtml.toolbar.configuration</value>
+      </prop>
+      <prop oor:name="Label">
+        <value xml:lang="en-US">Writer2xhtml toolbar</value>
+      </prop>
+      <prop oor:name="OptionsPage">
+        <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2xhtml/W2XDialogs2/ToolbarConfigurationRoot.xdl</value>
+      </prop>
+      <prop oor:name="EventHandlerService">
+        <value></value>
+      </prop>
+
+      <node oor:name="Leaves">
+      	<!-- and the root node has several leaves -->
+        <node oor:name="org.openoffice.da.writer2xhtml.toolbar.settings" 
+          oor:op="fuse">
+          <prop oor:name="Id">
+            <value>org.openoffice.da.writer2xhtml.toolbar.settings</value>
+          </prop>
+          <prop oor:name="Label">
+            <value xml:lang="en-US">Settings</value>
+          </prop>
+          <prop oor:name="OptionsPage">
+            <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2xhtml/W2XDialogs2/ToolbarSettings.xdl</value>
+          </prop>
+          <prop oor:name="EventHandlerService">
+            <value>org.openoffice.da.writer2xhtml.ToolbarSettingsDialog</value>
+          </prop>
+        </node>
+      </node>
+    </node>
+  </node>
+</oor:component-data>

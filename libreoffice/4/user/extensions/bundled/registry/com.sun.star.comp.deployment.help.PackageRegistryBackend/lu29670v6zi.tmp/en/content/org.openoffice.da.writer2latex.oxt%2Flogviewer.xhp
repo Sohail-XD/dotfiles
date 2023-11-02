@@ -1,0 +1,29 @@
+
+View log files
+View the log files of the most recent LaTeX run of the
+        current document.
+
+        	Click the Log
+-button on the toolbar
+        
+When the document is processed with LaTeX, a number of
+        log files are generated. They contain error messages and other technical information about the conversion.
+        Advanced users may use this for troubleshooting.
+Log files
+
+View LaTeX log
+Select this to view the log of the latest LaTeX run
+Select this to view the log of the latest LaTeX run.
+        The log file can become quite long and difficult to read. If you only want to view error messages in the
+        log, you can check Only errors at the bottom of the dialog.
+
+Check this if you only want to see error messages in the log file
+
+View BibTeX log
+Select this to view the log of the latest BibTeX run
+Select this to view the log of the latest BibTeX run.
+
+View Makeindex log
+Select this to view the log of the latest Makeindex run
+Select this to view the log of the latest Makeindex run.
+

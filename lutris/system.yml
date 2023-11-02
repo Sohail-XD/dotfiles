@@ -1,0 +1,4 @@
+system:
+  gamescope: false
+  mangohud: true
+  vk_icd: /usr/share/vulkan/icd.d/nvidia_icd.json

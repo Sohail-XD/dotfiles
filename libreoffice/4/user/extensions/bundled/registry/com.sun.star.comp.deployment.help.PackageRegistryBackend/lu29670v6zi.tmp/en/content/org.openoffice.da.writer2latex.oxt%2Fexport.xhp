@@ -1,0 +1,331 @@
+
+LaTeX Export
+Exports the current document in LaTeX 2e format. A LaTeX document can be
+        typeset with the TeX typesetting system.
+
+        	Choose File - Export - LaTeX 2e
+ or click the TeX
+-button in the toolbar
+        
+General
+
+LaTeX format
+Select the general format for the LaTeX document
+Conceptually, %PRODUCTNAME Writer and LaTeX are quite different.
+        A LaTeX document is usually based on a certain "document class", that determines the general layout and formatting of the document.
+        In addition the use of several LaTeX packages may change various aspects of the LaTeX document.
+The result of a conversion into LaTeX will thus depend very much on which
+        LaTeX packages are used and how much formatting it is desired to preserve.
+Writer2LaTeX offers a number of default formats, all based on the standard LaTeX document class "article".
+        Each of the formats defines the LaTeX packages to use and the handling of formatting.
+Ultra-clean article will create a very basic LaTeX article,
+				with almost no formatting preserved.
+
+Clean article will also create a default LaTeX article,
+				but does preserve some basic formatting from the %PRODUCTNAME Writer document, such as boldface, color and hyperlinks.
+
+Default creates a LaTeX article preserving as much formatting
+				as it is possible without any significant deviations from LaTeX standards.
+
+Print optimized on the other hand creates a LaTeX article
+				preserving as much formatting as possible. The result will resemble the %PRODUCTNAME Writer document,
+				but will look slightly different from a standard LaTeX article (and the LaTeX code will be less readable).
+
+Screen optimized (pdf) also creates a LaTeX article preserving
+				most of the formatting, but optimized for screen viewing (using the package pdfscreen) rather than printing.
+
+Custom is a user defined format. To configure the custom format,
+				choose Tools - Options - Writer2LaTeX.
+				
+
+
+Expert users can extend the list with further formats using
+        configuration packages. See the documentation on the
+        web site for Writer2LaTeX.
+
+Backend
+Select the final format of the exported document
+When processing a LaTeX document, the final result is a document in a certain
+        backend format. The handling of certain aspects of the document, in particular graphics, depends on the backend.
+        With this option you can select the backend format.
+Generic will create a LaTeX document that can be processed
+				with any flavour of LaTeX, usually with a file in DVI format as the result. Graphics is not supported with this backend.
+
+Pdf (pdfTeX) will create a LaTeX document that is suitable
+				for processing with pdfLaTeX. Graphics are converted to a format that can be included in pdf files.
+
+Postscript (dvips) will create a LaTeX document that is
+				suitable for generating documents in Postscript format, usually by post processing with dvips.
+				Graphics will be converted to Encapsulated postscript format.
+
+Unspecified will create a LaTeX document with no
+				particular backend in mind. All graphics will be exported in the original format,
+				and it is up to the user to handle them.
+
+
+If you have selected the format Screen optiomized (pdf), you cannot select
+		the backend, which will always be pdf.
+
+Encoding
+Select the character encoding of the LaTeX file
+A LaTeX document is a text file, which always uses a certain character encoding.
+        The character encoding is important if the LaTeX file is going to be edited in a text editor:
+        You should select an encoding that is supported by your text editor. This setting is also important to get optimal support
+        for international characters: If you for example use pdfTeX, searching in the final pdf document will only work for
+        characters supported by the selected character encoding.
+		Currently, Writer2LaTeX supports 8 different encodings which together are suitable for a large number of languages written
+		with either latin, greek or cyrillic letters.
+The supported character encodings are US ASCII,
+		West European (ISO 8859-1), East European (ISO 8859-2), Latin/Greek (ISO 8859-7),
+		Microsoft East European (Cp1250), Microsoft Cyrillic (Cp1251), Russian (koi8-r)
+		and Unicode (UTF8).
+If you have selected XeTeX as your backed, the character encoding is always UTF-8.
+		XeTeX is needed for asian (CJK) and bidirectional (CTL) scripts.
+
+Enable multilingual support
+Check this if your document contains text in more than one language
+If you check this option, all the language settings in the %PRODUCTNAME Writer
+        document will be exported to LaTeX. Sometimes the language settings in a %PRODUCTNAME Writer document are not correct,
+        so if you have a document that is written in one language only you may want to uncheck this option.
+        This will produce a cleaner LaTeX file because you may avoid a large number of language selections.
+
+Font
+Select a font scheme to use in the LaTeX document
+Use this option to select a font scheme to use in the LaTeX document.
+        
+Default (Computer Modern) Computer Modern is
+				the original default font for TeX.
+
+CM Bright
+
+Concrete
+
+Concrete + Euler Math
+
+Iwona
+
+Kurier
+
+Antykwa Toruńska
+
+Kerkis
+
+New Century Schoolbook + Fourier Math
+
+Palatino + PXfonts Math
+
+Palatino + Pazo Math
+
+Palatino + Euler Math
+
+Times + TXfonts Math
+
+Times + Symbol
+
+Arev Sans + Arev Math
+
+Bitstream Charter + Math Design
+
+Utopia + Math Design
+
+Utopia + Fourier Math
+
+
+
+Use greek letters as symbols
+Check this treat greek characters as symbols rather than as text
+Greek letters used in latin text are often used as symbols, such as the
+       	number π or the word γ-radiation. By checking this option (not available if XeTeX is the backend),
+       	all greek letters used within latin or cyrillic text
+       	will be treated as mathematical symbols, which will produce a slightly better result – and also not require that
+       	greek text fonts are available in the LaTeX installation. This option has no effect on greek text (provided the language
+       	is set correctly in the %PRODUCTNAME Writer document).
+
+Support additional symbols
+Check this to add support for additonal symbols (e.g. phonetic symbols, smileys)
+If you select this option (not available if XeTeX is the backend),
+        LaTeX will load some additional packages containing support for various symbols:
+        A better looking euro-symbol, phonetic characters, dingbats and various other
+        symbols and geometric shapes.
+Bibliography
+
+Use BibTeX for bibliography
+Check this to export the bibliography to BibTeX format
+Usually the bibliography in a LaTeX document is generated by the companion
+		program BibTeX. If you check this option, all the bibliographic references will be exported to BibTeX format for
+		later processing with the BibTeX program.
+
+BibTeX style
+Enter the name of a BibTeX style to format the bibliography
+If you use BibTeX, you should also select a BibTeX style to be used when
+		generating the bibliography. Select one of the predefined styles plain, unsrt, alpha or
+		abbrv or type the name of any BibTeX style which is available
+		in your LaTeX installation.
+Files
+
+Wrap long lines
+Check this if you want to wrap long lines in the LaTeX file
+Checking this option wraps long lines in the generated LaTeX file.
+        This enhances the readability if the file is later edited in a text editor. If you use a text editor that wraps
+        lines automatically, you should uncheck this option.
+
+After characters
+Enter the number of characters after which the lines should be wrapped
+If you choose to wrap long lines, they will be wrapped as soon as possible
+		after this number of characters.
+
+Split document at linked sections
+Check this to create a separate LaTeX file for each linked section
+Checking this option will create separate LaTeX files for sections in
+		the %PRODUCTNAME Writer document with linked content. This can be an advantage if the LaTeX document is later edited
+		in a text editor.
+
+Split document at top level sections
+Check this to create a separate LaTeX file for all sections that are not nested inside another section
+Checking this option will create separate LaTeX files for all top level
+		sections in the %PRODUCTNAME Writer document (but not for nested sections).
+
+Save images in subdirectory
+Check this to save the images in a separate subdirectory
+Writer2LaTeX normally saves images associated with the document in the same
+		directory as the LaTeX document. If the document contains a large number of images it may be more convenient to save
+		the images in a separate subdirectory. This option will create a subdirectory with the same name as the LaTeX document
+		to store the images.
+Special content
+
+Export notes
+Select how to export notes in the document
+This option determines how to export notes (also known as annotations)
+        in the %PRODUCTNAME Writer document.
+Do not export will ignore the notes.
+
+As comments will export the notes as comments in the LaTeX file.
+				They will not be visible in the final document after processing with LaTeX.
+
+As marginal notes will put the notes in the margin of the document.
+				In this case they will be visible in the final document, but beware that the notes will be lost if the margin
+				is too narrow.
+
+As pdf annotations will export the notes as pdf text
+				annotations. If the pdf viewer supports it, you will be able to read the notes. Adobe Reader displays text annotations
+				with a yellow icon, which allows you to open and read the note. If the document is not processed with pdfTeX,
+				the notes will be converted to marginal notes.
+
+
+
+Export document properties (metadata)
+Check this if you want to export meta data associated with the document
+If you check this option, Writer2LaTeX will export the title, author and date
+        of the document as found under File – Properties. Furthermore, if you have chosen pdf as the backend, the title, author,
+        subject and keywords will be exported to the pdf document and will be viewable if the pdf viewer supports it.
+        If the option is not checked, only the title will be exported.
+
+Display hidden text
+Check this if you want to export text that is currently hidden in the document
+If you check this option, Writer2LaTeX will export all text in the
+        document, even if it is currently hidden.
+Figures and tables
+
+Use original image size
+Select this option to use the original image size (the size specified in the document will be ignored)
+Often images in a %PRODUCTNAME Writer document are scaled up or down
+        from their original size. Normally the same scaling will be used in the LaTeX document, but if you select this option,
+        the original (unscaled) image size will be used.
+
+Optimize simple tables
+Check this to optimize the width of tables
+Normally Writer2LaTeX will generate tables with the same column widths
+		as in the original document. For tables with simple content it may be more desirable to create tables which are as
+		narrow as possible, with only one line of text per cell. Compare the table
+Simple content
+
+Simple content
+
+
+Simple content
+
+Simple content
+
+
+
+to the optimized table
+Simple content
+
+Simple content
+
+
+Simple content
+
+Simple content
+
+
+
+If you check this option, Writer2LaTeX will try to optimize tables.
+
+Maximum width in characters
+Enter the maximum width in characters of tables that should have optimized their width
+If you have chosen to optimize simple tables, you have to specify the maximum
+		width of the table, measured in the number of characters. If you for example set the number to 50, only tables with a total
+		width of 50 or fewer characters will be optimized.
+
+Float tables
+Check this to allow tables to flow in the document
+In %PRODUCTNAME Writer you can either choose that the rows of a table must
+		be kept together on one page or that the table may split across page breaks. Keeping a table on one page may be desirable
+		to increase the readability of the table, but it may also leave large white gaps at the bottom of the page.
+		In LaTeX this problem is solved with floating tables: A table can automatically move to another position which fixes
+		the whitespace problem. If you check this option, all tables that are not allowed to break across pages are exported as
+		floating tables.
+
+Float figures
+Check this to allow figures to flow in the document
+A similar option is available for figures (graphics, text boxes).
+		If you check this option, figures are converted to floating figures which can move in the document to reduce whitespace.
+		This will not affect figures anchored as character.
+
+Float placement
+Select placement of floating tables and figures
+If you choose to let either tables or figures float, use this option to
+		specify the placement of the floats:
+Top or bottom of page will place the floats either at
+				the top or the bottom of a page.
+
+Top of page will place floats at the top of a page.
+
+Bottom of page will place floats at the top of a page.
+
+Here or top of page will place floats at their original position,
+				if there is room left on the page, and otherwise at the top of a page.
+
+Here or bottom of page will place floats at their
+				original position, if there is room left on the page, and otherwise at the bottom of a page.
+
+
+In all cases it might happen that LaTeX creates some special pages which only
+		contains floats. This will usually be the case if there are many floats compared to the amount of text.
+AutoCorrect
+
+Ignore hard page breaks
+Check this if you don't want to export manual page breaks
+Hard (or manual) page breaks are often used to optimize page breaks in the
+		final editing of a document. In this case you will probably not want to export these page breaks, as LaTeX creates page
+		breaks that are quite different from the page breaks in %PRODUCTNAME Writer. If you select this option, hard page breaks
+		will be ignored when exporting the document.
+
+Ignore hard line breaks
+Check this if you don't want to export manual line breaks
+For similar reasons, you can select this option to ignore hard (manual) line
+		breaks during export.
+
+Ignore empty paragraphs
+Check this if you don't want to export empty paragraphs
+Empty paragraphs are sometimes used a simple means to create vertical spacing
+		in %PRODUCTNAME Writer. In a well-structured document, an empty paragraph is probably a mistake. Hence you can select this
+		option to ignore empty paragraphs in the document in the export. If you do not select the option, an empty paragraph is
+		exported as vertical space.
+
+Ignore double spaces
+Check this if you don't want to export two consecutive space characters
+For similar reasons you can choose to ignore two or more spaces in a row using
+		this option.
+

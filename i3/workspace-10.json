@@ -1,0 +1,90 @@
+{
+    "border": "pixel",
+    "current_border_width": 3,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1016,
+       "width": 1894,
+       "x": 0,
+       "y": 0
+    },
+    "marks": [],
+    "name": "btop",
+    "percent": 0.565104166666667,
+    "swallows": [
+       {
+        "class": "^kitty$",
+        "instance": "^kitty$",
+        "machine": "^h410m$",
+        "title": "^btop$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splitv",
+    "marks": [],
+    "percent": 0.434895833333333,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 3,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1016,
+               "width": 1894,
+               "x": 10,
+               "y": 48
+            },
+            "marks": [],
+            "name": "Friends - Discord",
+            "percent": 0.5,
+            "swallows": [
+               {
+                "class": "^discord$",
+                "instance": "^discord$",
+                "machine": "^h410m$",
+                "title": "Friends - Discord",
+                "window_role": "^browser\\-window$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "pixel",
+            "floating": "auto_off",
+            "layout": "splith",
+            "marks": [],
+            "percent": 0.5,
+            "type": "con",
+            "nodes": [
+                {
+                    "border": "pixel",
+                    "current_border_width": 3,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 1016,
+                       "width": 939,
+                       "x": 968,
+                       "y": 51
+                    },
+                    "marks": [],
+                    "name": "Telegram (76648)",
+                    "percent": 1,
+                    "swallows": [
+                       {
+                        "class": "^TelegramDesktop$",
+                        "machine": "^h410m$"
+                       }
+                    ],
+                    "type": "con"
+                }
+            ]
+        }
+    ]
+}
+

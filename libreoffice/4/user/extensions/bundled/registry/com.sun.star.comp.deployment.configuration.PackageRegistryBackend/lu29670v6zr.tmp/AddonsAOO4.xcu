@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Addons" oor:package="org.openoffice.Office">
+<!-- Defines the menus and toolbars provided by Writer2LaTeX -->
+<node oor:name="AddonUI">
+	<node oor:name="OfficeToolBar">
+		<node oor:name="org.openoffice.da.writer2latex.OfficeToolBar.AOO4" oor:op="replace">
+			<prop oor:name="Title" oor:type="xs:string">
+				  <value xml:lang="en-US">Writer2LaTeX</value>
+			</prop>
+			<node oor:name="ToolBarItems">	
+		  		<node oor:name="button1" oor:op="replace">
+		            <prop oor:name="Context" oor:type="xs:string">
+		                <value>com.sun.star.text.TextDocument</value>
+		            </prop>
+		            <prop oor:name="Title" oor:type="xs:string">
+		                <value xml:lang="en-US">Insert BibTeX citation</value>
+		                <value xml:lang="da">Indsæt BibTeX-reference</value>
+		            </prop>
+		            <prop oor:name="Target" oor:type="xs:string">
+		                <value>_self</value>
+		            </prop>
+		            <prop oor:name="URL" oor:type="xs:string">
+		                <value>org.openoffice.da.writer2latex:InsertBibTeX</value>
+		            </prop>
+		            <prop oor:name="ImageIdentifier" oor:type="xs:string">
+		                <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2latex/icons/bibtex</value>
+		            </prop>
+		  		</node>
+		  		<node oor:name="button2" oor:op="replace">
+		            <prop oor:name="Context" oor:type="xs:string">
+		                <value>com.sun.star.text.TextDocument</value>
+		            </prop>
+		            <prop oor:name="Title" oor:type="xs:string">
+		                <value xml:lang="en-US">Publish to LaTeX</value>
+		                <value xml:lang="da">Publicer til LaTeX</value>
+		            </prop>
+		            <prop oor:name="Target" oor:type="xs:string">
+		                <value>_self</value>
+		            </prop>
+		            <prop oor:name="URL" oor:type="xs:string">
+		                <value>org.openoffice.da.writer2latex:ProcessDocument</value>
+		            </prop>
+		            <prop oor:name="ImageIdentifier" oor:type="xs:string">
+		                <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2latex/icons/latex</value>
+		            </prop>
+		  		</node>
+		  		<node oor:name="button3" oor:op="replace">
+		            <prop oor:name="Context" oor:type="xs:string">
+		                <value>com.sun.star.text.TextDocument</value>
+		            </prop>
+		            <prop oor:name="Title" oor:type="xs:string">
+		                <value xml:lang="en-US">View log files</value>
+		                <value xml:lang="da">Vis logfiler</value>
+		            </prop>
+		            <prop oor:name="Target" oor:type="xs:string">
+		                <value>_self</value>
+		            </prop>
+		            <prop oor:name="URL" oor:type="xs:string">
+		                <value>org.openoffice.da.writer2latex:ViewLog</value>
+		            </prop>
+		            <prop oor:name="ImageIdentifier" oor:type="xs:string">
+		                <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2latex/icons/log</value>
+		            </prop>
+		  		</node>
+		  		<node oor:name="button4" oor:op="replace">
+		            <prop oor:name="Context" oor:type="xs:string">
+		                <value>com.sun.star.text.TextDocument</value>
+		            </prop>
+		            <prop oor:name="Title" oor:type="xs:string">
+		                <value xml:lang="en-US">Edit custom format</value>
+		                <value xml:lang="da">Rediger brugerdefineret format</value>
+		            </prop>
+		            <prop oor:name="Target" oor:type="xs:string">
+		                <value>_self</value>
+		            </prop>
+		            <prop oor:name="URL" oor:type="xs:string">
+		                <value>.uno:OptionsTreeDialog?OptionsPageURL:string=vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2latex/W2LDialogs2/Documentclass.xdl</value>
+		            </prop>
+		            <prop oor:name="ImageIdentifier" oor:type="xs:string">
+		                <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2latex/icons/custom</value>
+		            </prop>
+		  		</node>
+		  	</node>
+ 		</node>
+	</node>    
+</node>
+
+</oor:component-data> 

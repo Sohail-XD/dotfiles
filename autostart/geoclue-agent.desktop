@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Geoclue Agent
+Exec=/usr/lib/geoclue-2.0/demos/agent

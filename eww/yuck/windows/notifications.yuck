@@ -1,0 +1,40 @@
+(defwidget notifications []
+  (box 
+    :class "notifications" 
+    :space-evenly false 
+    :orientation "v"
+    (header)
+    (scroll :height 800 :vscroll true 
+      (box 
+        :class "scroll" 
+        :orientation "v" 
+        :spacing 10 
+        :space-evenly "false"
+        (box 
+          :visible {arraylength(notifications.notifications) == 0}
+          :class "empty"
+          :valign  "center"
+          :halign "center"
+          :vexpand true
+          :orientation "v" 
+          :space-evenly "false" 
+          (image 
+            :class "bell" 
+            :valign "end" 
+            :vexpand "true" 
+            :path "assets/bell.png" 
+            :image-width 100 
+            :image-height 100
+          ) 
+          (label :class "label" :text "No Notifications")
+        )
+        (for notification in {notifications.notifications}
+          (eventbox
+            :class "notification"
+            (notif :notification notification)
+          )
+        )
+      )
+    )
+  )
+)

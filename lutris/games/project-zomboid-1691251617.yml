@@ -1,0 +1,4 @@
+game:
+  exe: /games/Project.Zomboid/start.n.sh
+linux: {}
+system: {}

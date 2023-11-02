@@ -1,0 +1,40 @@
+General
+Use this page to define general technical aspects of the generated
+        XHTML documents.
+
+        	Choose Tools - Options - Writer2xhtml - General
+
+        
+
+Do not include DOCTYPE
+Check this if you do not want to not include the !DOCTYPE declaration in
+        the converted document.
+The !DOCTYPE is required for a valid XHTML document: This option should only be
+        used if you need to process the document further.
+
+Encoding
+Select the character encoding to use for the XHTML document. Currently supported
+        encodings are UTF-8 (recommended), UTF-16, ISO-8859-1 and US-ASCII.
+        Characters not supported by the encoding are exported as numeric character entities.
+
+Add Byte Order Mark (BOM)
+Check this to include a BOM (Byte Order Mark) to the XHTML document (UTF-8 only).
+        Normally this is not needed if you use UTF-8 encoding, but it may be required in rare cases.
+        
+
+Numeric character entities
+Select how to export numeric character entities. You can use either
+        hexadecimal or decimal numbers. This is not relevant if you use UTF-8 or UTF-16.
+
+Use named character entities
+Check this to use named character entities as defined by (X)HTML.
+        If you export to XHTML+MathML, also named MathML entities will be used.
+
+Include detailed language information
+Check this to include all language information in the XHTML document.
+        Otherwise only the default language will be exported.
+
+Use "pretty printing"
+Check this to use “pretty print”
+        (using indentations and line breaks) in the XHTML output.
+

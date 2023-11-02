@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<oor:component-data oor:name="Options"
+  oor:package="org.openoffice.da.Writer2LaTeX"
+  xml:lang="en-US"
+  xmlns:oor="http://openoffice.org/2001/registry"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <!-- Defines the w2l configuration packages -->
+    <node oor:name="LaTeXOptions">
+        <node oor:name="Configurations">
+            <node oor:name="w2l-article" oor:op="replace">
+                <prop oor:name="LockedOptions" oor:type="xs:string">
+                    <value></value>
+                </prop>
+                <prop oor:name="DisplayName" oor:type="xs:string" oor:localized="true">
+                    <value>W2L: LaTeX article</value>
+                </prop>
+                <prop oor:name="ConfigURL" oor:type="xs:string">
+                    <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/w2lconfig/config/article.xml</value>
+                </prop>
+            </node>
+        </node>
+        <node oor:name="Templates">
+            <node oor:name="w2l-article-template" oor:op="replace">
+                <prop oor:name="TemplateName" oor:type="xs:string">
+                    <value>LaTeX-article</value>
+                </prop>
+                <prop oor:name="ConfigName" oor:type="xs:string">
+                    <value>w2l-article</value>
+                </prop>
+            </node>
+        </node>
+    </node>
+</oor:component-data>

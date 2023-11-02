@@ -1,0 +1,33 @@
+Other styles
+Use this page to define various style related features of the export.
+        This supplements the settings on the page
+        Master styles.
+
+        	Choose Tools - Options - Writer2xhtml - Other styles
+
+        
+Style mappings for hard formatting
+In general using real styles is preferred. These setting allows you to define
+        styles for a selection of hard text formatting attributes.
+To apply these settings: Go to the page
+        Formatting and set Formatting to either Ignore hard formatting or
+        Ignore all. Otherwise the rules you define here are ignored.
+
+Formatting attribute
+Select a formatting attribute.
+
+Apply custom style
+Check this if you want to apply a custom style for this attribute.
+
+XHTML element
+Enter the name of an XHTML element or select one from the list.
+
+CSS class
+Enter the name of a CSS class to apply to the element. If you leave this field
+        empty, the class attribute will not be set.
+Other styles
+
+CSS class for tabulator stop
+Normally tabulator stops are exported as spaces. If you enter the name of
+        a CSS class here, the space will be contained in a span element with your style in the class attribute.
+

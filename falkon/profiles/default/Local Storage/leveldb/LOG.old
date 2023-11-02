@@ -1,0 +1,4 @@
+2023/04/11-11:12:41.469 4266 Reusing MANIFEST /home/second/.config/falkon/profiles/default/Local Storage/leveldb/MANIFEST-000001
+2023/04/11-11:23:06.725 6a4d Level-0 table #5: started
+2023/04/11-11:23:06.753 6a4d Level-0 table #5: 54500 bytes OK
+2023/04/11-11:23:06.776 6a4d Delete type=0 #3

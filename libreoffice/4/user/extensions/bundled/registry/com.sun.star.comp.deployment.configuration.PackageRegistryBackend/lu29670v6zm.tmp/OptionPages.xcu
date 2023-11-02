@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='UTF-8'?>
+ 
+<oor:component-data oor:name="OptionsDialog" oor:package="org.openoffice.Office" 
+  xmlns:oor="http://openoffice.org/2001/registry" 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ 
+  <node oor:name="Modules">
+    <!-- This node should appear in the Writer module -->
+    <node oor:name="com.sun.star.text.TextDocument" oor:op="fuse">
+      <node oor:name="Nodes">
+        <node oor:name="org.openoffice.da.writer2latex.configuration" 
+          oor:op="fuse">
+        </node>
+      </node>
+    </node>
+  </node>
+  
+  <node oor:name="Nodes">
+
+	<!-- We define a single root node -->
+    <node oor:name="org.openoffice.da.writer2latex.configuration" 
+      oor:op="fuse"> 
+      <prop oor:name="Id">
+        <value>org.openoffice.da.writer2latex.configuration</value>
+      </prop>
+      <prop oor:name="Label">
+        <value xml:lang="en-US">Writer2LaTeX</value>
+      </prop>
+      <prop oor:name="OptionsPage">
+        <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2latex/W2LDialogs2/ConfigurationRoot.xdl</value>
+      </prop>
+      <prop oor:name="EventHandlerService">
+        <value>org.openoffice.da.writer2latex.ConfigurationDialog</value>
+      </prop>
+
+      <node oor:name="Leaves">
+      	<!-- and the root node has several leaves -->
+
+        <node oor:name="org.openoffice.da.writer2latex.configuration.documentclass" 
+          oor:op="fuse">
+          <prop oor:name="Id">
+            <value>org.openoffice.da.writer2latex.configuration.documentclass</value>
+          </prop>
+          <prop oor:name="GroupId">
+            <value>org.openoffice.da.writer2latex.configuration</value>
+          </prop>
+          <prop oor:name="GroupIndex">
+            <value>0</value>
+          </prop>
+          <prop oor:name="Label">
+            <value xml:lang="en-US">Documentclass</value>
+          </prop>
+          <prop oor:name="OptionsPage">
+            <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2latex/W2LDialogs2/Documentclass.xdl</value>
+          </prop>
+          <prop oor:name="EventHandlerService">
+             <value>org.openoffice.da.writer2latex.ConfigurationDialog</value>
+          </prop>
+        </node>
+
+        <node oor:name="org.openoffice.da.writer2latex.configuration.headings" 
+          oor:op="fuse">
+          <prop oor:name="Id">
+            <value>org.openoffice.da.writer2latex.configuration.headings</value>
+          </prop>
+          <prop oor:name="GroupId">
+            <value>org.openoffice.da.writer2latex.configuration</value>
+          </prop>
+          <prop oor:name="GroupIndex">
+            <value>1</value>
+          </prop>
+          <prop oor:name="Label">
+            <value xml:lang="en-US">Headings</value>
+          </prop>
+          <prop oor:name="OptionsPage">
+            <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2latex/W2LDialogs2/Headings.xdl</value>
+          </prop>
+          <prop oor:name="EventHandlerService">
+             <value>org.openoffice.da.writer2latex.ConfigurationDialog</value>
+          </prop>
+        </node>
+
+        <node oor:name="org.openoffice.da.writer2latex.configuration.styles" 
+          oor:op="fuse">
+          <prop oor:name="Id">
+            <value>org.openoffice.da.writer2latex.configuration.styles</value>
+          </prop>
+          <prop oor:name="GroupId">
+            <value>org.openoffice.da.writer2latex.configuration</value>
+          </prop>
+          <prop oor:name="GroupIndex">
+            <value>2</value>
+          </prop>
+          <prop oor:name="Label">
+            <value xml:lang="en-US">Styles</value>
+          </prop>
+          <prop oor:name="OptionsPage">
+            <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2latex/W2LDialogs2/Styles.xdl</value>
+          </prop>
+          <prop oor:name="EventHandlerService">
+             <value>org.openoffice.da.writer2latex.ConfigurationDialog</value>
+          </prop>
+        </node>
+
+        <node oor:name="org.openoffice.da.writer2latex.configuration.characters" 
+          oor:op="fuse">
+          <prop oor:name="Id">
+            <value>org.openoffice.da.writer2latex.configuration.characters</value>
+          </prop>
+          <prop oor:name="GroupId">
+            <value>org.openoffice.da.writer2latex.configuration</value>
+          </prop>
+          <prop oor:name="GroupIndex">
+            <value>3</value>
+          </prop>
+          <prop oor:name="Label">
+            <value xml:lang="en-US">Characters</value>
+          </prop>
+          <prop oor:name="OptionsPage">
+            <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2latex/W2LDialogs2/Characters.xdl</value>
+          </prop>
+          <prop oor:name="EventHandlerService">
+             <value>org.openoffice.da.writer2latex.ConfigurationDialog</value>
+          </prop>
+        </node>
+
+        <node oor:name="org.openoffice.da.writer2latex.configuration.fonts" 
+          oor:op="fuse">
+          <prop oor:name="Id">
+            <value>org.openoffice.da.writer2latex.configuration.fonts</value>
+          </prop>
+          <prop oor:name="GroupId">
+            <value>org.openoffice.da.writer2latex.configuration</value>
+          </prop>
+          <prop oor:name="GroupIndex">
+            <value>4</value>
+          </prop>
+          <prop oor:name="Label">
+            <value xml:lang="en-US">Fonts</value>
+          </prop>
+          <prop oor:name="OptionsPage">
+            <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2latex/W2LDialogs2/Fonts.xdl</value>
+          </prop>
+          <prop oor:name="EventHandlerService">
+             <value>org.openoffice.da.writer2latex.ConfigurationDialog</value>
+          </prop>
+        </node>
+
+        <node oor:name="org.openoffice.da.writer2latex.configuration.pages" 
+          oor:op="fuse">
+          <prop oor:name="Id">
+            <value>org.openoffice.da.writer2latex.configuration.pages</value>
+          </prop>
+          <prop oor:name="GroupId">
+            <value>org.openoffice.da.writer2latex.configuration</value>
+          </prop>
+          <prop oor:name="GroupIndex">
+            <value>5</value>
+          </prop>
+          <prop oor:name="Label">
+            <value xml:lang="en-US">Pages</value>
+          </prop>
+          <prop oor:name="OptionsPage">
+            <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2latex/W2LDialogs2/Pages.xdl</value>
+          </prop>
+          <prop oor:name="EventHandlerService">
+             <value>org.openoffice.da.writer2latex.ConfigurationDialog</value>
+          </prop>
+        </node>
+
+        <node oor:name="org.openoffice.da.writer2latex.configuration.tables" 
+          oor:op="fuse">
+          <prop oor:name="Id">
+            <value>org.openoffice.da.writer2latex.configuration.tables</value>
+          </prop>
+          <prop oor:name="GroupId">
+            <value>org.openoffice.da.writer2latex.configuration</value>
+          </prop>
+          <prop oor:name="GroupIndex">
+            <value>6</value>
+          </prop>
+          <prop oor:name="Label">
+            <value xml:lang="en-US">Tables</value>
+          </prop>
+          <prop oor:name="OptionsPage">
+            <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2latex/W2LDialogs2/Tables.xdl</value>
+          </prop>
+          <prop oor:name="EventHandlerService">
+             <value>org.openoffice.da.writer2latex.ConfigurationDialog</value>
+          </prop>
+        </node>
+
+        <node oor:name="org.openoffice.da.writer2latex.configuration.figures" 
+          oor:op="fuse">
+          <prop oor:name="Id">
+            <value>org.openoffice.da.writer2latex.configuration.figures</value>
+          </prop>
+          <prop oor:name="GroupId">
+            <value>org.openoffice.da.writer2latex.configuration</value>
+          </prop>
+          <prop oor:name="GroupIndex">
+            <value>7</value>
+          </prop>
+          <prop oor:name="Label">
+            <value xml:lang="en-US">Figures</value>
+          </prop>
+          <prop oor:name="OptionsPage">
+            <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2latex/W2LDialogs2/Figures.xdl</value>
+          </prop>
+          <prop oor:name="EventHandlerService">
+             <value>org.openoffice.da.writer2latex.ConfigurationDialog</value>
+          </prop>
+        </node>
+
+        <node oor:name="org.openoffice.da.writer2latex.configuration.textandmath" 
+          oor:op="fuse">
+          <prop oor:name="Id">
+            <value>org.openoffice.da.writer2latex.configuration.textandmath</value>
+          </prop>
+          <prop oor:name="GroupId">
+            <value>org.openoffice.da.writer2latex.configuration</value>
+          </prop>
+          <prop oor:name="GroupIndex">
+            <value>8</value>
+          </prop>
+          <prop oor:name="Label">
+            <value xml:lang="en-US">Text and math</value>
+          </prop>
+          <prop oor:name="OptionsPage">
+            <value>vnd.sun.star.expand:$BUNDLED_EXTENSIONS/writer2latex/W2LDialogs2/TextAndMath.xdl</value>
+          </prop>
+          <prop oor:name="EventHandlerService">
+             <value>org.openoffice.da.writer2latex.ConfigurationDialog</value>
+          </prop>
+        </node>
+
+	  </node>
+    </node>
+  </node>
+  
+</oor:component-data>

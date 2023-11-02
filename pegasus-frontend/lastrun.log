@@ -1,0 +1,50 @@
+2023-10-11T19:23:56 [i] Pegasus alpha16-65-g6dd137e4 (2023-08-25)
+2023-10-11T19:23:56 [i] Running on Arch Linux (x86_64, wayland)
+2023-10-11T19:23:56 [i] Qt version 5.15.11
+2023-10-11T19:23:56 [i] Program settings loaded (`/home/userzero/.config/pegasus-frontend/settings.txt`)
+2023-10-11T19:23:56 [i] Found locale `ar`
+2023-10-11T19:23:56 [i] Found locale `bs`
+2023-10-11T19:23:56 [i] Found locale `ca`
+2023-10-11T19:23:56 [i] Found locale `de`
+2023-10-11T19:23:56 [i] Found locale `en-GB`
+2023-10-11T19:23:56 [i] Found locale `en`
+2023-10-11T19:23:56 [i] Found locale `es`
+2023-10-11T19:23:56 [i] Found locale `fr`
+2023-10-11T19:23:56 [i] Found locale `hu`
+2023-10-11T19:23:56 [i] Found locale `ja`
+2023-10-11T19:23:56 [i] Found locale `ko`
+2023-10-11T19:23:56 [i] Found locale `lt`
+2023-10-11T19:23:56 [i] Found locale `nl`
+2023-10-11T19:23:56 [i] Found locale `pt-BR`
+2023-10-11T19:23:56 [i] Found locale `ru`
+2023-10-11T19:23:56 [i] Found locale `zh-TW`
+2023-10-11T19:23:56 [i] Found locale `zh`
+2023-10-11T19:23:56 [i] Locale set to `en`
+2023-10-11T19:23:56 [i] Found theme `Pegasus Grid` at `:/themes/pegasus-theme-grid/`
+2023-10-11T19:23:56 [i] SDL version 2.28.4
+2023-10-11T19:23:56 [i] Theme set to `Pegasus Grid` (`:/themes/pegasus-theme-grid/`)
+2023-10-11T19:23:56 [w] qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+2023-10-11T19:23:56 [i] Metafiles: No metadata files found
+2023-10-11T19:23:56 [i] Metafiles: Finished searching in 0ms
+2023-10-11T19:23:56 [i] Media: Finished searching in 0ms
+2023-10-11T19:23:56 [i] Steam: No installation found
+2023-10-11T19:23:56 [i] Steam: Finished searching in 0ms
+2023-10-11T19:23:56 [i] GOG: 0 games found
+2023-10-11T19:23:56 [i] GOG: Finished searching in 0ms
+2023-10-11T19:23:56 [i] EmulationStation: No installation found
+2023-10-11T19:23:56 [i] EmulationStation: Finished searching in 0ms
+2023-10-11T19:23:56 [i] Logiqx: Finished searching in 0ms
+2023-10-11T19:23:56 [i] Lutris: No installation found
+2023-10-11T19:23:56 [i] Lutris: Finished searching in 0ms
+2023-10-11T19:23:56 [i] Skraper Assets: 0 assets found
+2023-10-11T19:23:56 [i] Skraper Assets: Finished searching in 0ms
+2023-10-11T19:23:56 [i] Favorites: Finished searching in 0ms
+2023-10-11T19:23:56 [i] Playtime: Finished searching in 0ms
+2023-10-11T19:23:56 [w] The collection 'GOG' has no valid games, ignored
+2023-10-11T19:23:56 [i] Game list post-processing took 0ms
+2023-10-11T19:23:56 [i] 0 games found
+2023-10-11T19:24:47 [w] qrc:/frontend/menu/settings/common/SimpleButton.qml:32: TypeError: Cannot read property 'width' of null
+2023-10-11T19:24:47 [w] qrc:/frontend/menu/settings/common/SimpleButton.qml:32: TypeError: Cannot read property 'width' of null
+2023-10-11T19:24:49 [w] qrc:/frontend/menu/settings/common/SimpleButton.qml:32: TypeError: Cannot read property 'width' of null
+2023-10-11T19:24:49 [w] qrc:/frontend/menu/settings/common/SimpleButton.qml:32: TypeError: Cannot read property 'width' of null
+2023-10-11T19:24:55 [i] Closing Pegasus, goodbye!

@@ -1,0 +1,186 @@
+14:01:00.436: Platform: Wayland
+14:01:00.436: CPU Name: Intel(R) Core(TM) i3-10105F CPU @ 3.70GHz
+14:01:00.436: CPU Speed: 4199.990MHz
+14:01:00.436: Physical Cores: 4, Logical Cores: 8
+14:01:00.436: Physical Memory: 7814MB Total, 1035MB Free
+14:01:00.436: Kernel Version: Linux 6.3.8-arch1-1
+14:01:00.437: Distribution: "Arch Linux" Unknown
+14:01:00.437: Desktop Environment: Hyprland (wrapped_hl)
+14:01:00.437: Session Type: wayland
+14:01:00.439: Qt Version: 6.5.1 (runtime), 6.5.1 (compiled)
+14:01:00.439: Portable mode: false
+14:01:00.498: OBS 29.1.1-2 (linux)
+14:01:00.498: ---------------------------------
+14:01:00.498: ---------------------------------
+14:01:00.499: audio settings reset:
+14:01:00.499: 	samples per sec: 48000
+14:01:00.499: 	speakers:        2
+14:01:00.499: 	max buffering:   960 milliseconds
+14:01:00.499: 	buffering type:  dynamically increasing
+14:01:00.500: ---------------------------------
+14:01:00.500: Initializing OpenGL...
+14:01:00.500: Using EGL/Wayland
+14:01:00.509: Initialized EGL 1.5
+14:01:00.523: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GT 1030/PCIe/SSE2
+14:01:00.523: OpenGL loaded successfully, version 3.3.0 NVIDIA 535.54.03, shading language 3.30 NVIDIA via Cg compiler
+14:01:00.651: ---------------------------------
+14:01:00.651: video settings reset:
+14:01:00.651: 	base resolution:   1920x1080
+14:01:00.651: 	output resolution: 1920x1080
+14:01:00.651: 	downscale filter:  Bicubic
+14:01:00.651: 	fps:               30/1
+14:01:00.651: 	format:            NV12
+14:01:00.651: 	YUV mode:          Rec. 709/Partial
+14:01:00.652: NV12 texture support not available
+14:01:00.652: P010 texture support not available
+14:01:00.652: Audio monitoring device:
+14:01:00.652: 	name: Default
+14:01:00.652: 	id: default
+14:01:00.652: ---------------------------------
+14:01:00.660: Failed to load 'en-US' text for module: 'decklink-captions.so'
+14:01:00.667: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+14:01:00.672: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+14:01:00.672: Failed to initialize module 'decklink.so'
+14:01:00.788: [pipewire] Available captures:
+14:01:00.788: [pipewire]     - Desktop capture
+14:01:00.816: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+14:01:00.868: VAAPI: API version 1.18
+14:01:00.885: FFmpeg VAAPI H264 encoding supported
+14:01:00.940: FFmpeg VAAPI HEVC encoding supported
+14:01:01.003: ---------------------------------
+14:01:01.003:   Loaded Modules:
+14:01:01.003:     text-freetype2.so
+14:01:01.003:     rtmp-services.so
+14:01:01.003:     obs-x264.so
+14:01:01.003:     obs-vst.so
+14:01:01.003:     obs-transitions.so
+14:01:01.003:     obs-outputs.so
+14:01:01.003:     obs-libfdk.so
+14:01:01.003:     obs-filters.so
+14:01:01.003:     obs-ffmpeg.so
+14:01:01.003:     linux-v4l2.so
+14:01:01.003:     linux-pulseaudio.so
+14:01:01.003:     linux-pipewire.so
+14:01:01.003:     linux-jack.so
+14:01:01.003:     linux-capture.so
+14:01:01.003:     linux-alsa.so
+14:01:01.003:     image-source.so
+14:01:01.003:     frontend-tools.so
+14:01:01.003:     decklink-output-ui.so
+14:01:01.003:     decklink-captions.so
+14:01:01.003: ---------------------------------
+14:01:01.003: ==== Startup complete ===============================================
+14:01:01.032: All scene data cleared
+14:01:01.032: ------------------------------------------------
+14:01:01.074: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.71) 15.0.0'
+14:01:01.074: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+14:01:01.074: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.pro-output-0.monitor' (default)
+14:01:01.074: [Loaded global audio device]: 'Desktop Audio'
+14:01:01.074: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.71) 15.0.0'
+14:01:01.075: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+14:01:01.075: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.pro-input-2' (default)
+14:01:01.075: [Loaded global audio device]: 'Mic/Aux'
+14:01:01.075: PipeWire initialized
+14:01:01.077: Switched to scene 'Scene'
+14:01:01.077: ------------------------------------------------
+14:01:01.077: Loaded scenes:
+14:01:01.077: - scene 'Scene':
+14:01:01.077:     - source: 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source)
+14:01:01.077: ------------------------------------------------
+14:01:01.125: [pipewire] Screencast session created
+14:01:01.191: [pipewire] Asking for desktop
+14:01:01.305: [pipewire] desktop selected, setting up screencast
+14:01:01.312: [pipewire] Server version: 0.3.71
+14:01:01.312: [pipewire] Library version: 0.3.71
+14:01:01.312: [pipewire] Header version: 0.3.71
+14:01:01.312: [pipewire] Created stream 0x55e33ce5dd00
+14:01:01.312: [pipewire] Stream 0x55e33ce5dd00 state: "connecting" (error: none)
+14:01:01.312: [pipewire] Playing stream 0x55e33ce5dd00
+14:01:01.312: [pipewire] Stream 0x55e33ce5dd00 state: "paused" (error: none)
+14:01:01.327: [pipewire] Negotiated format:
+14:01:01.327: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+14:01:01.327: [pipewire]     Modifier: 0x0
+14:01:01.327: [pipewire]     Size: 1920x1080
+14:01:01.327: [pipewire]     Framerate: 0/1
+14:01:01.328: [pipewire] Negotiated format:
+14:01:01.328: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+14:01:01.328: [pipewire]     Modifier: 0x300000000cdb014
+14:01:01.328: [pipewire]     Size: 1920x1080
+14:01:01.328: [pipewire]     Framerate: 0/1
+14:01:01.329: [pipewire] Stream 0x55e33ce5dd00 state: "streaming" (error: none)
+14:01:01.693: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+14:01:01.693: 
+14:02:03.283: NV12 texture support not available
+14:02:03.283: P010 texture support not available
+14:02:03.284: Failed to start virtual camera
+14:02:10.755: NV12 texture support not available
+14:02:10.755: P010 texture support not available
+14:02:10.756: Failed to start virtual camera
+14:02:11.163: NV12 texture support not available
+14:02:11.163: P010 texture support not available
+14:02:11.164: Failed to start virtual camera
+14:02:11.345: NV12 texture support not available
+14:02:11.345: P010 texture support not available
+14:02:11.345: Failed to start virtual camera
+14:02:11.517: NV12 texture support not available
+14:02:11.517: P010 texture support not available
+14:02:11.518: Failed to start virtual camera
+14:02:11.698: NV12 texture support not available
+14:02:11.698: P010 texture support not available
+14:02:11.699: Failed to start virtual camera
+14:02:12.099: NV12 texture support not available
+14:02:12.099: P010 texture support not available
+14:02:12.100: Failed to start virtual camera
+14:02:12.258: NV12 texture support not available
+14:02:12.258: P010 texture support not available
+14:02:12.259: Failed to start virtual camera
+14:02:12.442: NV12 texture support not available
+14:02:12.442: P010 texture support not available
+14:02:12.444: Failed to start virtual camera
+14:02:12.611: NV12 texture support not available
+14:02:12.611: P010 texture support not available
+14:02:12.612: Failed to start virtual camera
+14:02:12.962: NV12 texture support not available
+14:02:12.962: P010 texture support not available
+14:02:12.963: Failed to start virtual camera
+14:02:13.146: NV12 texture support not available
+14:02:13.146: P010 texture support not available
+14:02:13.147: Failed to start virtual camera
+14:02:13.338: NV12 texture support not available
+14:02:13.338: P010 texture support not available
+14:02:13.338: Failed to start virtual camera
+14:02:13.516: NV12 texture support not available
+14:02:13.516: P010 texture support not available
+14:02:13.516: Failed to start virtual camera
+14:02:13.658: NV12 texture support not available
+14:02:13.658: P010 texture support not available
+14:02:13.659: Failed to start virtual camera
+14:02:15.474: NV12 texture support not available
+14:02:15.474: P010 texture support not available
+14:02:15.475: Failed to start virtual camera
+14:02:16.698: ---------------------------------
+14:02:16.698: [x264 encoder: 'simple_video_stream'] preset: veryfast
+14:02:16.698: [x264 encoder: 'simple_video_stream'] settings:
+14:02:16.698: 	rate_control: CBR
+14:02:16.698: 	bitrate:      2500
+14:02:16.698: 	buffer size:  2500
+14:02:16.698: 	crf:          23
+14:02:16.698: 	fps_num:      30
+14:02:16.698: 	fps_den:      1
+14:02:16.698: 	width:        1920
+14:02:16.698: 	height:       1080
+14:02:16.698: 	keyint:       250
+14:02:16.698: 
+14:02:16.722: libfdk_aac encoder created
+14:02:16.722: libfdk_aac bitrate: 160, channels: 2
+14:02:16.723: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://fa723fc1b171.global-contribute.live-video.net/app/sk_us-west-2_lZGRKk0whscW_j3bbzOYjxZ7iNBSBsRxq51iaTp6v4n...
+14:04:34.240: ==== Shutting down ==================================================
+14:04:34.250: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.pro-output-0.monitor'
+14:04:34.250: pulse-input: Got 8524 packets with 10228800 frames
+14:04:34.250: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3.pro-input-2'
+14:04:34.250: pulse-input: Got 8523 packets with 10227600 frames
+14:04:34.254: [pipewire] Stream 0x55e33ce5dd00 state: "paused" (error: none)
+14:04:34.254: [pipewire] Stream 0x55e33ce5dd00 state: "unconnected" (error: none)
+14:04:34.259: All scene data cleared
+14:04:34.259: ------------------------------------------------
+14:04:34.262: libfdk_aac encoder destroyed

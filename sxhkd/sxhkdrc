@@ -1,0 +1,8 @@
+super + shift + Escape
+	pkill picom
+
+super + p
+	picom -f -b
+
+super + k
+	kitty -e /home/second/Downloads/playit-0.9.3

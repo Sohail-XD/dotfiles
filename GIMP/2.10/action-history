@@ -1,0 +1,21 @@
+# GIMP action-history
+
+(history-item "file-save-as" 2)
+(history-item "edit-paste" 0)
+(history-item "tools-paintbrush" 0)
+(history-item "file-export-as" 1)
+(history-item "edit-paste-as-new-image" 0)
+(history-item "file-open-location" 0)
+(history-item "file-open" 0)
+(history-item "edit-clear" 0)
+(history-item "edit-cut" 0)
+(history-item "tools-airbrush" 0)
+(history-item "tools-pencil" 0)
+(history-item "image-crop-to-content" 0)
+(history-item "plug-in-guillotine" 0)
+(history-item "image-resize" 0)
+(history-item "image-scale" 0)
+(history-item "tools-crop" 0)
+(history-item "file-quit" 1)
+
+# end of action-history

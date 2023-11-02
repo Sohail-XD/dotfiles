@@ -1,0 +1,10 @@
+Fonts
+Fonts
+Font packages (not used for XeTeX)
+Use pifont.sty (dingbats)
+Use tipa.sty and tipax.sty (phonetic symbols)
+Use eurosym.sty (euro currency symbol)
+Use wasysym.sty (various symbols)
+Use ifsym.sty (geometric shapes)
+Use bbding.sty (metafont dingbats)
+

@@ -1,0 +1,97 @@
+Styles
+On this page you can define mappings from styles in %PRODUCTNAME Writer
+        to your own LaTeX styles.
+
+        	Choose Tools - Options - Writer2LaTeX - Styles
+
+        
+
+Style family
+Select a style family:
+Character: Define LaTeX code for character styles
+
+Paragraph: Define LaTeX code for paragraph styles
+
+Paragraph block: Define LaTeX code for a block of paragraphs
+				starting with a specific paragraph style.
+
+List: Define LaTeX code for list styles
+				(e.g. enumerate or itemize).
+
+List item: Define LaTeX code for individual list items.
+
+
+
+Style name
+Select an %PRODUCTNAME Writer style name from the list.
+
+New...
+Click this button to add a new style to the list. Select a style in the list
+        or type a style name.
+
+Delete...
+Click this button to delete the current style name from the list.
+
+LaTeX code before
+Enter the LaTeX code to add before this particular style, e.g.
+        \begin{center} or \textbf{.
+
+LaTeX code after
+Enter the LaTeX code to add after this particular style, e.g.
+        \end{center} or }.
+
+Next style(s)
+This is only used for paragraph blocks: Paragraphs formatted with a style from
+        this list are included in the block.
+
+Add...
+Click this button to add another style to the list of next styles.
+
+Remove...
+Click this button to remove the current style from the list of next styles.
+
+Verbatim content
+Check this if you want to export the content as verbatim LaTeX. This implies that
+        characters not available in the inputencoding are converted to question marks and that other content is discarded,
+        eg. footnotes.
+
+Line break inside
+Check this if you want to add line breaks inside the LaTeX construction surrounding
+        this element. You will probably want this for a construction like \begin{center}...\end{center} but not for
+        a construction like \textbf{...}.
+
+Load default mappings
+Writer2LaTeX comes with a set of default style mappings corresponding to
+        some of the predefined styles in %PRODUCTNAME Writer. Click this button to add these mappings to the current set. You will get
+        a warning if this will overwrite one or more existing mappings.
+
+Other styles
+Select how you want to export paragraphs and text with a style for which no style
+        mapping has been defined. This enables you to ensure that only content with accepted styles is exported.
+Ignore: The content is ignored silently.
+
+Convert: The content is converted as normal.
+
+
+
+Other formatting
+Select how you want to export formatting for styles that does not have
+        a style mapping.
+Ignore all: Ignore all character, paragraph,
+        		heading, list and footnote formatting contained in the document.
+
+Ignore most: Convert basic character
+        		formatting.
+
+Convert basic: Convert basic character formatting,
+        		paragraph justification and all numberings (lists, headings, footnotes).
+
+Convert most: Convert all supported formatting, except
+        		that paragraph formatting and font size is only converted if it is set by a style. To be able to preserve
+        		formatting, an environment is created for all paragraph styles, custom lists are used for listings, headings are
+        		reformatted using the \@startsection command etc.
+
+Convert all: Convert all supported formatting.
+
+
+

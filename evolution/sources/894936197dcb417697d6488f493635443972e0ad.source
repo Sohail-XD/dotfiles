@@ -1,0 +1,22 @@
+[Data Source]
+DisplayName=sohailmohiddin@gmail.com
+Enabled=true
+Parent=local-stub
+
+[Local Backend]
+CustomFile=file:///home/second/Downloads/sohailmohiddin@gmail.com.ical/sohailmohiddin@gmail.com.ics
+EmailAddress=
+Writable=true
+
+[Calendar]
+BackendName=local
+Color=#becedd
+Selected=true
+Order=0
+
+[Offline]
+StaySynchronized=true
+
+[Refresh]
+Enabled=true
+IntervalMinutes=30

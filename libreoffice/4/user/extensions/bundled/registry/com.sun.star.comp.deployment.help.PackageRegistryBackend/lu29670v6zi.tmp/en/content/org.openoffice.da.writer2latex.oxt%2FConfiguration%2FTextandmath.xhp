@@ -1,0 +1,58 @@
+Text and math
+Define how to convert text strings and math content.
+
+        	Choose Tools - Options - Writer2LaTeX - Text and math
+
+        
+Math packages
+
+Use ooomath.sty (custom package supporting %PRODUCTNAME equations)
+Check this to use the LaTeX package ooomath.sty. This package defines a number of
+        LaTeX macros used to convert formulas from %PRODUCTNAME to LaTeX. If this package is not used, the necessary definitions will
+        be included in the LaTeX preamble, which may become quite long. Hence using ooomath.sty is recommended for documents with
+        formulas. The package is part of the complete
+        Writer2LaTeX distribution.
+Math symbols
+In %PRODUCTNAME Math you can add user-defined symbols. Writer2LaTeX already
+        understands the predefined symbols such as %alpha. If you define your own symbols, you can define corresponding LaTeX
+        code here.
+
+Name
+Select the name of the user-defined symbol.
+
+New...
+Click this button to add a new symbol to the list. Select a symbol from the list
+        or type the name.
+
+Delete...
+Click this button to delete the current symbol from the list.
+
+LaTeX code
+Enter the LaTeX code corresponding to this symbol, e.g.
+        \Downarrow.
+Text replace
+Often LaTeX requires special care to typeset certain constructions. For example
+        according to German typographical rules, an abbreviation like z.B. should be typeset with a small space before the B, which in
+        LaTeX code will be z.\,B. Another example is French quotations marks (« Je parle français ») which should be
+        converted to the LaTeX macros \fg and \og. A final example is translation of the text LaTeX to
+        \LaTeX to properly typeset the LaTeX logo.
+
+Input
+Select a text string from the list
+
+New...
+Click this button to add a new text string to the list. Enter the original text as it appears
+        in the %PRODUCTNAME Writer document, or paste text from the clipboard.
+
+Delete...
+Click this button to the delete the current text string. Writer2LaTeX has
+        a few predefined strings that cannot be deleted.
+
+LaTeX code
+Enter the LaTeX code to export for this text string.
+Tab stops
+
+LaTeX code
+Normally tab stops are converted to spaces, but in this field you can enter any
+        LaTeX code, that should be used instead. For example \quad{} or \hspace{2em}.
+

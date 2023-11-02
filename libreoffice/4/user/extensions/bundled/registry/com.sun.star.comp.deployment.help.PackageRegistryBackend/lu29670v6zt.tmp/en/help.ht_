@@ -1,0 +1,67 @@
+3c org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsEditMetadata 43 Clik this to edit the document properties, e.g. author, title, date
+3a org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsAvoidHtml5 3a Check this to avoid the use of elements specific for HTML5
+45 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsExternalTocDepthMarks 5b Select the number of index mark levels to include in the content table in the EPUB document
+40 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsExternalTocDepth 58 Select the number of heading levels to include in the content table in the EPUB document
+3d org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsEpubAutoSplit 4a Enter the number of characters after which an automatic split should occur
+3a org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsCoverImage 46 Check this to use the first image found in the document as cover image
+3d org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsUseImageSplit 57 Select this option to show large images on full screen rather than embedded in the text
+3a org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsIncludeNCX 3d Check this to include navigation information in EPUB 2 format
+3a org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsIndexLinks 56 Check this to add links to alphabetical index and user index to the EPUB content table
+3a org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsSplitLevel 6a Select the heading level at which spliting should occur, or "None" if you do not want to split at headings
+35 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsNotes 44 Check this if you want to export notes (annotations) in the document
+3e org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsPageBreakSplit 43 Select the type page breaks at which you want to split the document
+32 org.openoffice.da.writer2xhtml.oxt%3AOptionsConfig 2d Select the style to use for the EPUB document
+40 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsUseEpubAutoSplit 58 Check this to enable automatic split of long documents based on the number of characters
+3d org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsColumnScaling 42 Select a scaling to apply to all column dimensions in the document
+37 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsScaling 3b Select a scaling to apply to all dimensions in the document
+3a org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsIncludeToc 5a Check this to include the original table of contents in addition to the EPUB content table
+39 org.openoffice.da.writer2xhtml.oxt%3AEpubRelativeFontSize 32 Check this to export all font sizes as percentages
+37 org.openoffice.da.writer2xhtml.oxt%3AEpubUseDefaultFont 32 Check this to replace all fonts with a single font
+44 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsIgnoreHardLineBreaks 40 Check this if you don't want to export hard (manual) line breaks
+38 org.openoffice.da.writer2xhtml.oxt%3AEpubDefaultFontName 5b Enter or select the font name to use (or leave blank to use the EPUB reader's default font)
+45 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsIgnoreEmptyParagraphs 37 Check this if you don't want to export empty paragraphs
+39 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsImageSize 35 Select how to set the image size in the EPUB document
+34 org.openoffice.da.writer2xhtml.oxt%3AEpubFontScaling 32 Select a scaling factor to apply to all font sizes
+42 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsIgnoreDoubleSpaces 42 Check this to treat several spaces as a single space in the export
+3b org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsConvertToPx 56 Check this if you want to convert all units to px rather than using the original units
+3a org.openoffice.da.writer2xhtml.oxt%3AEpubDisplayHiddenText 30 Check this to export and display all hidden text
+36 org.openoffice.da.writer2xhtml.oxt%3AOptionsUseMathjax 52 Check this to load the JavaScript library MathJax for viewing mathematical content
+32 org.openoffice.da.writer2xhtml.oxt%3AOptionsConfig 2e Select the style to use for the XHTML document
+39 org.openoffice.da.writer2xhtml.oxt%3AOptionsColumnScaling 42 Select a scaling to apply to all column dimensions in the document
+40 org.openoffice.da.writer2xhtml.oxt%3AOptionsIgnoreHardLineBreaks 40 Check this if you don't want to export hard (manual) line breaks
+33 org.openoffice.da.writer2xhtml.oxt%3AOptionsScaling 3b Select a scaling to apply to all dimensions in the document
+37 org.openoffice.da.writer2xhtml.oxt%3AOptionsConvertToPx 56 Check this if you want to convert all units to px rather than using the original units
+3d org.openoffice.da.writer2xhtml.oxt%3AOptionsOriginalImageSize 59 Check this to use the natural size of images rather than the size defined in the document
+31 org.openoffice.da.writer2xhtml.oxt%3AOptionsNotes 44 Check this if you want to export notes (annotations) in the document
+3e org.openoffice.da.writer2xhtml.oxt%3AOptionsSaveImagesInSubdir 4d Check this to save images in a subdirectory relative to the exported document
+3e org.openoffice.da.writer2xhtml.oxt%3AOptionsIgnoreDoubleSpaces 42 Check this to treat several spaces as a single space in the export
+41 org.openoffice.da.writer2xhtml.oxt%3AOptionsIgnoreEmptyParagraphs 37 Check this if you don't want to export empty paragraphs
+39 org.openoffice.da.writer2xhtml.oxt%3AOptionsUseDublinCore 4f Check this if you want to export all meta data (using the Dublin Core standard)
+31 org.openoffice.da.writer2latex.oxt%3AOptionsSplit 34 Check this to create a new document for each heading
+36 org.openoffice.da.writer2xhtml.oxt%3AOptionsSplitLevel 3b Select the heading level at which the spliting should occur
+38 org.openoffice.da.writer2xhtml.oxt%3AOptionsRepeatLevels 49 Select the number of heading levels to repeat at the top of new documents
+37 org.openoffice.da.writer2latex.oxt%3AOptionsCalcScaling 3b Select a scaling to apply to all dimensions in the document
+43 org.openoffice.da.writer2latex.oxt%3AOptionsCalcDisplayHiddenSheets 39 Check this to display all sheets, even if they are hidden
+35 org.openoffice.da.writer2latex.oxt%3AOptionsCalcSplit 33 Check this to create a separate file for each sheet
+47 org.openoffice.da.writer2latex.oxt%3AOptionsCalcDisplayFilteredRowsCols 45 Check this to display all rows and columns, even if they are filtered
+47 org.openoffice.da.writer2latex.oxt%3AOptionsCalcUseSheetNamesAsHeadings 41 Check this to insert the sheet name as a heading above each sheet
+42 org.openoffice.da.writer2latex.oxt%3AOptionsCalcSaveImagesInSubdir 4d Check this to save images in a subdirectory relative to the exported document
+3d org.openoffice.da.writer2latex.oxt%3AOptionsCalcColumnScaling 42 Select a scaling to apply to all column dimensions in the document
+3b org.openoffice.da.writer2latex.oxt%3AOptionsCalcConvertToPx 56 Check this if you want to convert all units to px rather than using the original units
+41 org.openoffice.da.writer2latex.oxt%3AOptionsCalcOriginalImageSize 44 Check this if you want to export notes (annotations) in the document
+3d org.openoffice.da.writer2latex.oxt%3AOptionsCalcUseDublinCore 4f Check this if you want to export all meta data (using the Dublin Core standard)
+45 org.openoffice.da.writer2latex.oxt%3AOptionsCalcDisplayHiddenRowsCols 43 Check this to display all rows and columns, even if they are hidden
+36 org.openoffice.da.writer2latex.oxt%3AOptionsCalcConfig 2e Select the style to use for the XHTML document
+40 org.openoffice.da.writer2latex.oxt%3AOptionsCalcApplyPrintRanges 55 Check this to export the print ranges rather than the complete contents of the sheets
+41 org.openoffice.da.writer2latex.oxt%3AOptionsCalcUseTitleAsHeading 34 Check this to insert the document title as a heading
+3b org.openoffice.da.writer2latex%3AEditEPUBDocumentProperties 39 Edit the EPUB document properties of the current document
+2e org.openoffice.da.writer2latex%3APublishAsEPUB 2c Publish the current document as an EPUB file
+2f org.openoffice.da.writer2latex%3APublishAsXHTML 2d Publish the current document as an XHTML file
+3b org.openoffice.da.writer2latex.oxt%3ASettingsEpubExecutable 36 Enter the full path to the application you wish to use
+35 org.openoffice.da.writer2latex.oxt%3ASettingsEpubView 28 Choose the desired behavior after export
+37 org.openoffice.da.writer2latex.oxt%3ASettingsEpubFormat 51 Select the EPUB format to use when clicking the EPUB export button in the toolbar
+3c org.openoffice.da.writer2latex.oxt%3ASettingsXhtmlExecutable 36 Enter the full path to the application you wish to use
+37 org.openoffice.da.writer2latex.oxt%3ASettingsEpubBrowse 1a Browse for the application
+36 org.openoffice.da.writer2latex.oxt%3ASettingsXhtmlView 28 Choose the desired behavior after export
+38 org.openoffice.da.writer2latex.oxt%3ASettingsXhtmlBrowse 1a Browse for the application
+38 org.openoffice.da.writer2latex.oxt%3ASettingsXhtmlFormat 53 Select the XHTML format to use when clicking the XHTML export button in the toolbar

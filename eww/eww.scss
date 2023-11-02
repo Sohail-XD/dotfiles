@@ -1,0 +1,133 @@
+* {
+  all: unset;
+}
+
+$bg: #0f0f0f;
+$bg-alt: #191919;
+$fg: #f0f0f0;
+$fg-alt: #cacaca;
+$fg-alt2: #a0a0a0;
+$black: #262626;
+$gray: #4c4c4c;
+$red: #dd6777;
+$green: #9ec49f;
+$yellow: #ceb188;
+$blue: #a39ec4;
+$blue-alt: #6791C9;
+$magenta: #c49ec4;
+$cyan: #9ec3c4;
+$white: $fg;
+
+
+tooltip {
+  font-family: "Symbols Nerd Font";
+  font-weight: 500;
+  font-size: 1rem;
+  color: $fg;
+  background-color: $bg;
+  border: 5px solid $bg;
+  border-radius: 3.5rem;
+}
+
+.bar {
+  background-color: #282828;	
+  color: #ebdbb2;
+  font-size: 11px;
+
+  & > * {
+    margin: 4px;
+    margin-right: 5px;
+  }
+}
+
+.tray {
+  all: unset
+}
+
+
+
+.workspaces-widget {
+  background-color: #282828;
+  color: #ebdbb2;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-family: "material";
+  font-size: 13px;
+
+  .current  {
+    color: #8ec07c;
+  }
+  
+}
+.segment-top {
+  margin-top: 10px;
+}
+
+.segment-bottom {
+  margin-bottom: 5px;
+}
+
+.volume-metric {
+  background-color: #1d2021;
+  color: #ebdbb2;
+  padding: 0;
+
+  .volume-top > scale {
+    margin-bottom: 5px;
+  }
+
+  slider {
+    all: unset;
+  }
+
+  scale trough highlight {
+    all: unset;
+    //background-color: #8ec07c;
+    background-color: #689d6a;
+    border-bottom-right-radius: 5px;
+  }
+  scale trough {
+    all: unset;
+    background-color: #1d2021;
+    min-width: 34px;
+    min-height: 2px;
+  }
+}
+
+
+.music_button {
+  background-color: #1d2021;
+  padding: 0px 20px;
+  margin: 0;
+}
+
+.large-symbol {
+  font-size: 0.8em;
+}
+
+.metric {
+  background-color: #1d2021;
+  padding: 5px 2px;
+}
+.metric-icon {
+  font-family: "fontawesome6free";
+  font-size: 0.7em;
+}
+
+.time {
+  padding-top: 0px;
+  padding-bottom: 7px;
+  color: #a89984;
+  background-color: #282828;
+}
+
+  
+
+.music_popup {
+  all: unset;
+  background-color: #1d2021;
+  padding: 0px 20px;
+  margin: 0;
+}
+
+@import "player.scss";

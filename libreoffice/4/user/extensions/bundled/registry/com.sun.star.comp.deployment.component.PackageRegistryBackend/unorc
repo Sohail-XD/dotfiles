@@ -1,0 +1,4 @@
+ORIGIN=$BUNDLED_EXTENSIONS_USER/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+UNO_JAVA_CLASSPATH=$BUNDLED_EXTENSIONS/writer2xhtml/writer2xhtml-filter.jar $BUNDLED_EXTENSIONS/writer2latex/writer2latex-filter.jar
+UNO_TYPES=?$BUNDLED_EXTENSIONS/writer2xhtml/writer2xhtml.rdb ?$BUNDLED_EXTENSIONS/writer2latex/writer2latex.rdb
+UNO_SERVICES=?$ORIGIN/common.rdb ${$ORIGIN/${_OS}_${_ARCH}rc:UNO_SERVICES} ?$BUNDLED_EXTENSIONS/wiki-publisher/components.rdb ?$BUNDLED_EXTENSIONS/nlpsolver/components.rdb

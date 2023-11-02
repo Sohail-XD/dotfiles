@@ -1,0 +1,3 @@
+2023/04/11-11:52:07.880 bcc9 Reusing MANIFEST /home/second/.config/falkon/profiles/default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/11-11:52:07.892 bcc9 Recovering log #3
+2023/04/11-11:52:08.580 bcc9 Reusing old log /home/second/.config/falkon/profiles/default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 

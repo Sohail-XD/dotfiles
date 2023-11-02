@@ -1,0 +1,44 @@
+(defwidget top []
+(workspaces))
+
+(defwidget middle [] (time))
+
+(defwidget bottom [] 
+  (box :orientation "v"
+       :valign "end"
+       :space-evenly true
+       :spacing "5"
+
+
+
+    (volume)
+
+    (metric :icon "" 
+            :font-size 0.8
+      "${round((1 - (EWW_DISK["/"].free / EWW_DISK["/"].total)) * 100, 0)}%")
+
+    (metric :icon ""
+	    :font-size 1	
+      "${round(EWW_RAM.used_mem_perc, 0)}%")
+
+    (metric :icon "" 
+	    :font-size 0.9
+    	"${round(EWW_CPU.avg, 0)}%")
+
+    (box :class "metric" (date))))
+
+
+(defwidget bar []
+  (box 
+    :class "bar"
+    :geometry (geometry
+      :height "1080px"
+      :x "0px" :y "0px"
+      :width "38px"
+      :anchor "left corner")
+    :orientation "v"
+    (top)
+    (middle)
+    (bottom)
+  )
+)

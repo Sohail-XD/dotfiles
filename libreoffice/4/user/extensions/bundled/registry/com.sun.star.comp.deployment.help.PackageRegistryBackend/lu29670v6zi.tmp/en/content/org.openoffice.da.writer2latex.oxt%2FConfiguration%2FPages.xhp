@@ -1,0 +1,33 @@
+Pages
+Define how to convert page formatting
+
+        	Choose Tools - Options - Writer2LaTeX - Pages
+
+        
+Page geometry (page size and margins)
+
+Export page geometry
+Check this if you want to export the page geometry. Otherwise the default
+        page geometry of the documentclass will be used.
+
+Use geometry.sty
+Check this to use package geometry.sty to export the geometry of the page.
+        Otherwise the geometry will be exported using low level LaTeX commands.
+
+Export header and footer
+Check this if you want to export the contents of the header and the footer.
+
+Use fancyhdr.sty
+Check this to use the package fancyhdr.sty to export the header and footer of the page.
+        Otherwise the header and footer will be exported using low level LaTeX page style commands.
+Page numbers
+
+Use lastpage.sty
+Check this option to use the package lastpage.sty to represent the page count.
+        Otherwise the page count is not exported (e.g. content like "page 3 of 7" cannot be exported).
+Endnotes
+
+Use endnotes.sty
+Check this to use the package endnotes.sty to format the endnotes in the
+        LaTeX document. Otherwise endnotes will be converted to footnotes.
+

@@ -1,0 +1,150 @@
+40 org.openoffice.da.writer2xhtml.oxt%2FConfiguration%2FContent.xhp 4e <org.openoffice.da.writer2xhtml.oxt/Configuration/Content.xhphelp.jarContent
+2d org.openoffice.da.writer2xhtml.oxt%3AFormulas 60 Norg.openoffice.da.writer2xhtml.oxt/Configuration/Content.xhp#bm_configformulashelp.jarContent
+35 org.openoffice.da.writer2xhtml.oxt%3AFootnotesHeading 68 Vorg.openoffice.da.writer2xhtml.oxt/Configuration/Content.xhp#bm_configfootnotesheadinghelp.jarContent
+34 org.openoffice.da.writer2xhtml.oxt%3AEndnotesHeading 67 Uorg.openoffice.da.writer2xhtml.oxt/Configuration/Content.xhp#bm_configendnotesheadinghelp.jarContent
+2d org.openoffice.da.writer2xhtml.oxt%3AEmbedSvg 60 Norg.openoffice.da.writer2xhtml.oxt/Configuration/Content.xhp#bm_configembedsvghelp.jarContent
+2d org.openoffice.da.writer2xhtml.oxt%3AEmbedImg 60 Norg.openoffice.da.writer2xhtml.oxt/Configuration/Content.xhp#bm_configembedimghelp.jarContent
+43 org.openoffice.da.writer2xhtml.oxt%2FConfiguration%2FFormatting.xhp 54 ?org.openoffice.da.writer2xhtml.oxt/Configuration/Formatting.xhphelp.jar
+Formatting
+2f org.openoffice.da.writer2xhtml.oxt%3AFormatting 68 Sorg.openoffice.da.writer2xhtml.oxt/Configuration/Formatting.xhp#bm_configformattinghelp.jar
+Formatting
+34 org.openoffice.da.writer2xhtml.oxt%3AFrameFormatting 6d Xorg.openoffice.da.writer2xhtml.oxt/Configuration/Formatting.xhp#bm_configframeformattinghelp.jar
+Formatting
+36 org.openoffice.da.writer2xhtml.oxt%3ASectionFormatting 6f Zorg.openoffice.da.writer2xhtml.oxt/Configuration/Formatting.xhp#bm_configsectionformattinghelp.jar
+Formatting
+34 org.openoffice.da.writer2xhtml.oxt%3ATableFormatting 6d Xorg.openoffice.da.writer2xhtml.oxt/Configuration/Formatting.xhp#bm_configtableformattinghelp.jar
+Formatting
+3a org.openoffice.da.writer2xhtml.oxt%3AIgnoreTableDimensions 73 ^org.openoffice.da.writer2xhtml.oxt/Configuration/Formatting.xhp#bm_configignoretabledimensionshelp.jar
+Formatting
+33 org.openoffice.da.writer2xhtml.oxt%3AListFormatting 6c Worg.openoffice.da.writer2xhtml.oxt/Configuration/Formatting.xhp#bm_configlistformattinghelp.jar
+Formatting
+2d org.openoffice.da.writer2xhtml.oxt%3AMaxWidth 66 Qorg.openoffice.da.writer2xhtml.oxt/Configuration/Formatting.xhp#bm_configmaxwidthhelp.jar
+Formatting
+37 org.openoffice.da.writer2xhtml.oxt%3ASeparateStylesheet 70 [org.openoffice.da.writer2xhtml.oxt/Configuration/Formatting.xhp#bm_configseparatestylesheethelp.jar
+Formatting
+40 org.openoffice.da.writer2xhtml.oxt%2FConfiguration%2FGeneral.xhp 4e <org.openoffice.da.writer2xhtml.oxt/Configuration/General.xhphelp.jarContent
+2e org.openoffice.da.writer2xhtml.oxt%3ANoDoctype 61 Oorg.openoffice.da.writer2xhtml.oxt/Configuration/General.xhp#bm_confignodoctypehelp.jarContent
+2d org.openoffice.da.writer2xhtml.oxt%3AEncoding 60 Norg.openoffice.da.writer2xhtml.oxt/Configuration/General.xhp#bm_configencodinghelp.jarContent
+2b org.openoffice.da.writer2xhtml.oxt%3AAddBOM 5e Lorg.openoffice.da.writer2xhtml.oxt/Configuration/General.xhp#bm_configaddbomhelp.jarContent
+38 org.openoffice.da.writer2xhtml.oxt%3AHexadecimalEntities 6b Yorg.openoffice.da.writer2xhtml.oxt/Configuration/General.xhp#bm_confighexadecimalentitieshelp.jarContent
+35 org.openoffice.da.writer2xhtml.oxt%3AUseNamedEntities 68 Vorg.openoffice.da.writer2xhtml.oxt/Configuration/General.xhp#bm_configusenamedentitieshelp.jarContent
+31 org.openoffice.da.writer2xhtml.oxt%3AMultilingual 64 Rorg.openoffice.da.writer2xhtml.oxt/Configuration/General.xhp#bm_configmultilingualhelp.jarContent
+30 org.openoffice.da.writer2xhtml.oxt%3APrettyPrint 63 Qorg.openoffice.da.writer2xhtml.oxt/Configuration/General.xhp#bm_configprettyprinthelp.jarContent
+45 org.openoffice.da.writer2xhtml.oxt%2FConfiguration%2FIntroduction.xhp 58 Aorg.openoffice.da.writer2xhtml.oxt/Configuration/Introduction.xhphelp.jarCustom style
+37 org.openoffice.da.writer2xhtml.oxt%3AConfigIntroduction 6e Worg.openoffice.da.writer2xhtml.oxt/Configuration/Introduction.xhp#bm_configintroductionhelp.jarCustom style
+45 org.openoffice.da.writer2xhtml.oxt%2FConfiguration%2FMasterstyles.xhp 53 Aorg.openoffice.da.writer2xhtml.oxt/Configuration/Masterstyles.xhphelp.jarContent
+30 org.openoffice.da.writer2xhtml.oxt%3AStyleFamily 68 Vorg.openoffice.da.writer2xhtml.oxt/Configuration/Masterstyles.xhp#bm_configstylefamilyhelp.jarContent
+2e org.openoffice.da.writer2xhtml.oxt%3AStyleName 66 Torg.openoffice.da.writer2xhtml.oxt/Configuration/Masterstyles.xhp#bm_configstylenamehelp.jarContent
+2d org.openoffice.da.writer2xhtml.oxt%3ANewStyle 65 Sorg.openoffice.da.writer2xhtml.oxt/Configuration/Masterstyles.xhp#bm_confignewstylehelp.jarContent
+30 org.openoffice.da.writer2xhtml.oxt%3ADeleteStyle 68 Vorg.openoffice.da.writer2xhtml.oxt/Configuration/Masterstyles.xhp#bm_configdeletestylehelp.jarContent
+2c org.openoffice.da.writer2xhtml.oxt%3AElement 64 Rorg.openoffice.da.writer2xhtml.oxt/Configuration/Masterstyles.xhp#bm_configelementhelp.jarContent
+28 org.openoffice.da.writer2xhtml.oxt%3ACss 60 Norg.openoffice.da.writer2xhtml.oxt/Configuration/Masterstyles.xhp#bm_configcsshelp.jarContent
+2b org.openoffice.da.writer2xhtml.oxt%3ABefore 63 Qorg.openoffice.da.writer2xhtml.oxt/Configuration/Masterstyles.xhp#bm_configbeforehelp.jarContent
+2a org.openoffice.da.writer2xhtml.oxt%3AAfter 62 Porg.openoffice.da.writer2xhtml.oxt/Configuration/Masterstyles.xhp#bm_configafterhelp.jarContent
+31 org.openoffice.da.writer2xhtml.oxt%3ABlockElement 69 Worg.openoffice.da.writer2xhtml.oxt/Configuration/Masterstyles.xhp#bm_configblockelementhelp.jarContent
+2d org.openoffice.da.writer2xhtml.oxt%3ABlockCss 65 Sorg.openoffice.da.writer2xhtml.oxt/Configuration/Masterstyles.xhp#bm_configblockcsshelp.jarContent
+31 org.openoffice.da.writer2xhtml.oxt%3ALoadDefaults 69 Worg.openoffice.da.writer2xhtml.oxt/Configuration/Masterstyles.xhp#bm_configloaddefaultshelp.jarContent
+44 org.openoffice.da.writer2xhtml.oxt%2FConfiguration%2FOtherstyles.xhp 57 @org.openoffice.da.writer2xhtml.oxt/Configuration/Otherstyles.xhphelp.jarOther styles
+38 org.openoffice.da.writer2xhtml.oxt%3AFormattingAttribute 74 ]org.openoffice.da.writer2xhtml.oxt/Configuration/Otherstyles.xhp#bm_configformattingattributehelp.jarOther styles
+34 org.openoffice.da.writer2xhtml.oxt%3ACustomAttribute 70 Yorg.openoffice.da.writer2xhtml.oxt/Configuration/Otherstyles.xhp#bm_configcustomattributehelp.jarOther styles
+35 org.openoffice.da.writer2xhtml.oxt%3AAttributeElement 71 Zorg.openoffice.da.writer2xhtml.oxt/Configuration/Otherstyles.xhp#bm_configattributeelementhelp.jarOther styles
+31 org.openoffice.da.writer2xhtml.oxt%3AAttributeCss 6d Vorg.openoffice.da.writer2xhtml.oxt/Configuration/Otherstyles.xhp#bm_configattributecsshelp.jarOther styles
+31 org.openoffice.da.writer2xhtml.oxt%3ATabstopStyle 6d Vorg.openoffice.da.writer2xhtml.oxt/Configuration/Otherstyles.xhp#bm_configtabstopstylehelp.jarOther styles
+44 org.openoffice.da.writer2xhtml.oxt%2FConfiguration%2FStylesheets.xhp 52 @org.openoffice.da.writer2xhtml.oxt/Configuration/Stylesheets.xhphelp.jarContent
+39 org.openoffice.da.writer2xhtml.oxt%3ALinkCustomStylesheet 6a Xorg.openoffice.da.writer2xhtml.oxt/Configuration/Stylesheets.xhp#bm_configlinkstylesheethelp.jarContent
+38 org.openoffice.da.writer2xhtml.oxt%3ACustomStylesheetURL 6f ]org.openoffice.da.writer2xhtml.oxt/Configuration/Stylesheets.xhp#bm_configcustomstylesheeturlhelp.jarContent
+38 org.openoffice.da.writer2xhtml.oxt%3AUseCustomStylesheet 6f ]org.openoffice.da.writer2xhtml.oxt/Configuration/Stylesheets.xhp#bm_configusecustomstylesheethelp.jarContent
+35 org.openoffice.da.writer2xhtml.oxt%3ACustomStylesheet 6c Zorg.openoffice.da.writer2xhtml.oxt/Configuration/Stylesheets.xhp#bm_configcustomstylesheethelp.jarContent
+33 org.openoffice.da.writer2xhtml.oxt%3ALoadStylesheet 6a Xorg.openoffice.da.writer2xhtml.oxt/Configuration/Stylesheets.xhp#bm_configloadstylesheethelp.jarContent
+2e org.openoffice.da.writer2xhtml.oxt%3AResources 65 Sorg.openoffice.da.writer2xhtml.oxt/Configuration/Stylesheets.xhp#bm_configresourceshelp.jarContent
+30 org.openoffice.da.writer2xhtml.oxt%3ANewResource 61 Oorg.openoffice.da.writer2xhtml.oxt/Configuration/Stylesheets.xhp#bm_newresourcehelp.jarContent
+33 org.openoffice.da.writer2xhtml.oxt%3ADeleteResource 64 Rorg.openoffice.da.writer2xhtml.oxt/Configuration/Stylesheets.xhp#bm_deleteresourcehelp.jarContent
+41 org.openoffice.da.writer2xhtml.oxt%2FConfiguration%2FTemplate.xhp 4f =org.openoffice.da.writer2xhtml.oxt/Configuration/Template.xhphelp.jarContent
+36 org.openoffice.da.writer2xhtml.oxt%3AUseCustomTemplate 6a Xorg.openoffice.da.writer2xhtml.oxt/Configuration/Template.xhp#bm_configusecustomtemplatehelp.jarContent
+31 org.openoffice.da.writer2xhtml.oxt%3ALoadTemplate 65 Sorg.openoffice.da.writer2xhtml.oxt/Configuration/Template.xhp#bm_configloadtemplatehelp.jarContent
+2e org.openoffice.da.writer2xhtml.oxt%3AContentId 62 Porg.openoffice.da.writer2xhtml.oxt/Configuration/Template.xhp#bm_configcontentidhelp.jarContent
+2c org.openoffice.da.writer2xhtml.oxt%3APanelId 60 Norg.openoffice.da.writer2xhtml.oxt/Configuration/Template.xhp#bm_configpanelidhelp.jarContent
+2d org.openoffice.da.writer2xhtml.oxt%3AHeaderId 61 Oorg.openoffice.da.writer2xhtml.oxt/Configuration/Template.xhp#bm_configheaderidhelp.jarContent
+2d org.openoffice.da.writer2xhtml.oxt%3AFooterId 61 Oorg.openoffice.da.writer2xhtml.oxt/Configuration/Template.xhp#bm_configfooteridhelp.jarContent
+34 org.openoffice.da.writer2xhtml.oxt%2Fepub_export.xhp 51 2org.openoffice.da.writer2xhtml.oxt/epub_export.xhphelp.jarEPUB Export (Writer)
+30 org.openoffice.da.writer2xhtml.oxt%3AEpubOptions 5c =org.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_optionshelp.jarEPUB Export (Writer)
+36 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsConfig 63 Dorg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_confighelp.jarEPUB Export (Writer)
+37 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsScaling 64 Eorg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_scalinghelp.jarEPUB Export (Writer)
+3d org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsColumnScaling 6a Korg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_columnscalinghelp.jarEPUB Export (Writer)
+40 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsRelativeFontSize 6d Norg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_relativefontsizehelp.jarEPUB Export (Writer)
+3b org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsFontScaling 68 Iorg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_fontscalinghelp.jarEPUB Export (Writer)
+3e org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsUseDefaultFont 6b Lorg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_usedefaultfonthelp.jarEPUB Export (Writer)
+3f org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsDefaultFontName 6c Morg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_defaultfontnamehelp.jarEPUB Export (Writer)
+3b org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsConvertToPx 68 Iorg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_converttopxhelp.jarEPUB Export (Writer)
+39 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsImageSize 66 Gorg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_imagesizehelp.jarEPUB Export (Writer)
+44 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsIgnoreHardLineBreaks 71 Rorg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_ignorehardlinebreakshelp.jarEPUB Export (Writer)
+45 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsIgnoreEmptyParagraphs 72 Sorg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_ignoreemptyparagraphshelp.jarEPUB Export (Writer)
+42 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsIgnoreDoubleSpaces 6f Porg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_ignoredoublespaceshelp.jarEPUB Export (Writer)
+41 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsDisplayHiddenText 6e Oorg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_displayhiddentexthelp.jarEPUB Export (Writer)
+35 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsNotes 62 Corg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_noteshelp.jarEPUB Export (Writer)
+3a org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsSplitLevel 67 Horg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_splitlevelhelp.jarEPUB Export (Writer)
+3e org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsPageBreakSplit 6b Lorg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_pagebreaksplithelp.jarEPUB Export (Writer)
+3d org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsUseImageSplit 6a Korg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_useimagesplithelp.jarEPUB Export (Writer)
+3a org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsImageSplit 67 Horg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_imagesplithelp.jarEPUB Export (Writer)
+3a org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsCoverImage 67 Horg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_coverimagehelp.jarEPUB Export (Writer)
+40 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsUseEpubAutoSplit 6d Norg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_useepubautosplithelp.jarEPUB Export (Writer)
+3d org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsEpubAutoSplit 6a Korg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_epubautosplithelp.jarEPUB Export (Writer)
+40 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsExternalTocDepth 6d Norg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_externaltocdepthhelp.jarEPUB Export (Writer)
+45 org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsExternalTocDepthMarks 72 Sorg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_externaltocdepthmarkshelp.jarEPUB Export (Writer)
+3a org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsIndexLinks 67 Horg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_indexlinkshelp.jarEPUB Export (Writer)
+3a org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsIncludeToc 67 Horg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_includetochelp.jarEPUB Export (Writer)
+3a org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsIncludeNCX 67 Horg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_includencxhelp.jarEPUB Export (Writer)
+3a org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsAvoidHtml5 67 Horg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_includencxhelp.jarEPUB Export (Writer)
+3c org.openoffice.da.writer2xhtml.oxt%3AEpubOptionsEditMetadata 69 Jorg.openoffice.da.writer2xhtml.oxt/epub_export.xhp#bm_options_editmetadatahelp.jarEPUB Export (Writer)
+36 org.openoffice.da.writer2xhtml.oxt%2Fepub_metadata.xhp 60 4org.openoffice.da.writer2xhtml.oxt/epub_metadata.xhphelp.jar!EPUB document properties (Writer)
+31 org.openoffice.da.writer2xhtml.oxt%3AEpubMetadata 6c @org.openoffice.da.writer2xhtml.oxt/epub_metadata.xhp#bm_metadatahelp.jar!EPUB document properties (Writer)
+2f org.openoffice.da.writer2xhtml.oxt%2Fexport.xhp 4d -org.openoffice.da.writer2xhtml.oxt/export.xhphelp.jarXHTML Export (Writer)
+2c org.openoffice.da.writer2xhtml.oxt%3AOptions 58 8org.openoffice.da.writer2xhtml.oxt/export.xhp#bm_optionshelp.jarXHTML Export (Writer)
+32 org.openoffice.da.writer2xhtml.oxt%3AOptionsConfig 5f ?org.openoffice.da.writer2xhtml.oxt/export.xhp#bm_options_confighelp.jarXHTML Export (Writer)
+33 org.openoffice.da.writer2xhtml.oxt%3AOptionsScaling 60 @org.openoffice.da.writer2xhtml.oxt/export.xhp#bm_options_scalinghelp.jarXHTML Export (Writer)
+39 org.openoffice.da.writer2xhtml.oxt%3AOptionsColumnScaling 66 Forg.openoffice.da.writer2xhtml.oxt/export.xhp#bm_options_columnscalinghelp.jarXHTML Export (Writer)
+37 org.openoffice.da.writer2xhtml.oxt%3AOptionsConvertToPx 64 Dorg.openoffice.da.writer2xhtml.oxt/export.xhp#bm_options_converttopxhelp.jarXHTML Export (Writer)
+3d org.openoffice.da.writer2xhtml.oxt%3AOptionsOriginalImageSize 6a Jorg.openoffice.da.writer2xhtml.oxt/export.xhp#bm_options_originalimagesizehelp.jarXHTML Export (Writer)
+31 org.openoffice.da.writer2xhtml.oxt%3AOptionsNotes 5e >org.openoffice.da.writer2xhtml.oxt/export.xhp#bm_options_noteshelp.jarXHTML Export (Writer)
+39 org.openoffice.da.writer2xhtml.oxt%3AOptionsUseDublinCore 66 Forg.openoffice.da.writer2xhtml.oxt/export.xhp#bm_options_usedublincorehelp.jarXHTML Export (Writer)
+40 org.openoffice.da.writer2xhtml.oxt%3AOptionsIgnoreHardLineBreaks 6d Morg.openoffice.da.writer2xhtml.oxt/export.xhp#bm_options_ignorehardlinebreakshelp.jarXHTML Export (Writer)
+41 org.openoffice.da.writer2xhtml.oxt%3AOptionsIgnoreEmptyParagraphs 6e Norg.openoffice.da.writer2xhtml.oxt/export.xhp#bm_options_ignoreemptyparagraphshelp.jarXHTML Export (Writer)
+3e org.openoffice.da.writer2xhtml.oxt%3AOptionsIgnoreDoubleSpaces 6b Korg.openoffice.da.writer2xhtml.oxt/export.xhp#bm_options_ignoredoublespaceshelp.jarXHTML Export (Writer)
+31 org.openoffice.da.writer2xhtml.oxt%3AOptionsSplit 5e >org.openoffice.da.writer2xhtml.oxt/export.xhp#bm_options_splithelp.jarXHTML Export (Writer)
+36 org.openoffice.da.writer2xhtml.oxt%3AOptionsSplitLevel 63 Corg.openoffice.da.writer2xhtml.oxt/export.xhp#bm_options_splitlevelhelp.jarXHTML Export (Writer)
+38 org.openoffice.da.writer2xhtml.oxt%3AOptionsRepeatLevels 65 Eorg.openoffice.da.writer2xhtml.oxt/export.xhp#bm_options_repeatlevelshelp.jarXHTML Export (Writer)
+3e org.openoffice.da.writer2xhtml.oxt%3AOptionsSaveImagesInSubdir 6b Korg.openoffice.da.writer2xhtml.oxt/export.xhp#bm_options_saveimagesinsubdirhelp.jarXHTML Export (Writer)
+36 org.openoffice.da.writer2xhtml.oxt%3AOptionsUseMathjax 63 Corg.openoffice.da.writer2xhtml.oxt/export.xhp#bm_options_usemathjaxhelp.jarXHTML Export (Writer)
+34 org.openoffice.da.writer2xhtml.oxt%2Fexport_calc.xhp 50 2org.openoffice.da.writer2xhtml.oxt/export_calc.xhphelp.jarXHTML Export (Calc)
+30 org.openoffice.da.writer2xhtml.oxt%3AOptionsCalc 5f Aorg.openoffice.da.writer2xhtml.oxt/export_calc.xhp#bm_optionscalchelp.jarXHTML Export (Calc)
+36 org.openoffice.da.writer2xhtml.oxt%3AOptionsCalcConfig 66 Horg.openoffice.da.writer2xhtml.oxt/export_calc.xhp#bm_optionscalc_confighelp.jarXHTML Export (Calc)
+37 org.openoffice.da.writer2xhtml.oxt%3AOptionsCalcScaling 67 Iorg.openoffice.da.writer2xhtml.oxt/export_calc.xhp#bm_optionscalc_scalinghelp.jarXHTML Export (Calc)
+3d org.openoffice.da.writer2xhtml.oxt%3AOptionsCalcColumnScaling 6d Oorg.openoffice.da.writer2xhtml.oxt/export_calc.xhp#bm_optionscalc_columnscalinghelp.jarXHTML Export (Calc)
+3b org.openoffice.da.writer2xhtml.oxt%3AOptionsCalcConvertToPx 6b Morg.openoffice.da.writer2xhtml.oxt/export_calc.xhp#bm_optionscalc_converttopxhelp.jarXHTML Export (Calc)
+41 org.openoffice.da.writer2xhtml.oxt%3AOptionsCalcOriginalImageSize 71 Sorg.openoffice.da.writer2xhtml.oxt/export_calc.xhp#bm_optionscalc_originalimagesizehelp.jarXHTML Export (Calc)
+35 org.openoffice.da.writer2xhtml.oxt%3AOptionsCalcNotes 65 Gorg.openoffice.da.writer2xhtml.oxt/export_calc.xhp#bm_optionscalc_noteshelp.jarXHTML Export (Calc)
+3d org.openoffice.da.writer2xhtml.oxt%3AOptionsCalcUseDublinCore 6d Oorg.openoffice.da.writer2xhtml.oxt/export_calc.xhp#bm_optionscalc_usedublincorehelp.jarXHTML Export (Calc)
+43 org.openoffice.da.writer2xhtml.oxt%3AOptionsCalcDisplayHiddenSheets 6e Porg.openoffice.da.writer2xhtml.oxt/export_calc.xhp#bm_optionsdisplayhiddensheetshelp.jarXHTML Export (Calc)
+45 org.openoffice.da.writer2xhtml.oxt%3AOptionsCalcDisplayHiddenRowsCols 75 Worg.openoffice.da.writer2xhtml.oxt/export_calc.xhp#bm_optionscalc_displayhiddenrowscolshelp.jarXHTML Export (Calc)
+47 org.openoffice.da.writer2xhtml.oxt%3AOptionsCalcDisplayFilteredRowsCols 77 Yorg.openoffice.da.writer2xhtml.oxt/export_calc.xhp#bm_optionscalc_displayfilteredrowscolshelp.jarXHTML Export (Calc)
+40 org.openoffice.da.writer2xhtml.oxt%3AOptionsCalcApplyPrintRanges 70 Rorg.openoffice.da.writer2xhtml.oxt/export_calc.xhp#bm_optionscalc_applyprintrangeshelp.jarXHTML Export (Calc)
+41 org.openoffice.da.writer2xhtml.oxt%3AOptionsCalcUseTitleAsHeading 71 Sorg.openoffice.da.writer2xhtml.oxt/export_calc.xhp#bm_optionscalc_usetitleasheadinghelp.jarXHTML Export (Calc)
+47 org.openoffice.da.writer2xhtml.oxt%3AOptionsCalcUseSheetNamesAsHeadings 77 Yorg.openoffice.da.writer2xhtml.oxt/export_calc.xhp#bm_optionscalc_usesheetnamesasheadingshelp.jarXHTML Export (Calc)
+35 org.openoffice.da.writer2xhtml.oxt%3AOptionsCalcSplit 64 Forg.openoffice.da.writer2xhtml.oxt/export_calc.xhp#bm_optionscalcsplithelp.jarXHTML Export (Calc)
+42 org.openoffice.da.writer2xhtml.oxt%3AOptionsCalcSaveImagesInSubdir 72 Torg.openoffice.da.writer2xhtml.oxt/export_calc.xhp#bm_optionscalc_saveimagesinsubdirhelp.jarXHTML Export (Calc)
+35 org.openoffice.da.writer2xhtml.oxt%2Fintroduction.xhp 4a 3org.openoffice.da.writer2xhtml.oxt/introduction.xhphelp.jarIntroduction
+2d org.openoffice.da.writer2xhtml.oxt%2Fmenu.xhp 46 +org.openoffice.da.writer2xhtml.oxt/menu.xhphelp.jarMenu and toolbar
+2f org.openoffice.da.writer2xhtml%3APublishAsXHTML 59 >org.openoffice.da.writer2xhtml.oxt/menu.xhp#bm_processdocumenthelp.jarMenu and toolbar
+2e org.openoffice.da.writer2xhtml%3APublishAsEPUB 59 >org.openoffice.da.writer2xhtml.oxt/menu.xhp#bm_processdocumenthelp.jarMenu and toolbar
+3b org.openoffice.da.writer2xhtml%3AEditEPUBDocumentProperties 64 Iorg.openoffice.da.writer2xhtml.oxt/menu.xhp#bm_editepubdocumentpropertieshelp.jarMenu and toolbar
+30 org.openoffice.da.writer2xhtml%3AEditCustomStyle 59 >org.openoffice.da.writer2xhtml.oxt/menu.xhp#bm_editcustomstylehelp.jarMenu and toolbar
+31 org.openoffice.da.writer2xhtml.oxt%2Fsettings.xhp 4a /org.openoffice.da.writer2xhtml.oxt/settings.xhphelp.jarToolbar Settings
+33 org.openoffice.da.writer2xhtml.oxt%3ASettingsDialog 5c Aorg.openoffice.da.writer2xhtml.oxt/settings.xhp#bm_settingsdialoghelp.jarToolbar Settings
+38 org.openoffice.da.writer2xhtml.oxt%3ASettingsXhtmlFormat 61 Forg.openoffice.da.writer2xhtml.oxt/settings.xhp#bm_settingsxhtmlformathelp.jarToolbar Settings
+36 org.openoffice.da.writer2xhtml.oxt%3ASettingsXhtmlView 5f Dorg.openoffice.da.writer2xhtml.oxt/settings.xhp#bm_settingsxhtmlviewhelp.jarToolbar Settings
+3c org.openoffice.da.writer2xhtml.oxt%3ASettingsXhtmlExecutable 65 Jorg.openoffice.da.writer2xhtml.oxt/settings.xhp#bm_settingsxhtmlexecutablehelp.jarToolbar Settings
+38 org.openoffice.da.writer2xhtml.oxt%3ASettingsXhtmlBrowse 61 Forg.openoffice.da.writer2xhtml.oxt/settings.xhp#bm_settingsxhtmlbrowsehelp.jarToolbar Settings
+37 org.openoffice.da.writer2xhtml.oxt%3ASettingsEpubFormat 60 Eorg.openoffice.da.writer2xhtml.oxt/settings.xhp#bm_settingsepubformathelp.jarToolbar Settings
+35 org.openoffice.da.writer2xhtml.oxt%3ASettingsEpubView 5e Corg.openoffice.da.writer2xhtml.oxt/settings.xhp#bm_settingsepubviewhelp.jarToolbar Settings
+3b org.openoffice.da.writer2xhtml.oxt%3ASettingsEpubExecutable 64 Iorg.openoffice.da.writer2xhtml.oxt/settings.xhp#bm_settingsepubexecutablehelp.jarToolbar Settings
+37 org.openoffice.da.writer2xhtml.oxt%3ASettingsEpubBrowse 60 Eorg.openoffice.da.writer2xhtml.oxt/settings.xhp#bm_settingsepubbrowsehelp.jarToolbar Settings

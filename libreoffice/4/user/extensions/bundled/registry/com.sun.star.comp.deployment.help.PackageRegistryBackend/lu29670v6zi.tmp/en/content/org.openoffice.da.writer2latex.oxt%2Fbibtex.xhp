@@ -1,0 +1,57 @@
+
+Manage BibTeX reference
+BibTeX is the standard database format for bibliographic references
+        in LaTeX.
+        This dialog is used to insert bibliographic references in %PRODUCTNAME Writer from BibTeX files.
+        This enables you to maintain your references in BibTeX, rather that using the bibliography database
+        in %PRODUCTNAME Writer.
+        
+
+        	Click the Bib
+-button on the toolbar
+        
+The dialog presents a list of BibTeX files from a specific folder.
+        The folder to search is configured in the bibliography settings.
+Using the dialog
+
+BibTeX file
+Select the BibTeX file to use in this list.
+Select the BibTeX file to use
+
+BibTeX entry
+Select the entry to use in this list. The list contains the keys of
+        all entries in the selected BibTeX file.
+        Basic information about the entry is displayed in the field below the list.
+Select the entry to use
+
+Insert reference
+Click this button to insert a bibliographic reference to
+        the currently selected entry.
+Click to insert a reference to the current entry
+
+Update references
+Click this to update all bibliographic references in the document.
+        You should do this if you have edited a BibTeX file. This will ensure that
+        the content of all references is in sync with the current content of the BibTeX files.
+        Writer2LaTeX will display a message to confirm the result.
+Click to update the content of all references
+
+Close
+Click this button to close the dialog.
+Click to close the dialog
+
+New
+Click this button create a new BibTeX file in the configured
+        directory. Enter a name for the file in the dialog.
+Click to create a new BibTeX file
+
+Edit
+Click this button to edit the currently selected BibTeX file.
+        The file will open in your default BibTeX editor. If no default BibTeX editor was found on your system,
+        an error message is displayed.
+Click to edit the current file in your BibTeX editor
+
+Reload
+Click this button to reload the BibTeX files in the dialog.
+Click to reload the BibTeX files
+
